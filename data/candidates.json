@@ -1,128 +1,51 @@
 [
   {
-    "url": "https://www.ctinsider.com/news/article/kerry-terraciano-putnam-dies-tractor-trailer-crash-22337232.php",
-    "title": "Putnam man killed in Rhode Island crash remembered for 'quick wit and mischievous smile' - CT Insider",
-    "published": "2026-07-08T07:00:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.facebook.com/NBC6SouthFlorida/posts/surveillance-video-appears-to-show-a-person-running-from-a-crash-that-left-sever/1556873972473590/",
     "title": "Surveillance video appears to show a person running from a crash that left several people injured in West Little River on Wednesday. - facebook.com",
     "published": "2026-07-09T11:15:27+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.thecanadianpressnews.ca/prairies_bc/manitoba/man-87-facing-charge-after-84-year-old-hit-by-car-winnipeg-police/article_39f96ffe-15b3-5f24-88bb-d5291a37c48c.html",
     "title": "Man, 87, facing charge after 84-year-old hit by car: Winnipeg police - thecanadianpressnews.ca",
     "published": "2026-07-04T18:26:04+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://www.annistonstar.com/the_st_clair_times/stclair_news/odenville-man-charged-with-hit-and-run-reckless-endangerment/article_4b2702a6-b640-4327-9014-fcad198dc205.html",
-    "title": "Odenville man charged with hit-and-run, reckless endangerment - The Anniston Star",
-    "published": "2026-07-17T02:09:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.bakersfield.com/news/pedestrian-suffers-life-threatening-injuries-in-hit-and-run-on-california-avenue/article_32ced0e3-5365-4526-94d2-79ce6e35b475.html",
     "title": "Pedestrian suffers life-threatening injuries in hit-and-run on California Avenue - Bakersfield.com",
     "published": "2026-06-19T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.facebook.com/Boston25News/posts/the-suspect-in-a-deadly-mattapan-crash-and-carjacking-was-in-court-monday-ordere/1492077299620598/",
     "title": "The suspect in a deadly Mattapan crash and carjacking was in court Monday, ordered to undergo a 20-day mental health evaluation at Bridgewater State Hospital. - facebook.com",
     "published": "2026-06-22T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://dentonrc.com/news/corinth/corinth-police-arrest-denton-suspects-in-fatal-hit-and-run-crash-on-i-35e/article_3e483587-14eb-48a4-ac4e-9f21844ef24f.html",
     "title": "Corinth police arrest Denton suspects in fatal hit-and-run crash on I-35E - Denton Record-Chronicle",
     "published": "2026-07-07T22:53:38+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.msn.com/en-us/news/crime/19-year-old-faces-murder-charge-in-stabbing-death-on-providence-pedestrian-bridge/ar-AA284XX2",
     "title": "19-year-old faces murder charge in stabbing death on Providence pedestrian bridge - MSN",
     "published": "2026-07-17T03:39:58+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://www.bostonglobe.com/video/2026/07/16/metro/mayor-michelle-wu-speaks-at-vigil-for-cyclist-killed-in-fatal-crash/",
+    "title": "Mayor Michelle Wu speaks at vigil for cyclist killed in fatal crash - The Boston Globe",
+    "published": "2026-07-17T03:13:35+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 1
-  },
-  {
-    "url": "https://www.yahoo.com/news/us/articles/mass-state-police-trooper-killed-134319472.html",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.nbcboston.com/news/local/hopkinton-rhode-island-deadly-motorcycle-crash/3978573/",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/police-respond-to-motorcycle-crash-on-i-195-west-in-providence-first-responders-accident-july-10-2026",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://fallriverreporter.com/fall-river-man-killed-in-motorcycle-crash-on-route-195-remembered-for-love-of-cars-giving-a-helping-hand/",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://fallriverreporter.com/man-who-died-in-tragic-rhode-island-motorcycle-crash-remembered-for-smile-bubble-personality/",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://patch.com/rhode-island/eastgreenwich/80-year-old-north-kingstown-man-killed-east-greenwich-motorcycle-crash",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.wpri.com/news/local-news/se-mass/police-investigate-crash-involving-pedestrian-in-dartmouth/",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/man-seriously-injured-after-motorcycle-crash-in-portsmouth",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/man-injured-in-motorcycle-crash-in-federal-hill-announces-run-for-providence-city-council-ward-5-plans-campaign-republican-june-23-2026",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/road-closed-after-motorcycle-crash-in-east-greenwich-frenchtown-road-july-16-2026",
-    "title": "",
-    "published": "",
-    "source": "requeued-cyclist",
-    "attempts": 0
   }
 ]

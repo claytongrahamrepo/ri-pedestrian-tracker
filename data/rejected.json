@@ -134,5 +134,61 @@
   {
     "url": "https://www.golocalprov.com/news/new-man-struck-and-killed-by-amtrak-train-overnight",
     "reason": "struck by train, not a motor vehicle (removed manually)"
+  },
+  {
+    "url": "https://www.ctinsider.com/news/article/kerry-terraciano-putnam-dies-tractor-trailer-crash-22337232.php",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.annistonstar.com/the_st_clair_times/stclair_news/odenville-man-charged-with-hit-and-run-reckless-endangerment/article_4b2702a6-b640-4327-9014-fcad198dc205.html",
+    "reason": "The incident occurred in Odenville, Alabama, not Rhode Island."
+  },
+  {
+    "url": "https://www.yahoo.com/news/us/articles/mass-state-police-trooper-killed-134319472.html",
+    "reason": "The article reports on a motorcycle crash involving a state trooper, not a pedestrian or other non-vehicle occupant being struck."
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/hopkinton-rhode-island-deadly-motorcycle-crash/3978573/",
+    "reason": "The article reports on a motorcycle crash involving a rider, not a pedestrian or other non-vehicle occupant."
+  },
+  {
+    "url": "https://turnto10.com/news/local/police-respond-to-motorcycle-crash-on-i-195-west-in-providence-first-responders-accident-july-10-2026",
+    "reason": "The article reports on a motorcycle crash involving a motor vehicle occupant, not a pedestrian or cyclist."
+  },
+  {
+    "url": "https://fallriverreporter.com/fall-river-man-killed-in-motorcycle-crash-on-route-195-remembered-for-love-of-cars-giving-a-helping-hand/",
+    "reason": "The article reports on a motorcycle crash involving a vehicle occupant, not a pedestrian or cyclist."
+  },
+  {
+    "url": "https://fallriverreporter.com/man-who-died-in-tragic-rhode-island-motorcycle-crash-remembered-for-smile-bubble-personality/",
+    "reason": "The article reports on a motorcycle crash involving a rider, not a pedestrian or other non-vehicle occupant."
+  },
+  {
+    "url": "https://patch.com/rhode-island/eastgreenwich/80-year-old-north-kingstown-man-killed-east-greenwich-motorcycle-crash",
+    "reason": "The article reports on a motorcycle crash involving a motorcycle operator, not a pedestrian or other non-vehicle occupant."
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/se-mass/police-investigate-crash-involving-pedestrian-in-dartmouth/",
+    "reason": "The incident occurred in Dartmouth, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-seriously-injured-after-motorcycle-crash-in-portsmouth",
+    "reason": "The article reports on a motorcycle crash, which does not involve a person outside a motor vehicle being struck."
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-injured-in-motorcycle-crash-in-federal-hill-announces-run-for-providence-city-council-ward-5-plans-campaign-republican-june-23-2026",
+    "reason": "The article discusses a motorcycle crash involving a person who was a motorcycle rider, not a pedestrian or other non-vehicle occupant."
+  },
+  {
+    "url": "https://turnto10.com/news/local/road-closed-after-motorcycle-crash-in-east-greenwich-frenchtown-road-july-16-2026",
+    "reason": "The article reports on a motorcycle crash, which does not involve a person outside a motor vehicle being struck."
+  },
+  {
+    "url": "https://www.bostonglobe.com/2026/07/15/metro/louisa-gag-cyclist-truck-death/",
+    "reason": "The incident occurred in Boston, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/the-daily-sun-1591630/4774614326202-child-airlifted-after-being-struck-by-car",
+    "reason": "The incident occurred in North Port, Florida, not Rhode Island."
   }
 ]
