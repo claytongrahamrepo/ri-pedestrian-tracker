@@ -1,0 +1,39 @@
+{
+  "google_news_queries": [
+    "pedestrian struck \"Rhode Island\"",
+    "pedestrian killed \"Rhode Island\"",
+    "pedestrian \"hit by a car\" \"Rhode Island\"",
+    "hit-and-run pedestrian \"Rhode Island\"",
+    "pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")"
+  ],
+  "title_filter": [
+    "pedestrian",
+    "struck",
+    "crosswalk",
+    "hit-and-run",
+    "hit and run",
+    "hit by",
+    "run over",
+    "crash",
+    "collision",
+    "roadway",
+    "jaywalk"
+  ],
+  "outlet_feeds": [
+    "https://www.wpri.com/feed/"
+  ],
+  "keyword_filter": [
+    "pedestrian",
+    "crosswalk",
+    "hit-and-run",
+    "hit and run",
+    "struck by",
+    "hit by a car",
+    "hit by a vehicle",
+    "hit by a truck",
+    "hit by an suv"
+  ],
+  "model": "openai/gpt-4o-mini",
+  "max_articles_per_run": 40,
+  "lookback_days": 3
+}
