@@ -1,32 +1,10 @@
 [
   {
-    "id": "ee6547cb5cc4",
-    "incident_date": "2026-06-18",
-    "date_precision": "day",
-    "city": "Staten Island",
-    "location_text": "Decker Avenue",
-    "severity": "fatal",
-    "pedestrians_struck": 1,
-    "victim_age": 60,
-    "hit_and_run": true,
-    "summary": "A 60-year-old woman was struck by a speeding hit-and-run driver while waiting to cross the street on Decker Avenue.",
-    "confidence": "high",
-    "sources": [
-      "https://abc7ny.com/post/staten-island-hit-run-diana-rolon-grave-condition-being-struck-family-praying-miracle/19376313/"
-    ],
-    "lat": null,
-    "lon": null,
-    "geocode_method": null,
-    "geocode_attempts": 1,
-    "needs_review": false,
-    "added": "2026-07-17"
-  },
-  {
     "id": "c8623db79414",
     "incident_date": "2026-06-07",
     "date_precision": "day",
     "city": "East Providence",
-    "location_text": "Shaw’s supermarket parking lot",
+    "location_text": "Shaw\u2019s supermarket parking lot",
     "severity": "fatal",
     "pedestrians_struck": 1,
     "victim_age": 92,
@@ -38,28 +16,6 @@
     ],
     "lat": 41.8194081,
     "lon": -71.376257,
-    "geocode_method": "city-centroid",
-    "geocode_attempts": 1,
-    "needs_review": true,
-    "added": "2026-07-17"
-  },
-  {
-    "id": "941b75563375",
-    "incident_date": "2026-06-27",
-    "date_precision": "day",
-    "city": "Hartford",
-    "location_text": "Ledyard Street, south of Wawarme Avenue",
-    "severity": "fatal",
-    "pedestrians_struck": 1,
-    "victim_age": 31,
-    "hit_and_run": true,
-    "summary": "A 31-year-old female pedestrian was killed in a hit-and-run crash in Hartford.",
-    "confidence": "high",
-    "sources": [
-      "https://fallriverreporter.com/31-year-old-rhode-island-native-mother-of-3-killed-in-hit-and-run-pedestrian-crash-online-fundraiser-created/"
-    ],
-    "lat": 41.8189872,
-    "lon": -71.4614415,
     "geocode_method": "city-centroid",
     "geocode_attempts": 1,
     "needs_review": true,

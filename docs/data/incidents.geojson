@@ -26,32 +26,6 @@
         ],
         "approximate": true
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.4614415,
-          41.8189872
-        ]
-      },
-      "properties": {
-        "id": "941b75563375",
-        "date": "2026-06-27",
-        "date_precision": "day",
-        "city": "Hartford",
-        "location": "Ledyard Street, south of Wawarme Avenue",
-        "severity": "fatal",
-        "pedestrians_struck": 1,
-        "victim_age": 31,
-        "hit_and_run": true,
-        "summary": "A 31-year-old female pedestrian was killed in a hit-and-run crash in Hartford.",
-        "sources": [
-          "https://fallriverreporter.com/31-year-old-rhode-island-native-mother-of-3-killed-in-hit-and-run-pedestrian-crash-online-fundraiser-created/"
-        ],
-        "approximate": true
-      }
     }
   ]
 }

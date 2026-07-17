@@ -66,5 +66,13 @@
   {
     "url": "https://patch.com/rhode-island/eastgreenwich/80-year-old-north-kingstown-man-killed-east-greenwich-motorcycle-crash",
     "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
+  },
+  {
+    "url": "https://abc7ny.com/post/staten-island-hit-run-diana-rolon-grave-condition-being-struck-family-praying-miracle/19376313/",
+    "reason": "crash occurred in Staten Island, outside RI (removed manually)"
+  },
+  {
+    "url": "https://fallriverreporter.com/31-year-old-rhode-island-native-mother-of-3-killed-in-hit-and-run-pedestrian-crash-online-fundraiser-created/",
+    "reason": "crash occurred in Hartford, outside RI (removed manually)"
   }
 ]

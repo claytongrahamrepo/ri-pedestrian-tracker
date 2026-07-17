@@ -12,6 +12,7 @@ the "Models" read permission.
 import hashlib
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -32,10 +33,16 @@ articles. Respond with a single JSON object, no other text:
 {
   "relevant": bool,      // true only if the article reports a pedestrian (a
                          // person on foot, incl. in a wheelchair or on a
-                         // scooter) being struck by a motor vehicle in Rhode
-                         // Island, USA. Cyclists, vehicle-only crashes,
-                         // out-of-state incidents, and general road-safety
-                         // stories are NOT relevant.
+                         // scooter) being struck by a motor vehicle, and the
+                         // crash itself happened in Rhode Island, USA.
+                         // A Rhode Island resident or native struck in another
+                         // state is NOT relevant — what matters is where the
+                         // crash occurred. Note that Seekonk, Attleboro, Fall
+                         // River, and Dartmouth are in Massachusetts, not RI.
+                         // Cyclists, vehicle-only crashes, and general
+                         // road-safety stories are NOT relevant.
+  "state": string,       // two-letter state where the crash occurred ("RI",
+                         // "MA", ...)
   "incident_date": "YYYY-MM-DD" | null,  // date of the crash itself. Resolve
                          // relative phrases ("Tuesday night", "last week")
                          // against the article publish date you are given.
@@ -58,15 +65,54 @@ A follow-up story about a previously reported crash IS relevant (it will be
 deduplicated later)."""
 
 
+BROWSER_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+# Free text-extraction proxy for outlets that 403 datacenter IPs (WPRI,
+# GoLocalProv block GitHub Actions runners directly).
+READER_PREFIX = "https://r.jina.ai/"
+
+
 def fetch_article_text(url: str) -> str | None:
-    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
-    resp.raise_for_status()
+    try:
+        resp = requests.get(url, headers=BROWSER_HEADERS, timeout=20)
+        resp.raise_for_status()
+    except requests.HTTPError as e:
+        if e.response is not None and e.response.status_code in (401, 403, 451):
+            print("  . direct fetch blocked, trying reader proxy")
+            return fetch_via_reader(url)
+        raise
     soup = BeautifulSoup(resp.text, "html.parser")
     for tag in soup(["script", "style", "nav", "footer", "aside"]):
         tag.decompose()
     container = soup.find("article") or soup.body or soup
     paragraphs = [p.get_text(" ", strip=True) for p in container.find_all("p")]
     text = "\n".join(p for p in paragraphs if len(p) > 30)
+    return text[:MAX_ARTICLE_CHARS] if len(text) > 200 else None
+
+
+def fetch_via_reader(url: str) -> str | None:
+    resp = requests.get(READER_PREFIX + url, timeout=40)
+    resp.raise_for_status()
+    # The reader returns markdown full of nav junk. Strip inline links, then
+    # keep the metadata header plus prose-length lines only — menu items are
+    # short, article paragraphs are long.
+    kept = []
+    for i, ln in enumerate(resp.text.splitlines()):
+        if i < 5 and ln.startswith(("Title:", "URL Source:", "Published Time:")):
+            kept.append(ln)
+            continue
+        prev = None
+        while prev != ln:  # nested [![alt](img)](page) needs repeated passes
+            prev = ln
+            ln = re.sub(r"!?\[([^\]]*)\]\([^)]*\)", r"\1", ln)
+        ln = ln.strip(" *#")
+        if len(ln) >= 80:
+            kept.append(ln)
+    text = "\n".join(kept)
     return text[:MAX_ARTICLE_CHARS] if len(text) > 200 else None
 
 
@@ -199,11 +245,12 @@ def main():
             break
 
         processed += 1
-        if not result.get("relevant"):
-            rejected.append(
-                {"url": cand["url"], "reason": result.get("summary", "not relevant")}
-            )
-            print(f"  - not relevant: {result.get('summary', '')[:80]}")
+        if not result.get("relevant") or result.get("state", "RI") != "RI":
+            reason = result.get("summary", "not relevant")
+            if result.get("relevant"):
+                reason = f"crash occurred in {result.get('state')}, not RI"
+            rejected.append({"url": cand["url"], "reason": reason})
+            print(f"  - not relevant: {reason[:80]}")
             continue
 
         dup = find_duplicate(incidents, result)
