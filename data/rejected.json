@@ -74,5 +74,101 @@
   {
     "url": "https://fallriverreporter.com/31-year-old-rhode-island-native-mother-of-3-killed-in-hit-and-run-pedestrian-crash-online-fundraiser-created/",
     "reason": "crash occurred in Hartford, outside RI (removed manually)"
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/se-mass/teen-on-e-bike-hit-by-car-in-seekonk/",
+    "reason": "The incident occurred in Seekonk, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/providence/man-killed-in-stabbing-on-pedestrian-bridge-in-providence/",
+    "reason": "The article reports on a stabbing incident, not a pedestrian traffic incident involving a motor vehicle."
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/providence/suspect-arrested-in-deadly-stabbing-on-providence-pedestrian-bridge/",
+    "reason": "The article reports on a stabbing incident, not a pedestrian traffic incident involving a motor vehicle."
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/se-mass/police-investigate-crash-involving-pedestrian-in-dartmouth/",
+    "reason": "The article reports on a bicyclist being killed in a crash, but the incident occurred in Dartmouth, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://dailyvoice.com/article/putnams-kerry-terraciano-remembered-for-his-love-of-family/",
+    "reason": "The article reports on a man killed in a crash with a tractor-trailer, not involving a pedestrian being struck."
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/man-hit-by-car-in-stoughton/3968452/",
+    "reason": "The incident occurred in Stoughton, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-seriously-injured-after-motorcycle-crash-in-portsmouth",
+    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
+  },
+  {
+    "url": "https://nwitimes.com/news/local/crime-courts/article_84adfe77-f829-4e2e-b1c0-4f6ccca0adcc.html",
+    "reason": "The article reports on a pedestrian fatality in Starke County, Indiana, not Rhode Island."
+  },
+  {
+    "url": "https://www.nj.com/ocean/2026/06/jacksons-law-nj-teens-hit-and-run-death-sparks-push-for-new-legislation-in-his-honor.html",
+    "reason": "The article reports on a hit-and-run incident involving a New Jersey teen, not in Rhode Island."
+  },
+  {
+    "url": "https://www.newjerseyhills.com/west_essex_tribune/news/arrest-made-in-fatal-hit-and-run-crash-that-killed-two-newark-women/article_5abbf29f-3197-4908-b02a-4309ced200bf.html",
+    "reason": "The incident occurred in Newark, New Jersey, not Rhode Island."
+  },
+  {
+    "url": "https://abc7ny.com/post/2-women-fatally-struck-newark-hit-run-search-driver-ongoing/19353814/",
+    "reason": "The incident occurred in Newark, New Jersey, not Rhode Island."
+  },
+  {
+    "url": "https://patch.com/rhode-island/johnston/providence-man-charged-hit-run-crash-captured-during-traffic-stop-cops",
+    "reason": "The article reports on a hit-and-run involving a vehicle but does not mention a pedestrian being struck."
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/blue-hill-avenue-pedestrian-crash-death-carjacking/3968854/",
+    "reason": "The incident occurred in Boston, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://abc7ny.com/post/search-hit-run-driver-struck-6-year-old-boy-east-new-york-brooklyn/19525741/",
+    "reason": "The incident occurred in Brooklyn, New York, not Rhode Island."
+  },
+  {
+    "url": "https://www.aol.com/news/pedestrian-killed-hit-run-crash-093727077.html",
+    "reason": "The article reports a pedestrian incident that occurred in Las Vegas, Nevada, not Rhode Island."
+  },
+  {
+    "url": "https://www.aol.com/articles/police-arrest-deadly-providence-pedestrian-172812000.html",
+    "reason": "The article reports on a stabbing incident involving a pedestrian but does not involve a motor vehicle striking a pedestrian."
+  },
+  {
+    "url": "https://www.aol.com/news/osheas-host-memorial-connor-blais-224512229.html",
+    "reason": "The article reports on a memorial for a bartender killed in a crash in West Palm Beach, Florida, not Rhode Island."
+  },
+  {
+    "url": "https://www.providencejournal.com/story/news/crime/2026/06/22/warwick-police-investigate-mans-death-on-train-track/90639782007/",
+    "reason": "The article reports a man being struck by a train, not a motor vehicle."
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-injured-in-motorcycle-crash-in-federal-hill-announces-run-for-providence-city-council-ward-5-plans-campaign-republican-june-23-2026",
+    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
+  },
+  {
+    "url": "https://www.aol.com/articles/man-dies-stabbing-providence-pedestrian-131715412.html",
+    "reason": "The article reports on a fatal stabbing incident, not a pedestrian traffic incident involving a motor vehicle."
+  },
+  {
+    "url": "https://turnto10.com/news/local/pawtucket-man-sentenced-to-10-years-in-prison-for-fleeing-crash-that-killed-passenger-lincoln-new-years-day-accident-aci-july-17-2026",
+    "reason": "The article reports on a sentencing related to a crash that resulted in a passenger's death, but it does not mention a pedestrian being struck."
+  },
+  {
+    "url": "https://turnto10.com/news/local/road-closed-after-motorcycle-crash-in-east-greenwich-frenchtown-road-july-16-2026",
+    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
+  },
+  {
+    "url": "https://www.kake.com/home/man-killed-in-rollover-crash-on-kansas-highway/article_10cda54d-9e55-4230-97ca-9f49d2a07a6f.html",
+    "reason": "The article reports on a rollover crash in Kansas, not involving a pedestrian."
+  },
+  {
+    "url": "https://www.newsbreak.com/brproud-1590545/4776018682708-84-year-old-man-killed-in-east-baton-rouge-parish-crash-coroner-confirms",
+    "reason": "The article reports on a single-vehicle crash in Louisiana, not involving a pedestrian or occurring in Rhode Island."
   }
 ]

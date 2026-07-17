@@ -1,240 +1,58 @@
 [
   {
-    "url": "https://www.wpri.com/news/local-news/se-mass/teen-on-e-bike-hit-by-car-in-seekonk/",
-    "title": "Teen on e-bike hit by car in Seekonk - WPRI.com",
-    "published": "2026-06-19T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://www.wpri.com/news/local-news/providence/man-killed-in-stabbing-on-pedestrian-bridge-in-providence/",
-    "title": "Man killed in stabbing on pedestrian bridge in Providence - WPRI.com",
-    "published": "2026-07-15T09:56:08+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://www.golocalprov.com/news/new-man-struck-and-killed-by-amtrak-train-overnight",
-    "title": "NEW: Man Struck and Killed by Amtrak Train Overnight - Go Local Prov",
-    "published": "2026-06-22T07:00:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://www.wpri.com/news/local-news/providence/suspect-arrested-in-deadly-stabbing-on-providence-pedestrian-bridge/",
-    "title": "Suspect arrested in deadly stabbing on Providence pedestrian bridge - WPRI.com",
-    "published": "2026-07-16T16:31:02+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://www.wpri.com/news/local-news/se-mass/police-investigate-crash-involving-pedestrian-in-dartmouth/",
-    "title": "74-year-old bicyclist killed in Dartmouth crash - WPRI.com",
-    "published": "2026-07-13T17:29:38+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
     "url": "https://www.ctinsider.com/news/article/kerry-terraciano-putnam-dies-tractor-trailer-crash-22337232.php",
     "title": "Putnam man killed in Rhode Island crash remembered for 'quick wit and mischievous smile' - CT Insider",
     "published": "2026-07-08T07:00:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.facebook.com/NBC6SouthFlorida/posts/surveillance-video-appears-to-show-a-person-running-from-a-crash-that-left-sever/1556873972473590/",
     "title": "Surveillance video appears to show a person running from a crash that left several people injured in West Little River on Wednesday. - facebook.com",
     "published": "2026-07-09T11:15:27+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://dailyvoice.com/article/putnams-kerry-terraciano-remembered-for-his-love-of-family/",
-    "title": "'We Miss Him Dearly': Family Remembers Putnam Man Killed In Tractor-Trailer Crash - DailyVoice.com",
-    "published": "2026-07-08T16:49:32+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.nbcboston.com/news/local/man-hit-by-car-in-stoughton/3968452/",
-    "title": "Man hit by car in Stoughton - NBC Boston",
-    "published": "2026-06-20T07:00:00+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/man-seriously-injured-after-motorcycle-crash-in-portsmouth",
-    "title": "Man seriously injured after motorcycle crash in Portsmouth - WJAR",
-    "published": "2026-06-20T07:00:00+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.thecanadianpressnews.ca/prairies_bc/manitoba/man-87-facing-charge-after-84-year-old-hit-by-car-winnipeg-police/article_39f96ffe-15b3-5f24-88bb-d5291a37c48c.html",
     "title": "Man, 87, facing charge after 84-year-old hit by car: Winnipeg police - thecanadianpressnews.ca",
     "published": "2026-07-04T18:26:04+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://nwitimes.com/news/local/crime-courts/article_84adfe77-f829-4e2e-b1c0-4f6ccca0adcc.html",
-    "title": "Pedestrian killed in Starke County hit-and-run ID'd, police urge driver to come forward - nwitimes.com",
-    "published": "2026-06-29T07:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.nj.com/ocean/2026/06/jacksons-law-nj-teens-hit-and-run-death-sparks-push-for-new-legislation-in-his-honor.html",
-    "title": "‘Jackson’s Law’: N.J. teen’s hit-and-run death sparks push for new legislation in his honor - NJ.com",
-    "published": "2026-06-23T07:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.newjerseyhills.com/west_essex_tribune/news/arrest-made-in-fatal-hit-and-run-crash-that-killed-two-newark-women/article_5abbf29f-3197-4908-b02a-4309ced200bf.html",
-    "title": "Arrest made in fatal hit-and-run crash that killed two Newark women - New Jersey Hills Media Group",
-    "published": "2026-06-26T07:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.annistonstar.com/the_st_clair_times/stclair_news/odenville-man-charged-with-hit-and-run-reckless-endangerment/article_4b2702a6-b640-4327-9014-fcad198dc205.html",
     "title": "Odenville man charged with hit-and-run, reckless endangerment - The Anniston Star",
     "published": "2026-07-17T02:09:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.wpri.com/news/local-news/providence/woman-run-over-by-car-in-providence-parking-lot/",
-    "title": "Woman run over by car in Providence parking lot - WPRI.com",
-    "published": "2026-06-29T07:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.bakersfield.com/news/pedestrian-suffers-life-threatening-injuries-in-hit-and-run-on-california-avenue/article_32ced0e3-5365-4526-94d2-79ce6e35b475.html",
     "title": "Pedestrian suffers life-threatening injuries in hit-and-run on California Avenue - Bakersfield.com",
     "published": "2026-06-19T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://abc7ny.com/post/2-women-fatally-struck-newark-hit-run-search-driver-ongoing/19353814/",
-    "title": "2 women fatally struck in Newark hit-and-run; search for driver ongoing - ABC7 New York",
-    "published": "2026-06-22T07:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://patch.com/rhode-island/johnston/providence-man-charged-hit-run-crash-captured-during-traffic-stop-cops",
-    "title": "Providence Man Charged With Hit-And-Run Crash Captured During Traffic Stop: Cops - Patch",
-    "published": "2026-07-16T17:48:49+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.facebook.com/Boston25News/posts/the-suspect-in-a-deadly-mattapan-crash-and-carjacking-was-in-court-monday-ordere/1492077299620598/",
     "title": "The suspect in a deadly Mattapan crash and carjacking was in court Monday, ordered to undergo a 20-day mental health evaluation at Bridgewater State Hospital. - facebook.com",
     "published": "2026-06-22T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.nbcboston.com/news/local/blue-hill-avenue-pedestrian-crash-death-carjacking/3968854/",
-    "title": "Man charged with murder in Mattapan pedestrian crash - NBC Boston",
-    "published": "2026-06-21T07:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://abc7ny.com/post/search-hit-run-driver-struck-6-year-old-boy-east-new-york-brooklyn/19525741/",
-    "title": "Search for hit-and-run driver who struck 6-year-old boy in East New York, Brooklyn - ABC7 New York",
-    "published": "2026-07-17T11:51:29+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://dentonrc.com/news/corinth/corinth-police-arrest-denton-suspects-in-fatal-hit-and-run-crash-on-i-35e/article_3e483587-14eb-48a4-ac4e-9f21844ef24f.html",
     "title": "Corinth police arrest Denton suspects in fatal hit-and-run crash on I-35E - Denton Record-Chronicle",
     "published": "2026-07-07T22:53:38+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.aol.com/news/pedestrian-killed-hit-run-crash-093727077.html",
-    "title": "Pedestrian killed in hit-and-run crash on Nolensville Road - AOL.com",
-    "published": "2026-07-06T09:37:27+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.aol.com/articles/police-arrest-deadly-providence-pedestrian-172812000.html",
-    "title": "Police make arrest in deadly Providence pedestrian bridge stabbing - AOL.com",
-    "published": "2026-07-16T20:26:38+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.aol.com/news/osheas-host-memorial-connor-blais-224512229.html",
-    "title": "O'Shea's to host memorial for Connor Blais, bartender killed in crash - AOL.com",
-    "published": "2026-07-11T22:45:12+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.providencejournal.com/story/news/crime/2026/06/22/warwick-police-investigate-mans-death-on-train-track/90639782007/",
-    "title": "Man struck, killed by Amtrak train in Warwick - The Providence Journal",
-    "published": "2026-06-22T07:00:00+00:00",
-    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/man-injured-in-motorcycle-crash-in-federal-hill-announces-run-for-providence-city-council-ward-5-plans-campaign-republican-june-23-2026",
-    "title": "Man injured in motorcycle crash in Federal Hill announces run for Providence City Council - WJAR",
-    "published": "2026-06-23T07:00:00+00:00",
-    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.aol.com/articles/man-dies-stabbing-providence-pedestrian-131715412.html",
-    "title": "Homeless man dies after stabbing at Providence pedestrian bridge - AOL.com",
-    "published": "2026-07-15T19:17:14+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/pawtucket-man-sentenced-to-10-years-in-prison-for-fleeing-crash-that-killed-passenger-lincoln-new-years-day-accident-aci-july-17-2026",
-    "title": "Pawtucket man sentenced to 10 years in prison for fleeing crash that killed passenger - WJAR",
-    "published": "2026-07-17T16:02:47+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://turnto10.com/news/local/road-closed-after-motorcycle-crash-in-east-greenwich-frenchtown-road-july-16-2026",
-    "title": "Man, 80, dies in motorcycle crash in East Greenwich - WJAR",
-    "published": "2026-07-17T00:21:36+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.kake.com/home/man-killed-in-rollover-crash-on-kansas-highway/article_10cda54d-9e55-4230-97ca-9f49d2a07a6f.html",
-    "title": "Man killed in rollover crash on Kansas highway - KAKE",
-    "published": "2026-07-15T12:00:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.msn.com/en-us/news/crime/19-year-old-faces-murder-charge-in-stabbing-death-on-providence-pedestrian-bridge/ar-AA284XX2",
     "title": "19-year-old faces murder charge in stabbing death on Providence pedestrian bridge - MSN",
     "published": "2026-07-17T03:39:58+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/brproud-1590545/4776018682708-84-year-old-man-killed-in-east-baton-rouge-parish-crash-coroner-confirms",
-    "title": "84-year-old man killed in East Baton Rouge Parish crash, coroner confirms - NewsBreak: Local News & Alerts",
-    "published": "2026-07-17T13:48:02+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   }
 ]

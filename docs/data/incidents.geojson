@@ -26,6 +26,58 @@
         ],
         "approximate": true
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.447985,
+          41.672019
+        ]
+      },
+      "properties": {
+        "id": "ab80de1c50f7",
+        "date": "2026-06-22",
+        "date_precision": "day",
+        "city": "Warwick",
+        "location": "4372 Post Road",
+        "severity": "fatal",
+        "pedestrians_struck": 1,
+        "victim_age": null,
+        "hit_and_run": false,
+        "summary": "An adult male was struck and killed by an Amtrak train in Warwick.",
+        "sources": [
+          "https://www.golocalprov.com/news/new-man-struck-and-killed-by-amtrak-train-overnight"
+        ],
+        "approximate": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.447346752522,
+          41.824945790167
+        ]
+      },
+      "properties": {
+        "id": "a82617b2ec45",
+        "date": "2026-06-27",
+        "date_precision": "day",
+        "city": "Providence",
+        "location": "900 block of Atwells Avenue",
+        "severity": "injury",
+        "pedestrians_struck": 1,
+        "victim_age": 30,
+        "hit_and_run": false,
+        "summary": "A woman was hit by a vehicle in a parking lot and dragged about 50 feet.",
+        "sources": [
+          "https://www.wpri.com/news/local-news/providence/woman-run-over-by-car-in-providence-parking-lot/"
+        ],
+        "approximate": false
+      }
     }
   ]
 }
