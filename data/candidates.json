@@ -54,5 +54,75 @@
     "published": "2026-07-17T03:39:58+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 1
+  },
+  {
+    "url": "https://www.yahoo.com/news/us/articles/mass-state-police-trooper-killed-134319472.html",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/hopkinton-rhode-island-deadly-motorcycle-crash/3978573/",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/police-respond-to-motorcycle-crash-on-i-195-west-in-providence-first-responders-accident-july-10-2026",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/fall-river-man-killed-in-motorcycle-crash-on-route-195-remembered-for-love-of-cars-giving-a-helping-hand/",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/man-who-died-in-tragic-rhode-island-motorcycle-crash-remembered-for-smile-bubble-personality/",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/eastgreenwich/80-year-old-north-kingstown-man-killed-east-greenwich-motorcycle-crash",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/se-mass/police-investigate-crash-involving-pedestrian-in-dartmouth/",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-seriously-injured-after-motorcycle-crash-in-portsmouth",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-injured-in-motorcycle-crash-in-federal-hill-announces-run-for-providence-city-council-ward-5-plans-campaign-republican-june-23-2026",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/road-closed-after-motorcycle-crash-in-east-greenwich-frenchtown-road-july-16-2026",
+    "title": "",
+    "published": "",
+    "source": "requeued-cyclist",
+    "attempts": 0
   }
 ]

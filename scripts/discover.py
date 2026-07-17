@@ -18,7 +18,24 @@ import feedparser
 
 from common import CONFIG, DATA, load_json, save_json
 
+from datetime import timedelta
+
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+
+
+def google_windows(lookback_days: int) -> list[str]:
+    """Google News's when: operator only reaches back ~30 days; for longer
+    backfills, slice the range into 30-day after:/before: windows."""
+    if lookback_days <= 30:
+        return [f"when:{lookback_days}d"]
+    windows = []
+    end = datetime.now(timezone.utc).date()
+    cur = end - timedelta(days=lookback_days)
+    while cur < end:
+        nxt = min(cur + timedelta(days=30), end)
+        windows.append(f"after:{cur.isoformat()} before:{nxt.isoformat()}")
+        cur = nxt
+    return windows
 
 
 def decode_google_url(url: str) -> str:
@@ -64,13 +81,14 @@ def entry_timestamp(entry) -> str:
 
 def collect_google_news(lookback_days: int):
     for query in CONFIG["google_news_queries"]:
-        q = urllib.parse.quote(f"{query} when:{lookback_days}d")
-        url = GOOGLE_NEWS_RSS.format(query=q)
-        feed = feedparser.parse(url, agent="Mozilla/5.0")
-        print(f"Google News [{query}]: {len(feed.entries)} entries")
-        for entry in feed.entries:
-            yield entry, f"google-news:{query}"
-        time.sleep(1)
+        for window in google_windows(lookback_days):
+            q = urllib.parse.quote(f"{query} {window}")
+            url = GOOGLE_NEWS_RSS.format(query=q)
+            feed = feedparser.parse(url, agent="Mozilla/5.0")
+            print(f"Google News [{query} | {window}]: {len(feed.entries)} entries")
+            for entry in feed.entries:
+                yield entry, f"google-news:{query}"
+            time.sleep(1)
 
 
 def collect_outlet_feeds():

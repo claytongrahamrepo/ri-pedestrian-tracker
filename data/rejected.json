@@ -16,10 +16,6 @@
     "reason": "The article reports on a man being struck by an Amtrak train, which does not involve a motor vehicle incident."
   },
   {
-    "url": "https://www.yahoo.com/news/us/articles/mass-state-police-trooper-killed-134319472.html",
-    "reason": "The article reports on a motorcycle crash involving a state trooper in Massachusetts, not a pedestrian incident in Rhode Island."
-  },
-  {
     "url": "https://patch.com/rhode-island/warwick/man-struck-killed-train-warwick",
     "reason": "The article reports a man being struck by a train, not a motor vehicle."
   },
@@ -44,28 +40,8 @@
     "reason": "The article reports on a fatal stabbing incident, not a pedestrian traffic incident involving a motor vehicle."
   },
   {
-    "url": "https://www.nbcboston.com/news/local/hopkinton-rhode-island-deadly-motorcycle-crash/3978573/",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
-  },
-  {
     "url": "https://www.bostonglobe.com/2026/07/16/metro/joseph-laroche-charged-murder-providence-pedestrian-bridge-ri/",
     "reason": "The article reports on a murder charge related to a stabbing incident, not a pedestrian being struck by a motor vehicle."
-  },
-  {
-    "url": "https://turnto10.com/news/local/police-respond-to-motorcycle-crash-on-i-195-west-in-providence-first-responders-accident-july-10-2026",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
-  },
-  {
-    "url": "https://fallriverreporter.com/fall-river-man-killed-in-motorcycle-crash-on-route-195-remembered-for-love-of-cars-giving-a-helping-hand/",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
-  },
-  {
-    "url": "https://fallriverreporter.com/man-who-died-in-tragic-rhode-island-motorcycle-crash-remembered-for-smile-bubble-personality/",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
-  },
-  {
-    "url": "https://patch.com/rhode-island/eastgreenwich/80-year-old-north-kingstown-man-killed-east-greenwich-motorcycle-crash",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
   },
   {
     "url": "https://abc7ny.com/post/staten-island-hit-run-diana-rolon-grave-condition-being-struck-family-praying-miracle/19376313/",
@@ -88,20 +64,12 @@
     "reason": "The article reports on a stabbing incident, not a pedestrian traffic incident involving a motor vehicle."
   },
   {
-    "url": "https://www.wpri.com/news/local-news/se-mass/police-investigate-crash-involving-pedestrian-in-dartmouth/",
-    "reason": "The article reports on a bicyclist being killed in a crash, but the incident occurred in Dartmouth, Massachusetts, not Rhode Island."
-  },
-  {
     "url": "https://dailyvoice.com/article/putnams-kerry-terraciano-remembered-for-his-love-of-family/",
     "reason": "The article reports on a man killed in a crash with a tractor-trailer, not involving a pedestrian being struck."
   },
   {
     "url": "https://www.nbcboston.com/news/local/man-hit-by-car-in-stoughton/3968452/",
     "reason": "The incident occurred in Stoughton, Massachusetts, not Rhode Island."
-  },
-  {
-    "url": "https://turnto10.com/news/local/man-seriously-injured-after-motorcycle-crash-in-portsmouth",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
   },
   {
     "url": "https://nwitimes.com/news/local/crime-courts/article_84adfe77-f829-4e2e-b1c0-4f6ccca0adcc.html",
@@ -148,20 +116,12 @@
     "reason": "The article reports a man being struck by a train, not a motor vehicle."
   },
   {
-    "url": "https://turnto10.com/news/local/man-injured-in-motorcycle-crash-in-federal-hill-announces-run-for-providence-city-council-ward-5-plans-campaign-republican-june-23-2026",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
-  },
-  {
     "url": "https://www.aol.com/articles/man-dies-stabbing-providence-pedestrian-131715412.html",
     "reason": "The article reports on a fatal stabbing incident, not a pedestrian traffic incident involving a motor vehicle."
   },
   {
     "url": "https://turnto10.com/news/local/pawtucket-man-sentenced-to-10-years-in-prison-for-fleeing-crash-that-killed-passenger-lincoln-new-years-day-accident-aci-july-17-2026",
     "reason": "The article reports on a sentencing related to a crash that resulted in a passenger's death, but it does not mention a pedestrian being struck."
-  },
-  {
-    "url": "https://turnto10.com/news/local/road-closed-after-motorcycle-crash-in-east-greenwich-frenchtown-road-july-16-2026",
-    "reason": "The article reports on a motorcycle crash, not a pedestrian incident."
   },
   {
     "url": "https://www.kake.com/home/man-killed-in-rollover-crash-on-kansas-highway/article_10cda54d-9e55-4230-97ca-9f49d2a07a6f.html",

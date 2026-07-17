@@ -4,10 +4,17 @@
     "pedestrian killed \"Rhode Island\"",
     "pedestrian \"hit by a car\" \"Rhode Island\"",
     "hit-and-run pedestrian \"Rhode Island\"",
-    "pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")"
+    "pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\""
   ],
   "title_filter": [
     "pedestrian",
+    "cyclist",
+    "bicycl",
+    "e-bike",
+    "scooter",
+    "wheelchair",
     "struck",
     "crosswalk",
     "hit-and-run",

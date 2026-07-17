@@ -20,7 +20,8 @@
     "geocode_attempts": 2,
     "needs_review": true,
     "added": "2026-07-17",
-    "story_date": "2026-07-09"
+    "story_date": "2026-07-09",
+    "involving": "pedestrian"
   },
   {
     "id": "a82617b2ec45",
@@ -43,6 +44,7 @@
     "geocode_attempts": 1,
     "needs_review": false,
     "added": "2026-07-17",
-    "story_date": "2026-06-29"
+    "story_date": "2026-06-29",
+    "involving": "pedestrian"
   }
 ]

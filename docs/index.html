@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Pedestrian Crashes in Rhode Island</title>
+<title>Car Crashes in Rhode Island</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
@@ -92,15 +92,15 @@
 </head>
 <body>
 <header>
-  <h1>Pedestrian Crashes in Rhode Island</h1>
+  <h1>Car Crashes in Rhode Island</h1>
   <div class="stats" id="stats"></div>
-  <div class="hint">hover a point for details &middot; click it for sources &middot; scroll to zoom &middot; collected automatically from local news coverage</div>
+  <div class="hint">hover a point for details &middot; click it for sources &middot; scroll to zoom</div>
 </header>
 
 <div class="chips">
-  <span class="lbl">SEVERITY</span>
-  <button class="chip on" id="chip-fatal">Fatal<span class="n"></span></button>
-  <button class="chip on" id="chip-injury">Injury<span class="n"></span></button>
+  <span class="lbl">INVOLVING</span>
+  <button class="chip on" id="chip-pedestrian">Pedestrian<span class="n"></span></button>
+  <button class="chip on" id="chip-cyclist">Cyclist<span class="n"></span></button>
   <button class="chip on" id="chip-other">Other<span class="n"></span></button>
   <button class="chip" id="chip-all">Show all</button>
 </div>
@@ -110,7 +110,7 @@
 <details>
   <summary>View as table</summary>
   <div class="tablewrap"><table id="incident-table">
-    <thead><tr><th>Incident date</th><th>Reported</th><th>City</th><th>Location</th><th>Severity</th><th>Summary</th><th>Source</th></tr></thead>
+    <thead><tr><th>Incident date</th><th>Reported</th><th>City</th><th>Location</th><th>Involving</th><th>Severity</th><th>Summary</th><th>Source</th></tr></thead>
     <tbody></tbody>
   </table></div>
 </details>
@@ -144,8 +144,8 @@ legend.onAdd = () => {
 };
 legend.addTo(map);
 
-const groups = { fatal: L.layerGroup().addTo(map), injury: L.layerGroup().addTo(map), other: L.layerGroup().addTo(map) };
-const severityGroup = s => (s === "fatal" ? "fatal" : s === "injury" ? "injury" : "other");
+const groups = { pedestrian: L.layerGroup().addTo(map), cyclist: L.layerGroup().addTo(map), other: L.layerGroup().addTo(map) };
+const involvingGroup = v => (v === "pedestrian" || v === "cyclist" ? v : "other");
 
 const MARKER_STYLES = {
   intersection: { radius: 7, fillColor: "#c8442c", fillOpacity: 0.8, color: "#8f2f1e", weight: 1 },
@@ -173,13 +173,27 @@ function popupHtml(p) {
   return bits.join("<br>");
 }
 
+const counts = { pedestrian: 0, cyclist: 0, other: 0 };
+const chips = { pedestrian: document.getElementById("chip-pedestrian"), cyclist: document.getElementById("chip-cyclist"), other: document.getElementById("chip-other") };
+
+function renderStats() {
+  const total = counts.pedestrian + counts.cyclist + counts.other;
+  const shown = Object.keys(counts)
+    .filter(k => chips[k].classList.contains("on"))
+    .reduce((sum, k) => sum + counts[k], 0);
+  document.getElementById("stats").innerHTML =
+    `<b>${shown === total ? total : `${shown} of ${total}`}</b> incident${total === 1 ? "" : "s"} &middot; ` +
+    `<b>${counts.pedestrian}</b> pedestrian${counts.pedestrian === 1 ? "" : "s"} &middot; ` +
+    `<b>${counts.cyclist}</b> cyclist${counts.cyclist === 1 ? "" : "s"} &middot; ` +
+    `<b>${counts.other}</b> other${counts.other === 1 ? "" : "s"}`;
+}
+
 fetch("data/incidents.geojson").then(r => r.json()).then(geo => {
-  const counts = { fatal: 0, injury: 0, other: 0 };
   const rows = [];
   for (const f of geo.features) {
     const p = f.properties;
     const [lon, lat] = f.geometry.coordinates;
-    const g = severityGroup(p.severity);
+    const g = involvingGroup(p.involving);
     counts[g]++;
     L.circleMarker([lat, lon], MARKER_STYLES[p.precision] || MARKER_STYLES.centroid)
       .bindTooltip(tooltipHtml(p), { sticky: true })
@@ -188,26 +202,20 @@ fetch("data/incidents.geojson").then(r => r.json()).then(geo => {
 
     const src = (p.sources || [])[0];
     rows.push(`<tr><td>${p.date || ""}</td><td>${p.story_date || ""}</td><td>${p.city || ""}</td>` +
-      `<td>${p.location || ""}</td><td>${p.severity}</td><td>${p.summary || ""}</td>` +
+      `<td>${p.location || ""}</td><td>${p.involving}</td><td>${p.severity}</td><td>${p.summary || ""}</td>` +
       `<td>${src ? `<a href="${src}" target="_blank" rel="noopener">link</a>` : ""}</td></tr>`);
   }
   document.querySelector("#incident-table tbody").innerHTML = rows.join("");
-
-  const total = counts.fatal + counts.injury + counts.other;
-  document.getElementById("stats").innerHTML =
-    `<b>${total}</b> incident${total === 1 ? "" : "s"} &middot; ` +
-    `<b>${counts.fatal}</b> fatal${counts.fatal === 1 ? "ity" : "ities"} &middot; ` +
-    `<b>${counts.injury}</b> injur${counts.injury === 1 ? "y" : "ies"}` +
-    (counts.other ? ` &middot; <b>${counts.other}</b> unknown` : "");
-  for (const key of ["fatal", "injury", "other"]) {
+  for (const key of Object.keys(chips)) {
     document.querySelector(`#chip-${key} .n`).textContent = counts[key];
   }
+  renderStats();
 }).catch(err => console.error("Could not load incident data:", err));
 
-const chips = { fatal: document.getElementById("chip-fatal"), injury: document.getElementById("chip-injury"), other: document.getElementById("chip-other") };
 function setChip(key, on) {
   chips[key].classList.toggle("on", on);
   if (on) groups[key].addTo(map); else groups[key].remove();
+  renderStats();
 }
 for (const key of Object.keys(chips)) {
   chips[key].addEventListener("click", () => setChip(key, !chips[key].classList.contains("on")));

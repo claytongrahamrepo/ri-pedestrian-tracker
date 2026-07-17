@@ -26,6 +26,7 @@ def main():
                 "geometry": {"type": "Point", "coordinates": [inc["lon"], inc["lat"]]},
                 "properties": {
                     "id": inc["id"],
+                    "involving": inc.get("involving", "pedestrian"),
                     "date": inc.get("incident_date"),
                     "date_precision": inc.get("date_precision"),
                     "city": inc.get("city"),

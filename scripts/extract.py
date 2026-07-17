@@ -27,14 +27,16 @@ MAX_ARTICLE_CHARS = 6000
 MAX_FETCH_ATTEMPTS = 3
 
 SYSTEM_PROMPT = """\
-You extract structured data about pedestrian traffic incidents from local news
-articles. Respond with a single JSON object, no other text:
+You extract structured data about traffic incidents in which a person outside
+a motor vehicle was struck, from local news articles. Respond with a single
+JSON object, no other text:
 
 {
-  "relevant": bool,      // true only if the article reports a pedestrian (a
-                         // person on foot, incl. in a wheelchair or on a
-                         // scooter) being struck by a motor vehicle, and the
-                         // crash itself happened in Rhode Island, USA.
+  "relevant": bool,      // true only if the article reports a person who was
+                         // NOT inside a motor vehicle — a pedestrian,
+                         // bicyclist, or someone on a scooter, skateboard, or
+                         // in a wheelchair — being struck by a motor vehicle,
+                         // and the crash itself happened in Rhode Island, USA.
                          // A Rhode Island resident or native struck in another
                          // state is NOT relevant — what matters is where the
                          // crash occurred. Note that Seekonk, Attleboro, Fall
@@ -42,8 +44,14 @@ articles. Respond with a single JSON object, no other text:
                          // "Motor vehicle" means cars, trucks, SUVs, buses,
                          // and motorcycles. A person struck by a TRAIN
                          // (Amtrak, commuter rail, freight) is NOT relevant.
-                         // Cyclists, vehicle-only crashes, and general
-                         // road-safety stories are NOT relevant.
+                         // Motorcycle/moped riders crashing are vehicle
+                         // occupants, NOT victims for our purposes.
+                         // Vehicle-only crashes and general road-safety
+                         // stories are NOT relevant.
+  "involving": "pedestrian" | "cyclist" | "other",
+                         // who was struck: person on foot = "pedestrian";
+                         // on a bicycle or e-bike = "cyclist"; scooter,
+                         // skateboard, wheelchair, or anything else = "other"
   "state": string,       // two-letter state where the crash occurred ("RI",
                          // "MA", ...)
   "incident_date": "YYYY-MM-DD" | null,  // date of the crash itself. Resolve
@@ -126,22 +134,32 @@ def call_model(token: str, candidate: dict, article_text: str) -> dict | None:
         f"Headline: {candidate.get('title', '')}\n\n"
         f"{article_text}"
     )
-    resp = requests.post(
-        API_URL,
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-        json={
-            "model": CONFIG["model"],
-            "temperature": 0,
-            "response_format": {"type": "json_object"},
-            "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_msg},
-            ],
-        },
-        timeout=90,
-    )
+    def post():
+        return requests.post(
+            API_URL,
+            headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+            json={
+                "model": CONFIG["model"],
+                "temperature": 0,
+                "response_format": {"type": "json_object"},
+                "messages": [
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": user_msg},
+                ],
+            },
+            timeout=90,
+        )
+
+    resp = post()
     if resp.status_code == 429:
-        return {"_rate_limited": True, "_retry_after": resp.headers.get("Retry-After")}
+        # Per-minute limits are worth waiting out; the daily quota is not.
+        wait = int(resp.headers.get("Retry-After") or 0)
+        if 0 < wait <= 120:
+            print(f"  . rate limited, retrying in {wait}s")
+            time.sleep(wait)
+            resp = post()
+        if resp.status_code == 429:
+            return {"_rate_limited": True}
     resp.raise_for_status()
     content = resp.json()["choices"][0]["message"]["content"]
     return json.loads(content)
@@ -241,6 +259,8 @@ def main():
             print(f"  ! model call failed: {e}")
             remaining.append(cand)
             continue
+        finally:
+            time.sleep(2)  # pace every call to stay under per-minute limits
         if result.get("_rate_limited"):
             print("  ! rate limited by GitHub Models; stopping for this run.")
             remaining.append(cand)
@@ -266,6 +286,7 @@ def main():
         incidents.append(
             {
                 "id": incident_id(result),
+                "involving": result.get("involving", "pedestrian"),
                 "incident_date": result.get("incident_date"),
                 "date_precision": result.get("date_precision", "unknown"),
                 "city": result.get("city"),
