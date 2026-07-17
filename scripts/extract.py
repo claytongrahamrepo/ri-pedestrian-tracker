@@ -39,6 +39,9 @@ articles. Respond with a single JSON object, no other text:
                          // state is NOT relevant — what matters is where the
                          // crash occurred. Note that Seekonk, Attleboro, Fall
                          // River, and Dartmouth are in Massachusetts, not RI.
+                         // "Motor vehicle" means cars, trucks, SUVs, buses,
+                         // and motorcycles. A person struck by a TRAIN
+                         // (Amtrak, commuter rail, freight) is NOT relevant.
                          // Cyclists, vehicle-only crashes, and general
                          // road-safety stories are NOT relevant.
   "state": string,       // two-letter state where the crash occurred ("RI",

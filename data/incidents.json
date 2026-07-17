@@ -4,7 +4,7 @@
     "incident_date": "2026-06-07",
     "date_precision": "day",
     "city": "East Providence",
-    "location_text": "Shaw’s supermarket parking lot",
+    "location_text": "Shaw\u2019s supermarket parking lot",
     "severity": "fatal",
     "pedestrians_struck": 1,
     "victim_age": 92,
@@ -19,28 +19,6 @@
     "geocode_method": "city-centroid",
     "geocode_attempts": 2,
     "needs_review": true,
-    "added": "2026-07-17"
-  },
-  {
-    "id": "ab80de1c50f7",
-    "incident_date": "2026-06-22",
-    "date_precision": "day",
-    "city": "Warwick",
-    "location_text": "4372 Post Road",
-    "severity": "fatal",
-    "pedestrians_struck": 1,
-    "victim_age": null,
-    "hit_and_run": false,
-    "summary": "An adult male was struck and killed by an Amtrak train in Warwick.",
-    "confidence": "high",
-    "sources": [
-      "https://www.golocalprov.com/news/new-man-struck-and-killed-by-amtrak-train-overnight"
-    ],
-    "lat": 41.672019,
-    "lon": -71.447985,
-    "geocode_method": "nominatim",
-    "geocode_attempts": 1,
-    "needs_review": false,
     "added": "2026-07-17"
   },
   {

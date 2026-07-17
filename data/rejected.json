@@ -170,5 +170,9 @@
   {
     "url": "https://www.newsbreak.com/brproud-1590545/4776018682708-84-year-old-man-killed-in-east-baton-rouge-parish-crash-coroner-confirms",
     "reason": "The article reports on a single-vehicle crash in Louisiana, not involving a pedestrian or occurring in Rhode Island."
+  },
+  {
+    "url": "https://www.golocalprov.com/news/new-man-struck-and-killed-by-amtrak-train-overnight",
+    "reason": "struck by train, not a motor vehicle (removed manually)"
   }
 ]
