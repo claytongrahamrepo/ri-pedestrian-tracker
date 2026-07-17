@@ -24,7 +24,8 @@
         "sources": [
           "https://www.suggest.com/author-killed-after-being-struck-in-parking-lot-gordon-wood-was-92/2936983/"
         ],
-        "approximate": true
+        "story_date": "2026-07-09",
+        "precision": "centroid"
       }
     },
     {
@@ -50,7 +51,8 @@
         "sources": [
           "https://www.wpri.com/news/local-news/providence/woman-run-over-by-car-in-providence-parking-lot/"
         ],
-        "approximate": false
+        "story_date": "2026-06-29",
+        "precision": "street"
       }
     }
   ]

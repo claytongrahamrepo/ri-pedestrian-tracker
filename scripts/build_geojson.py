@@ -3,6 +3,15 @@ from datetime import datetime, timezone
 
 from common import DATA, DOCS_DATA, load_json, save_json
 
+# How trustworthy the dot's position is, mirroring the map legend.
+PRECISION = {
+    "overpass-intersection": "intersection",
+    "manual": "intersection",
+    "census": "street",
+    "nominatim": "street",
+    "city-centroid": "centroid",
+}
+
 
 def main():
     incidents = load_json(DATA / "incidents.json", [])
@@ -27,7 +36,8 @@ def main():
                     "hit_and_run": inc.get("hit_and_run", False),
                     "summary": inc.get("summary", ""),
                     "sources": inc.get("sources", []),
-                    "approximate": inc.get("geocode_method") == "city-centroid",
+                    "story_date": inc.get("story_date"),
+                    "precision": PRECISION.get(inc.get("geocode_method"), "centroid"),
                 },
             }
         )

@@ -195,7 +195,7 @@ def merge_into(inc: dict, rec: dict, url: str):
         inc["location_text"] = rec["location_text"]
     if inc.get("severity") != "fatal" and rec.get("severity") == "fatal":
         inc["severity"] = "fatal"
-    for field in ("victim_age",):
+    for field in ("victim_age", "story_date"):
         if inc.get(field) is None and rec.get(field) is not None:
             inc[field] = rec[field]
 
@@ -256,6 +256,7 @@ def main():
             print(f"  - not relevant: {reason[:80]}")
             continue
 
+        result["story_date"] = (cand.get("published") or "")[:10] or None
         dup = find_duplicate(incidents, result)
         if dup:
             merge_into(dup, result, cand["url"])
@@ -275,6 +276,7 @@ def main():
                 "hit_and_run": bool(result.get("hit_and_run")),
                 "summary": result.get("summary", ""),
                 "confidence": result.get("confidence", "medium"),
+                "story_date": result.get("story_date"),
                 "sources": [cand["url"]],
                 "lat": None,
                 "lon": None,

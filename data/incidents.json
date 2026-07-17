@@ -19,7 +19,8 @@
     "geocode_method": "city-centroid",
     "geocode_attempts": 2,
     "needs_review": true,
-    "added": "2026-07-17"
+    "added": "2026-07-17",
+    "story_date": "2026-07-09"
   },
   {
     "id": "a82617b2ec45",
@@ -41,6 +42,7 @@
     "geocode_method": "census",
     "geocode_attempts": 1,
     "needs_review": false,
-    "added": "2026-07-17"
+    "added": "2026-07-17",
+    "story_date": "2026-06-29"
   }
 ]
