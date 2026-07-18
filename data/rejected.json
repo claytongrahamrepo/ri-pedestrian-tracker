@@ -190,5 +190,69 @@
   {
     "url": "https://www.newsbreak.com/the-daily-sun-1591630/4774614326202-child-airlifted-after-being-struck-by-car",
     "reason": "The incident occurred in North Port, Florida, not Rhode Island."
+  },
+  {
+    "url": "https://www.facebook.com/NBC6SouthFlorida/posts/surveillance-video-appears-to-show-a-person-running-from-a-crash-that-left-sever/1556873972473590/",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.thecanadianpressnews.ca/prairies_bc/manitoba/man-87-facing-charge-after-84-year-old-hit-by-car-winnipeg-police/article_39f96ffe-15b3-5f24-88bb-d5291a37c48c.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.bakersfield.com/news/pedestrian-suffers-life-threatening-injuries-in-hit-and-run-on-california-avenue/article_32ced0e3-5365-4526-94d2-79ce6e35b475.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.facebook.com/Boston25News/posts/the-suspect-in-a-deadly-mattapan-crash-and-carjacking-was-in-court-monday-ordere/1492077299620598/",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://dentonrc.com/news/corinth/corinth-police-arrest-denton-suspects-in-fatal-hit-and-run-crash-on-i-35e/article_3e483587-14eb-48a4-ac4e-9f21844ef24f.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/crime/19-year-old-faces-murder-charge-in-stabbing-death-on-providence-pedestrian-bridge/ar-AA284XX2",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://eastgreenwichnews.com/north-kingstown-man-killed-in-frenchtown-road-crash/",
+    "reason": "The article reports on a motorcycle crash, which does not involve a person outside a motor vehicle being struck."
+  },
+  {
+    "url": "https://fallriverreporter.com/47-year-old-man-sentenced-after-fleeing-the-scene-of-a-crash-near-a-rhode-island-casino-that-ejected-killed-his-girlfriend/",
+    "reason": "The article reports on a man being sentenced for a crash that resulted in the death of his girlfriend, but it does not mention a pedestrian or non-vehicle occupant being struck."
+  },
+  {
+    "url": "https://patch.com/rhode-island/providence/19-year-old-charged-deadly-providence-pedestrian-bridge-stabbing",
+    "reason": "The article reports on a stabbing incident, not a traffic incident involving a person struck by a motor vehicle."
+  },
+  {
+    "url": "https://patch.com/rhode-island/providence/man-stabbed-death-providence-pedestrian-bridge-official",
+    "reason": "The article reports on a stabbing incident, not a traffic incident involving a person struck by a motor vehicle."
+  },
+  {
+    "url": "https://www.desototimes.com/news/pedestrian-killed-on-goodman-road-in-horn-lake/article_72e79478-10d7-4f27-a2da-bb012c9c1154.html",
+    "reason": "The incident occurred in Horn Lake, Mississippi, not Rhode Island."
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/west-bay/motorcyclist-80-dies-after-east-greenwich-crash/",
+    "reason": "The article reports on a motorcycle crash, which does not involve a person outside a motor vehicle being struck."
+  },
+  {
+    "url": "https://azdailysun.com/news/local/accident-and-incident/pedestrian-killed-by-train-at-flagstaff-railroad-crossing/article_6f0c5887-6fe0-4d90-8fad-1e971c0dc9d5.html",
+    "reason": "The incident involved a pedestrian being struck by a train in Arizona, not Rhode Island."
+  },
+  {
+    "url": "https://www.boston25news.com/news/local/another-pedestrian-crash-worcester-renews-push-safety-improvements/EP4552IXOZC6ZPTDOA7TUKWDPE/",
+    "reason": "The incident occurred in Worcester, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://abc7ny.com/post/79-year-old-woman-struck-killed-car-east-flatbush-brooklyn/19527698/",
+    "reason": "The incident occurred in Brooklyn, New York, not in Rhode Island."
+  },
+  {
+    "url": "https://abc7ny.com/post/2-killed-scooter-crash-grand-central-parkway-queens-police-say/19526201/",
+    "reason": "The article reports on a motorcycle crash involving vehicle occupants, not a pedestrian or cyclist being struck."
   }
 ]
