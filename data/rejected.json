@@ -254,5 +254,33 @@
   {
     "url": "https://abc7ny.com/post/2-killed-scooter-crash-grand-central-parkway-queens-police-say/19526201/",
     "reason": "The article reports on a motorcycle crash involving vehicle occupants, not a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://www.bostonglobe.com/video/2026/07/16/metro/mayor-michelle-wu-speaks-at-vigil-for-cyclist-killed-in-fatal-crash/",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/blackstone-valley/premised-on-cowardice-10-years-for-pawtucket-man-who-fled-crash-that-killed-fiancee/",
+    "reason": "The article discusses a man who fled a crash that killed his fiancée, but it does not report on a person outside a motor vehicle being struck."
+  },
+  {
+    "url": "https://coastalabc.com/news/local/providence-police-department-arrest-made-stabbing-death-michael-s-van-leesten-memorial-bridge-pedestrian-rhode-island-july-16-2026",
+    "reason": "The article reports on a stabbing incident involving a pedestrian, not a traffic incident involving a motor vehicle."
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/se-mass/fatal-motor-vehicle-accident-in-taunton-under-investigation/",
+    "reason": "The article reports on a single-car crash involving a driver and a passenger, with no mention of a pedestrian or other non-vehicle occupant being struck."
+  },
+  {
+    "url": "https://outlooknewspapers.com/glendalenewspress/pedestrian-killed-by-freight-train-in-glendale-identified/article_889c9f61-fcd0-4d8c-8041-52241be95ffb.html",
+    "reason": "The incident involved a pedestrian struck by a freight train, which is not relevant for the criteria specified."
+  },
+  {
+    "url": "https://www.newsbreak.com/brproud-1590545/4778036155861-gonzales-man-killed-in-ascension-parish-crash",
+    "reason": "The article reports on a single-vehicle crash involving a driver, not a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://www.aol.com/articles/fall-river-man-dies-providence-175232000.html",
+    "reason": "The article reports on a motorcycle crash involving a rider, not a pedestrian or other non-vehicle occupant."
   }
 ]

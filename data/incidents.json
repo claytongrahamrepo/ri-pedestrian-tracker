@@ -46,5 +46,29 @@
     "added": "2026-07-17",
     "story_date": "2026-06-29",
     "involving": "pedestrian"
+  },
+  {
+    "id": "d6d9a52e35e8",
+    "involving": "pedestrian",
+    "incident_date": "2026-07-17",
+    "date_precision": "day",
+    "city": "Providence",
+    "location_text": "Cranston Street",
+    "severity": "injury",
+    "pedestrians_struck": 1,
+    "victim_age": 35,
+    "hit_and_run": false,
+    "summary": "A 35-year-old woman was injured after being hit by a vehicle while crossing the street in Providence.",
+    "confidence": "high",
+    "story_date": "2026-07-18",
+    "sources": [
+      "https://turnto10.com/news/local/35-year-old-injured-after-pedestrian-crash-in-providence-cranston-street-july-17-2026"
+    ],
+    "lat": 41.8034659,
+    "lon": -71.4398746,
+    "geocode_method": "nominatim",
+    "geocode_attempts": 1,
+    "needs_review": false,
+    "added": "2026-07-19"
   }
 ]

@@ -1,16 +1,9 @@
 [
   {
-    "url": "https://www.bostonglobe.com/video/2026/07/16/metro/mayor-michelle-wu-speaks-at-vigil-for-cyclist-killed-in-fatal-crash/",
-    "title": "Mayor Michelle Wu speaks at vigil for cyclist killed in fatal crash - The Boston Globe",
-    "published": "2026-07-17T03:13:35+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://www.wpri.com/news/local-news/blackstone-valley/premised-on-cowardice-10-years-for-pawtucket-man-who-fled-crash-that-killed-fiancee/",
-    "title": "‘Premised on cowardice’: 10 years for Pawtucket man who fled crash that killed fiancée - WPRI.com",
-    "published": "2026-07-17T22:44:14+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "url": "https://norfolkdailynews.com/online_features/press_releases/atlanta-law-firm-urges-immediate-action-following-hit-and-run-accidents/article_eb3bd774-765d-5760-9cc8-16652e0c94d2.html",
+    "title": "Atlanta Law Firm Urges Immediate Action Following Hit-and-Run Accidents - The Norfolk Daily News",
+    "published": "2026-07-17T19:30:02+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 1
   }
 ]
