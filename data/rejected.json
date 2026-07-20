@@ -282,5 +282,25 @@
   {
     "url": "https://www.aol.com/articles/fall-river-man-dies-providence-175232000.html",
     "reason": "The article reports on a motorcycle crash involving a rider, not a pedestrian or other non-vehicle occupant."
+  },
+  {
+    "url": "https://www.stltoday.com/news/local/metro/article_4ebe1b83-e3b6-4076-9007-52e7ed3ae1f0.html",
+    "reason": "The incident occurred in St. Charles County, Missouri, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/raleigh-news-observer-1592485/4779242738637-raleigh-police-identify-woman-killed-in-sunday-hit-and-run-near-downtown",
+    "reason": "The incident occurred in Raleigh, North Carolina, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4779347266020-man-61-dies-weeks-after-being-hit-by-car-in-hybla-valley-area-of-fairfax-county",
+    "reason": "The article reports on a man who died after being hit by a car in Fairfax County, Virginia, not Rhode Island."
+  },
+  {
+    "url": "https://www.yoursourceone.com/columbia_basin/video-quincy-man-arrested-after-pedestrian-struck-in-possible-gang-related-hit-and-run/article_0eb3ace5-d00d-4017-a4d3-65a3b1465e6d.html",
+    "reason": "The incident occurred in Quincy, which is not in Rhode Island."
+  },
+  {
+    "url": "https://www.annistonstar.com/the_st_clair_times/stclair_news/odenville-man-charged-with-hit-and-run-reckless-endangermen/article_8f3d2a3a-76e7-4db8-917a-5e72ca69c63e.html",
+    "reason": "The incident occurred in Odenville, Alabama, not Rhode Island."
   }
 ]
