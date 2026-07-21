@@ -302,5 +302,29 @@
   {
     "url": "https://www.annistonstar.com/the_st_clair_times/stclair_news/odenville-man-charged-with-hit-and-run-reckless-endangermen/article_8f3d2a3a-76e7-4db8-917a-5e72ca69c63e.html",
     "reason": "The incident occurred in Odenville, Alabama, not Rhode Island."
+  },
+  {
+    "url": "https://norfolkdailynews.com/online_features/press_releases/atlanta-law-firm-urges-immediate-action-following-hit-and-run-accidents/article_eb3bd774-765d-5760-9cc8-16652e0c94d2.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://abc7ny.com/post/man-set-sentenced-drunk-driving-death-nassau-county-police-officer-patricia-espinosa/19542983/",
+    "reason": "The article reports on a fatal crash involving a police officer's vehicle, not a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://www.newsbreak.com/boston-500265/4781236135689-1-woman-killed-another-injured-in-late-night-taunton-crash",
+    "reason": "The article reports on a single-car crash involving a driver and a passenger, with no mention of a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://www.newsbreak.com/news-center-maine-524552/4781232005504-family-recovering-after-being-hit-by-car-in-lincoln",
+    "reason": "The article discusses a family recovering after being hit by a car, but it does not specify that any individuals outside a motor vehicle were struck in Rhode Island."
+  },
+  {
+    "url": "https://www.bakersfield.com/news/pedestrian-dies-in-hit-and-run-on-union-avenue/article_23574926-c5f0-44b7-9ccb-c95e337d42a4.html",
+    "reason": "The incident occurred in Bakersfield, California, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/boston-500265/4781621878491-cyclist-83-hit-and-killed-by-pickup-truck-on-the-cape",
+    "reason": "The incident occurred in Massachusetts, not Rhode Island."
   }
 ]

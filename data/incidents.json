@@ -62,7 +62,8 @@
     "confidence": "high",
     "story_date": "2026-07-18",
     "sources": [
-      "https://turnto10.com/news/local/35-year-old-injured-after-pedestrian-crash-in-providence-cranston-street-july-17-2026"
+      "https://turnto10.com/news/local/35-year-old-injured-after-pedestrian-crash-in-providence-cranston-street-july-17-2026",
+      "https://coastalabc.com/news/local/35-year-old-injured-after-pedestrian-crash-in-providence-cranston-street-july-17-2026"
     ],
     "lat": 41.8034659,
     "lon": -71.4398746,
@@ -70,5 +71,53 @@
     "geocode_attempts": 1,
     "needs_review": false,
     "added": "2026-07-19"
+  },
+  {
+    "id": "1b8186cfdf2e",
+    "involving": "pedestrian",
+    "incident_date": "2026-07-20",
+    "date_precision": "day",
+    "city": "Providence",
+    "location_text": "Atwells Avenue",
+    "severity": "injury",
+    "pedestrians_struck": 1,
+    "victim_age": null,
+    "hit_and_run": false,
+    "summary": "A man was struck by a car on Atwells Avenue in Providence and was hospitalized with non-life-threatening injuries.",
+    "confidence": "high",
+    "story_date": "2026-07-21",
+    "sources": [
+      "https://coastalabc.com/newsletter-daily/man-struck-by-car-providence-police-officer-atwells-avenue-hospitalized-injuries-driver-investigation-july-20-2026"
+    ],
+    "lat": 41.824243,
+    "lon": -71.4336805,
+    "geocode_method": "nominatim",
+    "geocode_attempts": 1,
+    "needs_review": false,
+    "added": "2026-07-21"
+  },
+  {
+    "id": "f137f8931591",
+    "involving": "pedestrian",
+    "incident_date": "2022-01-01",
+    "date_precision": "day",
+    "city": "Lincoln",
+    "location_text": "Cobble Hill Road",
+    "severity": "fatal",
+    "pedestrians_struck": 1,
+    "victim_age": 34,
+    "hit_and_run": true,
+    "summary": "A pedestrian was struck and killed by a vehicle in Lincoln on New Year's Day 2022.",
+    "confidence": "high",
+    "story_date": "2026-07-20",
+    "sources": [
+      "https://patch.com/rhode-island/pawtucket/pawtucket-man-sentenced-10-years-crash-killed-preschool-teacher"
+    ],
+    "lat": 41.8845685,
+    "lon": -71.4278736,
+    "geocode_method": "nominatim",
+    "geocode_attempts": 1,
+    "needs_review": false,
+    "added": "2026-07-21"
   }
 ]
