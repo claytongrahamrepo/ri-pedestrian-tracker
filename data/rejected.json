@@ -326,5 +326,13 @@
   {
     "url": "https://www.newsbreak.com/boston-500265/4781621878491-cyclist-83-hit-and-killed-by-pickup-truck-on-the-cape",
     "reason": "The incident occurred in Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://www.facebook.com/Boston25News/posts/a-passenger-suffered-life-threatening-injuries-after-being-struck-by-a-vehicle-o/1516904097137918/",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.yoursourceone.com/columbia_basin/further-investigation-reveals-personal-dispute-behind-quincy-crash-involving-pedestrian/article_c406c1a4-17d6-4b83-8d02-11473058f478.html",
+    "reason": "The incident occurred in Quincy, which is not in Rhode Island."
   }
 ]
