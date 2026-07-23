@@ -334,5 +334,37 @@
   {
     "url": "https://www.yoursourceone.com/columbia_basin/further-investigation-reveals-personal-dispute-behind-quincy-crash-involving-pedestrian/article_c406c1a4-17d6-4b83-8d02-11473058f478.html",
     "reason": "The incident occurred in Quincy, which is not in Rhode Island."
+  },
+  {
+    "url": "https://wcti12.com/news/local/jacksonville-police-identify-pedestrian-killed-in-hit-and-run-investigation",
+    "reason": "The incident occurred in Jacksonville, North Carolina, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/hays-post-560458/4785706016091-hit-and-run-pedestrian-killed-by-suv-fleeing-state-trooper",
+    "reason": "The incident occurred in Kansas, not Rhode Island."
+  },
+  {
+    "url": "https://www.wfxg.com/news/pedestrian-killed-by-car-on-mike-padgett-highway/article_a7906d81-f660-4189-9a14-2a4374292897.html",
+    "reason": "The incident occurred in Richmond County, Georgia, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/wish-tv-2107872/4783313768745-man-killed-child-hospitalized-after-motorcycle-crash-in-madison-county",
+    "reason": "The article reports on a motorcycle crash involving vehicle occupants, not a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://www.nbclosangeles.com/news/local/driver-sought-after-fatal-hit-and-run-kills-teen-riding-e-scooter-in-hawthorne/3919975/",
+    "reason": "The incident occurred in Hawthorne, California, not Rhode Island."
+  },
+  {
+    "url": "https://www.elkharttruth.com/news/crimes/police-blotter-hit-and-run-crash/article_9feb6ad9-0f68-5f44-8288-3751c44fa6fd.html",
+    "reason": "The incident occurred in Elkhart, Indiana, not Rhode Island."
+  },
+  {
+    "url": "https://www.einpresswire.com/article/928479624/the-alvarez-law-firm-expands-pedestrian-and-bicycle-accident-practice-in-alexandria-va",
+    "reason": "The article discusses a law firm's expansion in Virginia, not a traffic incident in Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/nbc-palm-springs-298461496/4785136454213-pedestrian-seriously-hurt-in-desert-hot-springs-hit-and-run-driver-still-on-the-run",
+    "reason": "The article reports on a pedestrian incident that occurred in Desert Hot Springs, California, not Rhode Island."
   }
 ]

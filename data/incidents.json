@@ -119,5 +119,31 @@
     "geocode_attempts": 1,
     "needs_review": false,
     "added": "2026-07-21"
+  },
+  {
+    "id": "5df867e77b7e",
+    "involving": "other",
+    "incident_date": "2026-07-20",
+    "date_precision": "day",
+    "city": "Newport",
+    "location_text": "Memorial Boulevard and Chapel Street",
+    "severity": "fatal",
+    "pedestrians_struck": 1,
+    "victim_age": null,
+    "hit_and_run": false,
+    "summary": "A man on a mobility scooter was critically injured after being struck by a vehicle in a marked crosswalk.",
+    "confidence": "high",
+    "story_date": "2026-07-23",
+    "sources": [
+      "https://thenewportbuzz.com/newport-dui-driver-hits-mobility-scooter-rider-crosswalk/61922",
+      "https://turnto10.com/news/local/newport-police-charge-man-with-dui-after-he-struck-a-man-in-a-motorized-wheelchair-jose-monterroso-villagran-july-23-2026",
+      "https://www.wpri.com/news/local-news/east-bay/newport-man-charged-with-dui-after-hitting-mobility-scooter-rider/amp/"
+    ],
+    "lat": 41.48347795,
+    "lon": -71.306761,
+    "geocode_method": "overpass-intersection",
+    "geocode_attempts": 1,
+    "needs_review": false,
+    "added": "2026-07-23"
   }
 ]
