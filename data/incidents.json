@@ -137,7 +137,10 @@
     "sources": [
       "https://thenewportbuzz.com/newport-dui-driver-hits-mobility-scooter-rider-crosswalk/61922",
       "https://turnto10.com/news/local/newport-police-charge-man-with-dui-after-he-struck-a-man-in-a-motorized-wheelchair-jose-monterroso-villagran-july-23-2026",
-      "https://www.wpri.com/news/local-news/east-bay/newport-man-charged-with-dui-after-hitting-mobility-scooter-rider/amp/"
+      "https://www.wpri.com/news/local-news/east-bay/newport-man-charged-with-dui-after-hitting-mobility-scooter-rider/amp/",
+      "https://patch.com/rhode-island/newport/man-mobility-scooter-struck-newport-crosswalk-driver-charged-dui-cops",
+      "https://newsradiori.iheart.com/content/2026-07-24-driver-who-struck-man-in-wheelchair-is-charged-with-dui/",
+      "https://whatsupnewp.com/2026/07/newport-man-arrested-on-dui-charges-after-striking-mobility-scooter-rider-in-crosswalk-on-memorial-boulevard/"
     ],
     "lat": 41.48347795,
     "lon": -71.306761,
@@ -145,5 +148,29 @@
     "geocode_attempts": 1,
     "needs_review": false,
     "added": "2026-07-23"
+  },
+  {
+    "id": "9d8099eba6f7",
+    "involving": "other",
+    "incident_date": "2026-07-20",
+    "date_precision": "day",
+    "city": "Newport",
+    "location_text": "11 Memorial Blvd",
+    "severity": "injury",
+    "pedestrians_struck": 1,
+    "victim_age": null,
+    "hit_and_run": false,
+    "summary": "A man in a motorized wheelchair was struck by a vehicle while in a crosswalk and was transported to the hospital in critical condition.",
+    "confidence": "high",
+    "story_date": "2026-07-23",
+    "sources": [
+      "https://coastalabc.com/news/local/newport-police-charge-man-with-dui-after-he-struck-a-man-in-a-motorized-wheelchair-jose-monterroso-villagran-july-23-2026"
+    ],
+    "lat": 41.483369641671,
+    "lon": -71.307135412873,
+    "geocode_method": "census",
+    "geocode_attempts": 1,
+    "needs_review": false,
+    "added": "2026-07-24"
   }
 ]

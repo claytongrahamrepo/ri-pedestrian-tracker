@@ -366,5 +366,21 @@
   {
     "url": "https://www.newsbreak.com/nbc-palm-springs-298461496/4785136454213-pedestrian-seriously-hurt-in-desert-hot-springs-hit-and-run-driver-still-on-the-run",
     "reason": "The article reports on a pedestrian incident that occurred in Desert Hot Springs, California, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/miami-herald-1592483/4787175495867-pedestrian-is-killed-after-hit-and-run-crash-in-margate-police-say",
+    "reason": "The incident occurred in Margate, Florida, not Rhode Island."
+  },
+  {
+    "url": "https://thetandd.com/news/local/article_71066b2f-c3e9-476f-ae93-ba8704dd9751.html",
+    "reason": "The incident occurred outside of Rhode Island, specifically in South Carolina."
+  },
+  {
+    "url": "https://turnto10.com/news/local/residents-speak-out-after-deadly-motorcycle-crash-east-greenwich-police-officers-frenchtown-road-july-21-2026",
+    "reason": "The article reports on a motorcycle crash, which does not involve a person outside a motor vehicle being struck."
+  },
+  {
+    "url": "https://www.newsbreak.com/miami-herald-1592483/4787455536197-coral-springs-man-charged-in-margate-hit-and-run-that-killed-pedestrian-cops-say",
+    "reason": "The incident occurred in Margate, Florida, not Rhode Island."
   }
 ]
