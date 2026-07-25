@@ -382,5 +382,33 @@
   {
     "url": "https://www.newsbreak.com/miami-herald-1592483/4787455536197-coral-springs-man-charged-in-margate-hit-and-run-that-killed-pedestrian-cops-say",
     "reason": "The incident occurred in Margate, Florida, not Rhode Island."
+  },
+  {
+    "url": "https://www.yahoo.com/news/us/articles/ri-man-daughter-wasn-t-204632086.html",
+    "reason": "The article reports on a crash that occurred in West Virginia involving a Rhode Island man and his daughter, but it does not involve a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://www.newsbreak.com/idaho-state-journal-1591702/4789634782408-coroner-identifies-pocatello-man-killed-after-van-he-was-driving-struck-disabled-car-on-i-15-near-malad",
+    "reason": "The article reports on a man who was driving a van that struck a disabled car, not a pedestrian or cyclist."
+  },
+  {
+    "url": "https://www.newsbreak.com/praise-93-3-520864/4789211359039-marion-man-killed-in-single-vehicle-crash-in-perry-county",
+    "reason": "The article reports on a single-vehicle crash involving a driver, not a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://www.newsbreak.com/nbc-palm-springs-298461496/4788510434321-suspect-arrested-in-desert-hot-springs-hit-and-run-before-allegedly-attempting-to-leave-state",
+    "reason": "The article does not report on a traffic incident involving a person struck by a motor vehicle in Rhode Island."
+  },
+  {
+    "url": "https://www.bostonglobe.com/2026/07/24/metro/michelle-wu-street-safety-letter-louisa-gag/",
+    "reason": "The article discusses a cyclist's death in Boston, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://www.elkharttruth.com/news/briefly-bicyclist-injured-on-pumpkinvine-trail-crossing/article_0059a43f-d3ce-52c2-861b-60d9bbbeac4d.html",
+    "reason": "The incident involved a bicyclist in Indiana, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4789049924399-9-year-old-riding-e-scooter-dies-after-driver-turns-into-herndon-neighborhood-police",
+    "reason": "The incident occurred in Herndon, Virginia, not Rhode Island."
   }
 ]

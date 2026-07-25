@@ -129,7 +129,7 @@
     "location_text": "Memorial Boulevard and Chapel Street",
     "severity": "fatal",
     "pedestrians_struck": 1,
-    "victim_age": null,
+    "victim_age": 64,
     "hit_and_run": false,
     "summary": "A man on a mobility scooter was critically injured after being struck by a vehicle in a marked crosswalk.",
     "confidence": "high",
@@ -140,7 +140,14 @@
       "https://www.wpri.com/news/local-news/east-bay/newport-man-charged-with-dui-after-hitting-mobility-scooter-rider/amp/",
       "https://patch.com/rhode-island/newport/man-mobility-scooter-struck-newport-crosswalk-driver-charged-dui-cops",
       "https://newsradiori.iheart.com/content/2026-07-24-driver-who-struck-man-in-wheelchair-is-charged-with-dui/",
-      "https://whatsupnewp.com/2026/07/newport-man-arrested-on-dui-charges-after-striking-mobility-scooter-rider-in-crosswalk-on-memorial-boulevard/"
+      "https://whatsupnewp.com/2026/07/newport-man-arrested-on-dui-charges-after-striking-mobility-scooter-rider-in-crosswalk-on-memorial-boulevard/",
+      "https://fallriverreporter.com/local-musician-on-scooter-killed-by-an-alleged-impaired-driver-in-newport-remembered-as-good-man-with-sense-of-humor/",
+      "https://www.wpri.com/news/local-news/east-bay/mobility-scooter-rider-dies-after-being-hit-by-newport-dui-suspect/amp/",
+      "https://www.wpri.com/news/local-news/east-bay/mobility-scooter-rider-dies-after-being-hit-by-newport-dui-suspect/",
+      "https://www.wpri.com/news/local-news/east-bay/newport-man-charged-with-dui-after-hitting-mobility-scooter-rider/",
+      "https://patch.com/rhode-island/newport/newport-man-mobility-scooter-struck-pickup-dies",
+      "https://turnto10.com/news/local/man-in-wheelchair-struck-in-newport-has-died-driver-charged-jose-monterroso-villagran-july-24-2026",
+      "https://whatsupnewp.com/2026/07/newport-man-dies-after-alleged-drunk-driver-struck-him-in-memorial-boulevard-crosswalk-dui-charge-upgraded/"
     ],
     "lat": 41.48347795,
     "lon": -71.306761,
@@ -172,5 +179,29 @@
     "geocode_attempts": 1,
     "needs_review": false,
     "added": "2026-07-24"
+  },
+  {
+    "id": "2089061d6624",
+    "involving": "other",
+    "incident_date": "2026-07-22",
+    "date_precision": "day",
+    "city": "Newport",
+    "location_text": "Memorial Boulevard and Chapel Street",
+    "severity": "fatal",
+    "pedestrians_struck": 1,
+    "victim_age": null,
+    "hit_and_run": false,
+    "summary": "A Newport man in a motorized wheelchair was struck by a vehicle while crossing Memorial Boulevard, resulting in his death.",
+    "confidence": "high",
+    "story_date": "2026-07-24",
+    "sources": [
+      "https://www.newportri.com/story/news/crime/2026/07/24/newport-man-dies-after-being-hit-by-alleged-intoxicated-driver/91035996007/"
+    ],
+    "lat": 41.4899827,
+    "lon": -71.3137707,
+    "geocode_method": "city-centroid",
+    "geocode_attempts": 1,
+    "needs_review": true,
+    "added": "2026-07-25"
   }
 ]
