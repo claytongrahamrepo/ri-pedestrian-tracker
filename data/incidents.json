@@ -147,7 +147,8 @@
       "https://www.wpri.com/news/local-news/east-bay/newport-man-charged-with-dui-after-hitting-mobility-scooter-rider/",
       "https://patch.com/rhode-island/newport/newport-man-mobility-scooter-struck-pickup-dies",
       "https://turnto10.com/news/local/man-in-wheelchair-struck-in-newport-has-died-driver-charged-jose-monterroso-villagran-july-24-2026",
-      "https://whatsupnewp.com/2026/07/newport-man-dies-after-alleged-drunk-driver-struck-him-in-memorial-boulevard-crosswalk-dui-charge-upgraded/"
+      "https://whatsupnewp.com/2026/07/newport-man-dies-after-alleged-drunk-driver-struck-him-in-memorial-boulevard-crosswalk-dui-charge-upgraded/",
+      "https://coastalabc.com/news/local/man-in-wheelchair-struck-in-newport-has-died-driver-charged-jose-monterroso-villagran-july-24-2026"
     ],
     "lat": 41.48347795,
     "lon": -71.306761,
@@ -195,13 +196,14 @@
     "confidence": "high",
     "story_date": "2026-07-24",
     "sources": [
-      "https://www.newportri.com/story/news/crime/2026/07/24/newport-man-dies-after-being-hit-by-alleged-intoxicated-driver/91035996007/"
+      "https://www.newportri.com/story/news/crime/2026/07/24/newport-man-dies-after-being-hit-by-alleged-intoxicated-driver/91035996007/",
+      "https://www.newportthisweek.com/articles/man-charged-with-dui-after-collision-with-pedestrian-on-memorial-boulevard/"
     ],
-    "lat": 41.4899827,
-    "lon": -71.3137707,
-    "geocode_method": "city-centroid",
-    "geocode_attempts": 1,
-    "needs_review": true,
+    "lat": 41.48347795,
+    "lon": -71.306761,
+    "geocode_method": "overpass-intersection",
+    "geocode_attempts": 2,
+    "needs_review": false,
     "added": "2026-07-25"
   }
 ]

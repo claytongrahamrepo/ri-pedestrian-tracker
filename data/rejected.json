@@ -410,5 +410,25 @@
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4789049924399-9-year-old-riding-e-scooter-dies-after-driver-turns-into-herndon-neighborhood-police",
     "reason": "The incident occurred in Herndon, Virginia, not Rhode Island."
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/other/connecticut-man-killed-in-rhode-island-crash-after-driving-through-stop-sign-police-say/ar-AA2763Il",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.postregister.com/news/crime_courts/authorities-witness-follows-fleeing-driver-home-after-ammon-parking-lot-hit-and-run-crash-injures/article_0802cd9d-0d1c-472f-ad6f-c01704b6b506.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4789451143668-pedestrian-killed-in-car-crash-in-water-mill-investigation-ongoing-police",
+    "reason": "The incident occurred in Water Mill, New York, not Rhode Island."
+  },
+  {
+    "url": "https://wach.com/news/local/coroner-ids-pedestrian-killed-in-orangeburg-county-crash-us-21-county-coroner",
+    "reason": "The incident occurred in South Carolina, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/hays-post-560458/4791586988451-prison-for-kansas-man-in-dui-crash-that-killed-young-mother",
+    "reason": "The article discusses a DUI crash in Kansas that killed a young mother, which is not relevant as it did not occur in Rhode Island."
   }
 ]
