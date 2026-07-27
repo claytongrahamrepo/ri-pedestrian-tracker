@@ -430,5 +430,29 @@
   {
     "url": "https://www.newsbreak.com/hays-post-560458/4791586988451-prison-for-kansas-man-in-dui-crash-that-killed-young-mother",
     "reason": "The article discusses a DUI crash in Kansas that killed a young mother, which is not relevant as it did not occur in Rhode Island."
+  },
+  {
+    "url": "https://www.postregister.com/news/national/a-float-plane-changed-course-to-avoid-a-storm-before-crashing-on-a-washington-island/article_d0d8fcc1-b297-5217-8807-24c4e97a266c.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://abc7ny.com/post/road-rage-attacker-allegedly-struck-killed-man-baseball-bat-crash-belt-parkway/19579595/",
+    "reason": "The article reports on a road rage incident involving an assault with a baseball bat, not a traffic incident involving a person struck by a motor vehicle."
+  },
+  {
+    "url": "https://www.therecord.com/news/waterloo-region/new-brunswick-man-killed-in-collision-outside-listowel/article_b3e9d697-04c2-5634-9615-7a2e7fa64171.html",
+    "reason": "The incident occurred in Listowel, Ontario, Canada, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4792514825286-bay-shore-woman-killed-in-overnight-crash-police",
+    "reason": "The incident occurred in Long Island, New York, not in Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/the-sacramento-bee-1592486/4791382671701-pedestrian-67-identified-by-coroner-in-fatal-south-sacramento-hit-and-run",
+    "reason": "The incident occurred in California, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4793698772431-cyclist-struck-killed-by-vehicle-in-rumson-prosecutor",
+    "reason": "The incident occurred in Rumson, New Jersey, not Rhode Island."
   }
 ]
