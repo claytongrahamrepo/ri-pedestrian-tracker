@@ -454,5 +454,37 @@
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4793698772431-cyclist-struck-killed-by-vehicle-in-rumson-prosecutor",
     "reason": "The incident occurred in Rumson, New Jersey, not Rhode Island."
+  },
+  {
+    "url": "https://greensboro.com/news/local/crime-courts/article_0d12ea40-1e7f-43b5-91d6-8626f51f5ad5.html",
+    "reason": "The incident occurred in Greensboro, North Carolina, not Rhode Island."
+  },
+  {
+    "url": "https://www.kake.com/home/wichita-man-dead-after-being-hit-by-a-car-minutes-after-separate-crash-khp/article_c508ee4e-3554-4996-9849-a6c347509e99.html",
+    "reason": "The incident occurred in Kansas, not Rhode Island."
+  },
+  {
+    "url": "https://turnto10.com/news/local/crash-shuts-down-interstate-195-west-westport-police-officers-injuries-lanes-blocked-firefighters-ambulance-july-27-2026",
+    "reason": "The crash occurred in Westport, Massachusetts, not Rhode Island."
+  },
+  {
+    "url": "https://www.hannapub.com/concordiasentinel/news/local_state_headlines/pedestrian-killed-in-hwy-84-crash/article_db583764-b668-4696-8c6a-5814a2694e67.html",
+    "reason": "The incident occurred in Louisiana, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/newsnation-2045693/4793807122061-car-slams-into-pedestrians-during-street-takeover-hit-and-run-2-hospitalized",
+    "reason": "The incident occurred in California, not Rhode Island."
+  },
+  {
+    "url": "https://patch.com/rhode-island/warwick/ma-man-charged-dui-after-warwick-crash-cops",
+    "reason": "The article reports on a DUI charge following a motor vehicle accident, but does not mention a person outside a vehicle being struck."
+  },
+  {
+    "url": "https://www.newsbreak.com/nbc-palm-springs-298461496/4794822794059-coachella-hit-and-run-injures-bicyclist-as-authorities-search-for-driver",
+    "reason": "The incident occurred in Coachella, California, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/wral-news-556047/4794423548449-14-year-old-bicyclist-dies-after-nashville-crash-teen-driver-charged",
+    "reason": "The article reports on a bicyclist who died in Nashville, Tennessee, not in Rhode Island."
   }
 ]
