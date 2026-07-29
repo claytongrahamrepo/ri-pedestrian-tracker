@@ -486,5 +486,61 @@
   {
     "url": "https://www.newsbreak.com/wral-news-556047/4794423548449-14-year-old-bicyclist-dies-after-nashville-crash-teen-driver-charged",
     "reason": "The article reports on a bicyclist who died in Nashville, Tennessee, not in Rhode Island."
+  },
+  {
+    "url": "https://t.co/azkU0GaH5k",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://t.co/ljNUhBGBxC",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://patch.com/massachusetts/attleboro/pedestrian-struck-killed-train-attleboros-south-main-street-station",
+    "reason": "The incident involved a pedestrian struck by a train in Attleboro, Massachusetts, which is not relevant as it occurred outside of Rhode Island."
+  },
+  {
+    "url": "https://patch.com/new-hampshire/concord-nh/pedestrian-killed-interstate-95-struck-tractor-trailer-new-hampshire-state",
+    "reason": "The incident occurred in New Hampshire, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4793660866502-bond-100-000-for-alleged-east-liverpool-fatal-hit-and-run-driver",
+    "reason": "The article does not report a traffic incident involving a person struck by a motor vehicle in Rhode Island."
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/se-mass/crash-shuts-down-lanes-on-i-195-in-westport/",
+    "reason": "The article reports on a crash involving a vehicle in Westport, Massachusetts, with no mention of a pedestrian or non-vehicle occupant being struck."
+  },
+  {
+    "url": "https://www.bakersfield.com/news/coroner-pedestrian-killed-in-lamont/article_21a942d5-c288-4f7d-be44-78c52f42ed69.html",
+    "reason": "The incident occurred in Lamont, California, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/dailyfly-news-287279308/4797763509020-north-idaho-man-killed-in-shoshone-county-crash",
+    "reason": "The article reports on a single-vehicle crash involving a driver, not a pedestrian or cyclist, in Idaho."
+  },
+  {
+    "url": "https://www.newsbreak.com/hays-post-560458/4797663078793-kansas-man-killed-in-crash-with-a-dump-truck",
+    "reason": "The article reports on a crash involving a dump truck in Kansas, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/brproud-1590545/4796463368749-gofundme-started-for-man-killed-in-hit-and-run-crash-in-baton-rouge",
+    "reason": "The incident occurred in Baton Rouge, Louisiana, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/masslive-com-513123/4795779985992-man-killed-in-crash-on-mass-highway-identified",
+    "reason": "The article reports on a crash that occurred on a Massachusetts highway, not in Rhode Island."
+  },
+  {
+    "url": "https://www.kake.com/home/man-hit-by-car-dies-after-crashing-motorcycle-near-valley-center/article_fa1eda56-9c5f-4411-8bc6-c558b84bed0b.html",
+    "reason": "The article reports on a motorcycle crash, which does not involve a pedestrian or cyclist being struck."
+  },
+  {
+    "url": "https://patch.com/rhode-island/providence/north-providence-man-arrested-after-crash-cops",
+    "reason": "The article reports on a man being arrested after a crash but does not mention any person outside a motor vehicle being struck."
+  },
+  {
+    "url": "https://www.newsbreak.com/hays-post-560458/4797663317530-bicyclist-dies-after-struck-by-an-suv-on-kansas-highway",
+    "reason": "The incident occurred in Kansas, not Rhode Island."
   }
 ]
