@@ -1,58 +1,44 @@
 [
   {
-    "url": "https://t.co/T8TAhqEX6J",
-    "title": "Pedestrian Injured at Springetts Oak Park, Springettsbury Twp, PA - t.co",
-    "published": "2026-07-26T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://t.co/rM8KbDaiz9",
     "title": "Deadly Two-Vehicle Collision at US Hwy 63, Bono, AR - t.co",
     "published": "2026-07-27T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/D5k9VlJ8ZI",
     "title": "Man Killed in Pedestrian Crash on Camino Ruiz in San Diego, CA - t.co",
     "published": "2026-07-27T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/JYbNr58doM",
     "title": "Rider Killed in Collision at Geist and Loftus Roads in Fairbanks, AK - t.co",
     "published": "2026-07-27T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/SdsHigf3hN",
     "title": "Pedestrian Killed in Fatal Collision Near Auraria Pkwy, Denver, CO - t.co",
     "published": "2026-07-27T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://turnto10.com/news/local/person-struck-killed-train-south-main-street-attleboro-bristol-county-massachusetts-july-28-2026",
-    "title": "Person struck, killed by train in Attleboro - WJAR",
-    "published": "2026-07-29T04:39:34+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://siouxcityjournal.com/news/state-regional/article_b0626b3b-6142-4c52-8ace-ffd8fefa0383.html",
-    "title": "Pedestrian hit at Storm Lake Walmart dies from injuries - Sioux City Journal",
-    "published": "2026-07-28T09:45:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.avenuenews.com/news/local/police-investigating-fatal-dundalk-hit-and-run/article_bc9a10b5-58bb-4603-8d61-422e9d43da37.html",
     "title": "Police investigating fatal Dundalk hit-and-run - The Avenue News",
     "published": "2026-07-27T17:25:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
+  },
+  {
+    "url": "https://www.bostonglobe.com/2026/07/28/metro/victim-scooter-struck-dorchester/",
+    "title": "Scooter rider died after being struck by vehicle in Dorchester and dragged 100 yards, police say - The Boston Globe",
+    "published": "2026-07-28T17:07:00+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
   }
 ]

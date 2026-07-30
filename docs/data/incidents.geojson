@@ -241,6 +241,62 @@
         "story_date": "2026-07-24",
         "precision": "intersection"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4830718,
+          41.9916509
+        ]
+      },
+      "properties": {
+        "id": "04c8e6d7afd3",
+        "involving": "pedestrian",
+        "date": "2026-07-29",
+        "date_precision": "day",
+        "city": "Woonsocket",
+        "location": "Mendon Road",
+        "severity": "fatal",
+        "pedestrians_struck": 1,
+        "victim_age": null,
+        "hit_and_run": false,
+        "summary": "A man was killed after being struck by a car in Woonsocket.",
+        "sources": [
+          "https://turnto10.com/news/local/man-fatally-struck-vehicle-woonsocket-police-officers-mendon-road-hospitalized-july-29-2026"
+        ],
+        "story_date": "2026-07-30",
+        "precision": "street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3137707,
+          41.4899827
+        ]
+      },
+      "properties": {
+        "id": "a0b5b40d2f59",
+        "involving": "other",
+        "date": "2026-07-22",
+        "date_precision": "day",
+        "city": "Newport",
+        "location": "intersection in downtown Newport",
+        "severity": "fatal",
+        "pedestrians_struck": 1,
+        "victim_age": 64,
+        "hit_and_run": false,
+        "summary": "A 64-year-old man riding a mobility scooter was struck and killed by a car in Newport.",
+        "sources": [
+          "https://coastalabc.com/news/local/family-remembers-beloved-musician-killed-being-struck-car-intersection-mobility-scooter-july-29-2026"
+        ],
+        "story_date": "2026-07-29",
+        "precision": "centroid"
+      }
     }
   ]
 }

@@ -542,5 +542,29 @@
   {
     "url": "https://www.newsbreak.com/hays-post-560458/4797663317530-bicyclist-dies-after-struck-by-an-suv-on-kansas-highway",
     "reason": "The incident occurred in Kansas, not Rhode Island."
+  },
+  {
+    "url": "https://t.co/T8TAhqEX6J",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://turnto10.com/news/local/person-struck-killed-train-south-main-street-attleboro-bristol-county-massachusetts-july-28-2026",
+    "reason": "The article reports a person struck by a train in Attleboro, Massachusetts, which is not relevant as it does not involve a motor vehicle incident in Rhode Island."
+  },
+  {
+    "url": "https://siouxcityjournal.com/news/state-regional/article_b0626b3b-6142-4c52-8ace-ffd8fefa0383.html",
+    "reason": "The incident occurred in Iowa, not Rhode Island."
+  },
+  {
+    "url": "https://turnto10.com/news/local/investigators-say-man-was-seen-on-train-tracks-before-being-fatally-struck-in-attleboro-july-29-2026",
+    "reason": "The incident involved a person being struck by a train, which is not relevant."
+  },
+  {
+    "url": "https://www.citywatchla.com/state-watch/33125-in-california-880-pedestrians-a-year-are-killed-walking-after-dark-making-it-the-seventh-deadliest-state-in-america-for-nighttime-pedestrian-fatalities",
+    "reason": "The article discusses pedestrian fatalities in California, not Rhode Island."
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4798711998630-stoughton-mechanic-39-killed-in-early-morning-crash-months-after-wife-s-death",
+    "reason": "The incident occurred in Massachusetts, not Rhode Island."
   }
 ]
