@@ -1,43 +1,155 @@
 [
   {
-    "url": "https://t.co/rM8KbDaiz9",
-    "title": "Deadly Two-Vehicle Collision at US Hwy 63, Bono, AR - t.co",
-    "published": "2026-07-27T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/D5k9VlJ8ZI",
-    "title": "Man Killed in Pedestrian Crash on Camino Ruiz in San Diego, CA - t.co",
-    "published": "2026-07-27T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/JYbNr58doM",
-    "title": "Rider Killed in Collision at Geist and Loftus Roads in Fairbanks, AK - t.co",
-    "published": "2026-07-27T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/SdsHigf3hN",
-    "title": "Pedestrian Killed in Fatal Collision Near Auraria Pkwy, Denver, CO - t.co",
-    "published": "2026-07-27T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://www.avenuenews.com/news/local/police-investigating-fatal-dundalk-hit-and-run/article_bc9a10b5-58bb-4603-8d61-422e9d43da37.html",
-    "title": "Police investigating fatal Dundalk hit-and-run - The Avenue News",
-    "published": "2026-07-27T17:25:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.bostonglobe.com/2026/07/28/metro/victim-scooter-struck-dorchester/",
     "title": "Scooter rider died after being struck by vehicle in Dorchester and dragged 100 yards, police say - The Boston Globe",
     "published": "2026-07-28T17:07:00+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/deadly-pedestrian-accident-raising-safety-concerns-woonsocket-residents-police-officers-mendon-road-july-30-2026",
+    "title": "Deadly pedestrian accident raising safety concerns for Woonsocket residents - WJAR",
+    "published": "2026-07-31T02:00:13+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newportthisweek.com/articles/driver-charged-in-pedestrian-death/",
+    "title": "Driver Charged in Pedestrian Death - Newport This Week",
+    "published": "2026-07-30T17:12:16+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/two-people-struck-vehicle-west-warwick-police-officers-main-street-investigation-injuries-july-30-2026",
+    "title": "Two people struck by vehicle in West Warwick - WJAR",
+    "published": "2026-07-31T01:55:28+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/newsletter-daily/man-fatally-struck-vehicle-woonsocket-police-officers-mendon-road-hospitalized-july-29-2026",
+    "title": "Man fatally struck by vehicle in Woonsocket - coastalabc.com",
+    "published": "2026-07-30T10:10:05+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/boston-500265/4800110904333-pedestrian-struck-by-vehicle-on-cape-cod-has-died",
+    "title": "Pedestrian struck by vehicle on Cape Cod has died - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T15:15:04+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4800477235121-pedestrian-struck-on-i-95-in-milford-police-urge-drivers-to-avoid-area",
+    "title": "Pedestrian Struck On I-95 In Milford; Police Urge Drivers To Avoid Area - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T15:22:25+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/washington-state-news-network-341419340/4800393764208-a-fatal-pedestrian-collision-closed-sr-167-overnight-in-renton",
+    "title": "A Fatal Pedestrian Collision Closed SR-167 Overnight in Renton - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T19:24:12+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/1010wins-560919/4798158221710-17-year-old-e-bike-rider-killed-in-lower-manhattan-collision",
+    "title": "17-year-old e-bike rider killed in Lower Manhattan collision - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T02:20:25+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/family-remembers-beloved-musician-killed-being-struck-car-intersection-mobility-scooter-july-29-2026",
+    "title": "Family remembers beloved musician killed after being struck by car - WJAR",
+    "published": "2026-07-29T23:36:42+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.mohavedailynews.com/news/bullhead-city-pedestrian-killed-in-collision-on-highway-95/article_9967dbc9-8fec-4de1-92c4-dc10b9e319fe.html",
+    "title": "Bullhead City pedestrian killed in collision on Highway 95 - mohavedailynews.com",
+    "published": "2026-07-29T15:35:19+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-standard-2033851/4801720378379-man-who-stole-maserati-and-killed-pensioner-in-crash-faces-lengthy-sentence",
+    "title": "Man who stole Maserati and killed pensioner in crash faces ‘lengthy’ sentence - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T11:25:59+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-star-democrat-1593109/4800935615089-update-marydel-man-killed-in-crash-on-matthewstown-road",
+    "title": "UPDATE: Marydel man killed in crash on Matthewstown Road - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T16:39:47+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wcpo-9-cincinnati-563664/4797490056652-coroner-identifies-woman-killed-in-crash-near-milford-township-in-butler-county",
+    "title": "Coroner identifies woman killed in crash near Milford Township in Butler County - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T00:37:50+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-shenandoah-pa-sentinel-1702173/4801369743080-suspect-arrested-in-hit-and-run-death-of-conyngham-man",
+    "title": "Suspect arrested in hit-and-run death of Conyngham man - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T06:26:56+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wish-tv-2107872/4800082073003-marion-woman-dies-after-crashing-into-back-of-semitruck",
+    "title": "Marion woman dies after crashing into back of semitruck - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T15:12:12+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://greensboro.com/news/local/crime-courts/article_13349714-cec4-43a4-b755-d64383c3a830.html",
+    "title": "Fayetteville man faces additional charges in Greensboro pedestrian hit-and-run - Greensboro News and Record",
+    "published": "2026-07-30T18:15:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://herald-review.com/news/local/crime-courts/article_753d6d48-3ddc-4c80-83fc-afcd2543147c.html",
+    "title": "Arrest made in pedestrian hit-and-run incident in Decatur - Herald-Review.com",
+    "published": "2026-07-30T16:30:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/davidson-county-source-1591577/4800741324568-hit-and-run-driver-arrested-after-four-pedestrians-injured-in-nashville",
+    "title": "Hit-and-Run Driver Arrested After Four Pedestrians Injured in Nashville - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T21:02:17+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/boston-500265/4800563330593-critical-mass-boston-to-hold-15-mile-bike-ride-in-remembrance-of-cyclist-struck-and-killed-earlier-this-month",
+    "title": "Critical Mass Boston to hold 15-mile bike ride in remembrance of cyclist struck and killed earlier this month - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T19:55:16+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/us/articles/man-dies-struck-vehicle-while-150346325.html",
+    "title": "Man dies after struck by vehicle while riding scooter in Cleveland - yahoo.com",
+    "published": "2026-07-29T15:03:46+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/investigators-say-man-was-seen-on-train-tracks-before-being-fatally-struck-in-attleboro-july-29-2026",
+    "title": "Investigators say man was seen on train tracks before being fatally struck in Attleboro - coastalabc.com",
+    "published": "2026-07-29T20:41:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }

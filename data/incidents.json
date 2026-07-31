@@ -252,7 +252,7 @@
     "lat": 41.4899827,
     "lon": -71.3137707,
     "geocode_method": "city-centroid",
-    "geocode_attempts": 1,
+    "geocode_attempts": 2,
     "needs_review": true,
     "added": "2026-07-30"
   }
