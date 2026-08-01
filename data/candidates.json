@@ -123,7 +123,7 @@
     "title": "Arrest made in pedestrian hit-and-run incident in Decatur - Herald-Review.com",
     "published": "2026-07-30T16:30:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/davidson-county-source-1591577/4800741324568-hit-and-run-driver-arrested-after-four-pedestrians-injured-in-nashville",
@@ -151,6 +151,104 @@
     "title": "Investigators say man was seen on train tracks before being fatally struck in Attleboro - coastalabc.com",
     "published": "2026-07-29T20:41:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://gritdaily.com/pedestrians-killed-by-hit-and-run-drivers-each-year/",
+    "title": "Nearly 1,900 Pedestrians Are Killed by Hit-and-Run Drivers Each Year in the U.S. - gritdaily.com",
+    "published": "2026-07-31T20:16:17+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/two-people-struck-vehicle-west-warwick-police-officers-main-street-investigation-injuries-july-30-2026",
+    "title": "Driver charged in crash that injured two pedestrians in West Warwick - coastalabc.com",
+    "published": "2026-07-31T10:29:17+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/jersey-shore-online-560679/4802427781079-pedestrian-struck-after-fleeing-ice-agents",
+    "title": "Pedestrian Struck After Fleeing ICE Agents - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T18:26:30+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/fox-13-news-563658/4802136905631-man-in-serious-condition-after-being-struck-by-vehicle-on-van-winkle-expressway",
+    "title": "Man in serious condition after being struck by vehicle on Van Winkle Expressway - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T16:45:07+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4802086897404-driver-arrested-in-fatal-hit-and-run-that-killed-82-year-old-pedestrian",
+    "title": "Driver arrested in fatal hit-and-run that killed 82-year-old pedestrian - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T14:47:59+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/westside-current-295774264/4800319212090-76-year-old-pedestrian-fatally-struck-by-bus-near-lax-identified",
+    "title": "76-Year-Old Pedestrian Fatally Struck by Bus Near LAX Identified - NewsBreak: Local News & Alerts",
+    "published": "2026-07-30T18:02:40+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wptv-west-palm-beach-563672/4802099544257-woman-86-killed-in-crash-after-failing-to-yield-at-port-st-lucie-intersection",
+    "title": "Woman, 86, killed in crash after failing to yield at Port St. Lucie intersection - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T15:49:52+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4801846472335-woman-facing-involuntary-manslaughter-charges-in-deadly-dc-hit-and-run-crash",
+    "title": "Woman facing involuntary manslaughter charges in deadly DC hit-and-run crash - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T12:16:25+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4801931199485-eustis-city-man-killed-in-rollover-crash-in-marion-county-fhp-investigates",
+    "title": "Eustis City man killed in rollover crash in Marion County; FHP investigates - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T13:22:49+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/abc10-524545/4800934488675-police-investigate-deadly-suspected-hit-and-run-after-man-found-dead-in-stockton",
+    "title": "Police investigate deadly suspected hit-and-run after man found dead in Stockton - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T01:02:32+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wish-tv-2107872/4801887013844-teen-bicyclist-hurt-after-being-hit-by-car-in-anderson-second-bicyclist-unharmed",
+    "title": "Teen bicyclist hurt after being hit by car in Anderson, second bicyclist unharmed - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T13:02:25+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/west-bay/2-hurt-driver-charged-in-west-warwick-hit-and-run/",
+    "title": "2 hurt, driver charged in West Warwick hit-and-run - WPRI.com",
+    "published": "2026-07-31T20:19:20+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.mystateline.com/video/woman-charged-with-hit-and-run-in-loves-park-injuring-pedestrian/11933943/",
+    "title": "Woman charged with hit-and-run in Loves Park, injuring pedestrian - MyStateline",
+    "published": "2026-07-30T23:11:48+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/providence/suspect-in-deadly-2023-hit-and-run-now-facing-dui-charge/amp/",
+    "title": "Suspect in deadly 2023 hit-and-run now facing DUI charge - WPRI.com",
+    "published": "2026-07-31T15:31:15+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
     "attempts": 0
   }
 ]
