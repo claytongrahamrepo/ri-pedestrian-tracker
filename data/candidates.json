@@ -74,7 +74,7 @@
     "title": "Bullhead City pedestrian killed in collision on Highway 95 - mohavedailynews.com",
     "published": "2026-07-29T15:35:19+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/the-standard-2033851/4801720378379-man-who-stole-maserati-and-killed-pensioner-in-crash-faces-lengthy-sentence",
@@ -249,6 +249,69 @@
     "title": "Suspect in deadly 2023 hit-and-run now facing DUI charge - WPRI.com",
     "published": "2026-07-31T15:31:15+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-blade-1588774/4803879308451-pedestrian-hit-crossing-monroe-in-downtown-toledo",
+    "title": "Pedestrian hit crossing Monroe in downtown Toledo - NewsBreak: Local News & Alerts",
+    "published": "2026-08-01T14:36:30+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news-12-1587832/4803964382099-manchester-township-car-crash-leaves-woman-dead",
+    "title": "Manchester Township car crash leaves woman dead - NewsBreak: Local News & Alerts",
+    "published": "2026-08-01T12:24:59+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/q-96-1-520792/4803702205946-woman-died-two-seriously-injured-after-head-on-crash-in-maine",
+    "title": "Woman Died & Two Seriously Injured after Head-On Crash in Maine - NewsBreak: Local News & Alerts",
+    "published": "2026-08-01T12:51:57+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4802186835772-detective-takes-talon-to-leg-while-rescuing-bald-eagle-hit-by-car-in-monticello",
+    "title": "Detective Takes Talon To Leg While Rescuing Bald Eagle Hit By Car In Monticello - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T12:16:56+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/nypd-investigates-fatal-hit-run-killed-woman-corona-queens/19611830/",
+    "title": "Woman killed in Corona hit-and-run; NYPD searching for gray Ford - ABC7 New York",
+    "published": "2026-08-01T16:01:53+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://starherald.com/news/state-regional/nebraska/article_34241a9a-4e12-54c2-a677-a9eee3b04a1c.html",
+    "title": "Pedestrian critically injured in central Omaha hit-and-run - Star-Herald",
+    "published": "2026-08-01T21:15:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4802404743795-waterbury-family-seeks-answers-support-after-27-year-old-killed-in-hit-and-run-crash",
+    "title": "Waterbury Family Seeks Answers, Support After 27-Year-Old Killed In Hit-And-Run Crash - NewsBreak: Local News & Alerts",
+    "published": "2026-07-31T13:49:41+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/west-bay/man-charged-with-dui-after-family-of-5-injured-in-crash/amp/",
+    "title": "Man charged with DUI after family of 5 injured in crash - WPRI.com",
+    "published": "2026-08-01T13:17:37+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/ktar-news-560325/4803090907037-glendale-police-ask-for-help-identifying-car-involved-in-hit-and-run-that-killed-bicyclist",
+    "title": "Glendale Police ask for help identifying car involved in hit-and-run that killed bicyclist - NewsBreak: Local News & Alerts",
+    "published": "2026-08-01T02:09:24+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
   }
 ]
