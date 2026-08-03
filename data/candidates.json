@@ -313,5 +313,145 @@
     "published": "2026-08-01T02:09:24+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wkbw-7-news-buffalo-563669/4805165997337-pedestrian-flown-to-ecmc-after-niagara-falls-blvd-crash",
+    "title": "Pedestrian flown to ECMC after Niagara Falls Blvd. crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T15:11:01+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/guessing-headlights-373736147/4805079372946-florida-woman-arrested-after-fatal-hit-and-run-kills-82-year-old-pedestrian-using-a-walker",
+    "title": "Florida Woman Arrested After Fatal Hit-and-Run Kills 82-Year-Old Pedestrian Using a Walker - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T12:12:07+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.boston25news.com/news/local/26-year-old-rhode-island-man-killed-uxbridge-crash/SUFHGC66RRBJ3BSNDDJEJUZWMI/",
+    "title": "26-year-old Rhode Island man killed in Uxbridge crash - Boston 25 News",
+    "published": "2026-08-02T13:05:56+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/new-england/massachusetts/rhode-island-man-killed-in-uxbridge-crash/",
+    "title": "Rhode Island man killed in Uxbridge crash - WPRI.com",
+    "published": "2026-08-02T16:01:06+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/rhode-island-man-dies-after-crash-on-rt-146-in-uxbridge",
+    "title": "Rhode Island man dies after crash on Rt. 146 in Uxbridge - WJAR",
+    "published": "2026-08-02T13:41:42+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wcvb.com/article/severe-injuries-after-route-146-crash/73325863",
+    "title": "One dead following serious crash on Route 146 overnight - WCVB",
+    "published": "2026-08-02T14:05:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/massachusetts-state-police-investigating-after-26-year-old-rhode-island-man-killed-two-others-injured-in-highway-crash/",
+    "title": "Massachusetts State Police investigating after 26-year-old Rhode Island man killed, two others injured in highway crash - Fall River Reporter",
+    "published": "2026-08-02T13:54:58+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.masslive.com/news/2026/08/man-from-rhode-island-killed-in-uxbridge-crash.html",
+    "title": "Man from Rhode Island killed in Uxbridge crash - MassLive.com",
+    "published": "2026-08-02T15:20:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/se-mass/crash-leaves-2-seriously-injured-in-lakeville/",
+    "title": "Crash leaves 2 seriously injured in Lakeville - WPRI.com",
+    "published": "2026-07-31T15:30:56+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.masslive.com/capecod/2026/08/6-vehicle-crash-on-cape-cod-highway-sends-4-people-to-hospital.html",
+    "title": "6-vehicle crash on Cape Cod highway sends 4 people to hospital - MassLive.com",
+    "published": "2026-08-01T19:21:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/west-bay/police-shut-down-road-after-car-hits-telephone-pole/",
+    "title": "Warwick road reopens after crash - WPRI.com",
+    "published": "2026-08-03T00:01:03+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/us-and-world/ap-water-dropping-aircraft-take-off-to-tackle-major-greek-wildfire-after-2-killed-in-mid-air-collision/",
+    "title": "Water-dropping aircraft take off to tackle major Greek wildfire, after 2 killed in mid-air collision - WPRI.com",
+    "published": "2026-08-03T05:50:58+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/police-respond-head-crash-braintree-131411299.html",
+    "title": "Police respond to head on crash in Braintree - Yahoo",
+    "published": "2026-08-01T13:14:11+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wwj-newsradio-950-560923/4805595792420-man-killed-in-overnight-boat-crash-in-grosse-ile",
+    "title": "Man killed in overnight boat crash in Grosse Ile - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T21:35:19+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wrtv-563673/4801909459007-teen-bicyclist-hurt-after-being-hit-by-car-in-anderson",
+    "title": "Teen bicyclist hurt after being hit by car in Anderson - NewsBreak: Local News & Alerts",
+    "published": "2026-08-01T02:51:18+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://kdhnews.com/news/crime/kpd-reports-a-fatal-hit-and-run-accident-in-the-early-hours-of-sunday/article_d8396a74-5b19-4759-9035-08045392d02e.html",
+    "title": "KPD reports a fatal hit-and-run accident in the early hours of Sunday - The Killeen Daily Herald",
+    "published": "2026-08-02T15:15:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://journalstar.com/news/state-regional/nebraska/article_0724e75c-a37c-5186-9e24-c85b233b7d7b.html",
+    "title": "Pedestrian critically injured in central Omaha hit-and-run - Lincoln Journal Star",
+    "published": "2026-08-01T21:15:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://omaha.com/news/local/article_987c4ae5-7f48-472b-8e3e-a73204bd8997.html",
+    "title": "Pedestrian critically injured in central Omaha hit-and-run - Omaha World-Herald",
+    "published": "2026-08-01T21:15:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/shore-news-network-560352/4803921169661-driver-charged-in-fatal-foggy-bottom-hit-and-run",
+    "title": "Driver charged in fatal Foggy Bottom hit and run - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T05:11:29+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/shore-news-network-560352/4805569457820-cumberland-crash-on-greene-street-leads-to-drug-charges-cyclist-injured",
+    "title": "Cumberland crash on Greene Street leads to drug charges, cyclist injured - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T20:42:49+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
   }
 ]
