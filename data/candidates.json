@@ -326,7 +326,7 @@
     "title": "Florida Woman Arrested After Fatal Hit-and-Run Kills 82-Year-Old Pedestrian Using a Walker - NewsBreak: Local News & Alerts",
     "published": "2026-08-02T12:12:07+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.boston25news.com/news/local/26-year-old-rhode-island-man-killed-uxbridge-crash/SUFHGC66RRBJ3BSNDDJEJUZWMI/",
@@ -424,7 +424,7 @@
     "title": "KPD reports a fatal hit-and-run accident in the early hours of Sunday - The Killeen Daily Herald",
     "published": "2026-08-02T15:15:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://journalstar.com/news/state-regional/nebraska/article_0724e75c-a37c-5186-9e24-c85b233b7d7b.html",
@@ -452,6 +452,111 @@
     "title": "Cumberland crash on Greene Street leads to drug charges, cyclist injured - NewsBreak: Local News & Alerts",
     "published": "2026-08-02T20:42:49+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/police-identify-75-year-old-killed-in-pedestrian-crash-in-woonsocket-mendon-road-driver-cooperating-visibility-august-3-2026",
+    "title": "Police identify 75-year-old killed in pedestrian crash in Woonsocket - coastalabc.com",
+    "published": "2026-08-04T05:21:21+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/rhode-island-man-dies-after-crash-on-rt-146-in-uxbridge",
+    "title": "Rhode Island man killed in crash on Route 146 in Uxbridge - coastalabc.com",
+    "published": "2026-08-02T13:42:25+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/we-are-new-jersey-341419281/4807335067674-teen-struck-by-vehicle-in-galloway-township-seriously-hurt",
+    "title": "Teen Struck by Vehicle in Galloway Township, Seriously Hurt - NewsBreak: Local News & Alerts",
+    "published": "2026-08-03T21:40:13+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4805591617346-pedestrian-seriously-injured-after-being-struck-by-suv-in-mechanic-falls",
+    "title": "Pedestrian seriously injured after being struck by SUV in Mechanic Falls - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T22:19:34+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wkbw-7-news-buffalo-563669/4805165997337-pedestrian-flown-to-ecmc-after-niagara-falls-boulevard-crash",
+    "title": "Pedestrian flown to ECMC after Niagara Falls Boulevard crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T17:37:04+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4806877663805-pedestrian-airlifted-after-dwi-crash-on-li-one-of-three-drunk-wrecks-over-weekend-police",
+    "title": "Pedestrian Airlifted After DWI Crash On LI, One Of Three Drunk Wrecks Over Weekend: Police - NewsBreak: Local News & Alerts",
+    "published": "2026-08-02T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.boston25news.com/news/local/officials-identify-rhode-island-man-killed-uxbridge-car-crash-route-146/VOX7JOKDMNF73LS3KWRGYPQICA/",
+    "title": "Officials identify Rhode Island man killed in Uxbridge car crash on Route 146 - Boston 25 News",
+    "published": "2026-08-03T20:57:24+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/26-year-old-rhode-island-man-killed-in-massachusetts-highway-crash-leaves-behind-young-daughter-as-services-announced/",
+    "title": "26-year-old Rhode Island man killed in Massachusetts highway crash leaves behind young daughter as services announced - Fall River Reporter",
+    "published": "2026-08-03T21:59:44+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/blackstone-valley/family-coworkers-mourn-man-killed-in-woonsocket-crash/",
+    "title": "Family, coworkers mourn man killed in Woonsocket crash - WPRI.com",
+    "published": "2026-08-03T18:29:05+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.ctinsider.com/news/article/stamford-ct-fatal-pedestrian-crash-22370033.php",
+    "title": "Stamford police identify woman killed after being struck by SUV - CT Insider",
+    "published": "2026-08-01T18:38:31+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/miami-herald-1592483/4807311086443-man-accused-of-trapping-pedestrian-under-truck-miami-dade-deputies-say",
+    "title": "Man accused of trapping pedestrian under truck, Miami-Dade deputies say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-03T21:20:01+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.elkharttruth.com/news/briefly-bicyclist-injured-in-collision-with-vehicle/article_50d4859f-ae72-52b4-9207-fedd500625f4.html",
+    "title": "Briefly: Bicyclist injured in collision with vehicle - The Elkhart Truth",
+    "published": "2026-08-03T16:01:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/2-news-oklahoma-kjrh-tulsa-563648/4807188465713-suspect-identified-arrest-warrant-issued-following-deadly-hit-and-run-in-tulsa",
+    "title": "Suspect identified, arrest warrant issued following deadly hit-and-run in Tulsa - NewsBreak: Local News & Alerts",
+    "published": "2026-08-03T20:05:22+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/nbc-palm-springs-298461496/4807788818070-preliminary-hearing-in-hit-and-run-murder-case-reveals-new-details",
+    "title": "Preliminary Hearing in Hit-and-Run Murder Case Reveals New Details - NewsBreak: Local News & Alerts",
+    "published": "2026-08-03T19:18:17+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4807173844371-scooter-rider-killed-in-oklahoma-city-northwest-expressway-hit-and-run-as-driver-bolts",
+    "title": "Scooter Rider Killed in Oklahoma City Northwest Expressway Hit-and-Run as Driver Bolts - NewsBreak: Local News & Alerts",
+    "published": "2026-08-03T16:18:12+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
 ]
