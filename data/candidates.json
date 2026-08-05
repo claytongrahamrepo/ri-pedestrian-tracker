@@ -18,7 +18,7 @@
     "title": "Driver Charged in Pedestrian Death - Newport This Week",
     "published": "2026-07-30T17:12:16+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://turnto10.com/news/local/two-people-struck-vehicle-west-warwick-police-officers-main-street-investigation-injuries-july-30-2026",
@@ -291,7 +291,7 @@
     "title": "Pedestrian critically injured in central Omaha hit-and-run - Star-Herald",
     "published": "2026-08-01T21:15:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4802404743795-waterbury-family-seeks-answers-support-after-27-year-old-killed-in-hit-and-run-crash",
@@ -320,13 +320,6 @@
     "published": "2026-08-02T15:11:01+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/guessing-headlights-373736147/4805079372946-florida-woman-arrested-after-fatal-hit-and-run-kills-82-year-old-pedestrian-using-a-walker",
-    "title": "Florida Woman Arrested After Fatal Hit-and-Run Kills 82-Year-Old Pedestrian Using a Walker - NewsBreak: Local News & Alerts",
-    "published": "2026-08-02T12:12:07+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.boston25news.com/news/local/26-year-old-rhode-island-man-killed-uxbridge-crash/SUFHGC66RRBJ3BSNDDJEJUZWMI/",
@@ -420,18 +413,11 @@
     "attempts": 0
   },
   {
-    "url": "https://kdhnews.com/news/crime/kpd-reports-a-fatal-hit-and-run-accident-in-the-early-hours-of-sunday/article_d8396a74-5b19-4759-9035-08045392d02e.html",
-    "title": "KPD reports a fatal hit-and-run accident in the early hours of Sunday - The Killeen Daily Herald",
-    "published": "2026-08-02T15:15:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://journalstar.com/news/state-regional/nebraska/article_0724e75c-a37c-5186-9e24-c85b233b7d7b.html",
     "title": "Pedestrian critically injured in central Omaha hit-and-run - Lincoln Journal Star",
     "published": "2026-08-01T21:15:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://omaha.com/news/local/article_987c4ae5-7f48-472b-8e3e-a73204bd8997.html",
@@ -522,7 +508,7 @@
     "title": "Stamford police identify woman killed after being struck by SUV - CT Insider",
     "published": "2026-08-01T18:38:31+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/miami-herald-1592483/4807311086443-man-accused-of-trapping-pedestrian-under-truck-miami-dade-deputies-say",
@@ -556,6 +542,139 @@
     "url": "https://www.newsbreak.com/news/4807173844371-scooter-rider-killed-in-oklahoma-city-northwest-expressway-hit-and-run-as-driver-bolts",
     "title": "Scooter Rider Killed in Oklahoma City Northwest Expressway Hit-and-Run as Driver Bolts - NewsBreak: Local News & Alerts",
     "published": "2026-08-03T16:18:12+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.valleybreeze.com/news/pedestrian-in-critical-condition-after-being-struck-on-route-95-in-pawtucket/article_5f6e7acf-1a73-4587-bb61-f064ab7568fd.html",
+    "title": "Pedestrian in critical condition after being struck on Route 95 in Pawtucket - The Valley Breeze",
+    "published": "2026-08-04T18:33:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/police-responded-to-a-crash-on-i-95-in-pawtucket-aug-4-2026",
+    "title": "Pedestrian critically injured after being struck on I-95 in Pawtucket - coastalabc.com",
+    "published": "2026-08-04T20:17:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/state-police-issue-preliminary-investigation-after-pedestrian-struck-on-route-95/",
+    "title": "State Police issue preliminary investigation after pedestrian struck on Route 95 - Fall River Reporter",
+    "published": "2026-08-04T18:39:45+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/talk-radio-960am-520727/4808744246497-lafayette-police-investigate-early-morning-pedestrian-fatality-on-the-evangeline-thruway",
+    "title": "Lafayette Police Investigate Early Morning Pedestrian Fatality On The Evangeline Thruway - NewsBreak: Local News & Alerts",
+    "published": "2026-08-04T15:39:32+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/i-love-kent-560856/4807122265650-kent-police-investigating-fatal-train-collision-involving-pedestrian",
+    "title": "Kent Police investigating fatal train collision involving pedestrian - NewsBreak: Local News & Alerts",
+    "published": "2026-08-03T22:33:26+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wral-news-556047/4808698636816-pedestrian-killed-in-henderson-on-west-andrews-avenue",
+    "title": "Pedestrian killed in Henderson on West Andrews Avenue - NewsBreak: Local News & Alerts",
+    "published": "2026-08-04T13:53:20+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/new-york-state-news-341419278/4808607630691-kingston-police-searching-for-driver-after-late-night-hit-and-run",
+    "title": "Kingston Police Searching For Driver After Late-Night Hit-and-Run - NewsBreak: Local News & Alerts",
+    "published": "2026-08-04T13:36:23+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.masslive.com/news/2026/08/man-killed-in-crash-on-central-mass-highway-identified.html",
+    "title": "Man killed in crash on Central Mass. highway identified - MassLive",
+    "published": "2026-08-04T13:53:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/blackstone-valley/man-seriously-hurt-after-being-struck-by-car-on-i-95-in-pawtucket/",
+    "title": "Man seriously hurt after being struck by car on I-95 in Pawtucket - WPRI.com",
+    "published": "2026-08-04T15:26:55+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4809228334232-police-duii-driver-arrested-after-hit-and-run-injured-2-people-on-salem-sidewalk",
+    "title": "Police: DUII driver arrested after hit-and-run injured 2 people on Salem sidewalk - NewsBreak: Local News & Alerts",
+    "published": "2026-08-04T19:05:47+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.kten.com/news/pedestrian-killed-in-garvin-county-hit-and-run/article_d85ed1cd-d82d-40ba-8e3d-6fa746ffdf31.html",
+    "title": "Pedestrian killed in Garvin County hit-and-run - KTEN",
+    "published": "2026-08-04T18:45:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.stamfordadvocate.com/capitalregion/article/hartford-putnam-st-hit-and-run-pedestrian-injured-22373273.php",
+    "title": "Pedestrian 'uncooperative' after being injured in Hartford hit-run crash, police say - Stamford Advocate",
+    "published": "2026-08-04T16:01:50+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.kten.com/news/garvin-county-hit-and-run-ends-with-one-dead/article_d85ed1cd-d82d-40ba-8e3d-6fa746ffdf31.html",
+    "title": "Garvin County hit and run ends with one dead - KTEN",
+    "published": "2026-08-04T22:42:32+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://statesville.com/news/local/crime-courts/article_89d58a42-5001-490a-bafa-c908222821c7.html",
+    "title": "Iredell County woman charged in hit-and-run death of 64-year-old pedestrian - Statesville Record",
+    "published": "2026-08-04T16:44:21+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/ktar-news-560325/4805998733562-pedestrian-left-in-critical-condition-after-hit-and-run-in-west-phoenix",
+    "title": "Pedestrian left in critical condition after hit-and-run in west Phoenix - NewsBreak: Local News & Alerts",
+    "published": "2026-08-03T22:55:44+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://pantagraph.com/news/local/article_9ea537de-ef75-443a-9c28-ee88408bc697.html",
+    "title": "Cyclist killed in Sunday crash identified as Bloomington man - The Pantagraph",
+    "published": "2026-08-04T18:35:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nhregister.com/news/milford/article/milford-welches-point-road-12-year-old-hit-on-bike-22370737.php",
+    "title": "12-year-old boy on bicycle seriously hurt after Milford crash, police say - New Haven Register",
+    "published": "2026-08-02T17:15:27+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/cleveland-com-512965/4809503841159-another-bicyclist-was-killed-in-northeast-ohio-are-streets-becoming-more-dangerous",
+    "title": "Another bicyclist was killed in Northeast Ohio. Are streets becoming more dangerous? - NewsBreak: Local News & Alerts",
+    "published": "2026-08-04T21:55:40+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/nbc-chicago-509956/4809849001465-teenage-e-scooter-rider-fatally-struck-by-driver-in-chicago-marking-3rd-this-year",
+    "title": "Teenage e-scooter rider fatally struck by driver in Chicago, marking 3rd this year - NewsBreak: Local News & Alerts",
+    "published": "2026-08-05T02:24:44+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
