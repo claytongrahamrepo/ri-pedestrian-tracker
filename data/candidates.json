@@ -18,7 +18,7 @@
     "title": "Driver Charged in Pedestrian Death - Newport This Week",
     "published": "2026-07-30T17:12:16+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://turnto10.com/news/local/two-people-struck-vehicle-west-warwick-police-officers-main-street-investigation-injuries-july-30-2026",
@@ -413,13 +413,6 @@
     "attempts": 0
   },
   {
-    "url": "https://journalstar.com/news/state-regional/nebraska/article_0724e75c-a37c-5186-9e24-c85b233b7d7b.html",
-    "title": "Pedestrian critically injured in central Omaha hit-and-run - Lincoln Journal Star",
-    "published": "2026-08-01T21:15:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://omaha.com/news/local/article_987c4ae5-7f48-472b-8e3e-a73204bd8997.html",
     "title": "Pedestrian critically injured in central Omaha hit-and-run - Omaha World-Herald",
     "published": "2026-08-01T21:15:00+00:00",
@@ -502,13 +495,6 @@
     "published": "2026-08-03T18:29:05+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.ctinsider.com/news/article/stamford-ct-fatal-pedestrian-crash-22370033.php",
-    "title": "Stamford police identify woman killed after being struck by SUV - CT Insider",
-    "published": "2026-08-01T18:38:31+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/miami-herald-1592483/4807311086443-man-accused-of-trapping-pedestrian-under-truck-miami-dade-deputies-say",
@@ -627,14 +613,14 @@
     "title": "Pedestrian 'uncooperative' after being injured in Hartford hit-run crash, police say - Stamford Advocate",
     "published": "2026-08-04T16:01:50+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.kten.com/news/garvin-county-hit-and-run-ends-with-one-dead/article_d85ed1cd-d82d-40ba-8e3d-6fa746ffdf31.html",
     "title": "Garvin County hit and run ends with one dead - KTEN",
     "published": "2026-08-04T22:42:32+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://statesville.com/news/local/crime-courts/article_89d58a42-5001-490a-bafa-c908222821c7.html",
@@ -662,7 +648,7 @@
     "title": "12-year-old boy on bicycle seriously hurt after Milford crash, police say - New Haven Register",
     "published": "2026-08-02T17:15:27+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/cleveland-com-512965/4809503841159-another-bicyclist-was-killed-in-northeast-ohio-are-streets-becoming-more-dangerous",
@@ -675,6 +661,69 @@
     "url": "https://www.newsbreak.com/nbc-chicago-509956/4809849001465-teenage-e-scooter-rider-fatally-struck-by-driver-in-chicago-marking-3rd-this-year",
     "title": "Teenage e-scooter rider fatally struck by driver in Chicago, marking 3rd this year - NewsBreak: Local News & Alerts",
     "published": "2026-08-05T02:24:44+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/plymouth-woman-dies-after-being-struck-by-fallen-tree-hospital-injuries-trapped-snapped-collapse-house-porch-sitting-august-3-2026",
+    "title": "Plymouth woman dies after being struck by fallen tree - coastalabc.com",
+    "published": "2026-08-04T08:03:14+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/cecil-whig-1591339/4811448045290-woman-charged-with-attempted-murder-after-pedestrian-struck-in-port-deposit",
+    "title": "Woman charged with attempted murder after pedestrian struck in Port Deposit - NewsBreak: Local News & Alerts",
+    "published": "2026-08-05T16:00:24+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4811030853711-watertown-woman-pleads-not-guilty-after-pedestrian-struck-killed-in-crosswalk",
+    "title": "Watertown woman pleads not guilty after pedestrian struck, killed in crosswalk - NewsBreak: Local News & Alerts",
+    "published": "2026-08-05T16:04:41+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4810809783762-pedestrian-killed-after-crash-at-allentown-intersection-coroner",
+    "title": "Pedestrian Killed After Crash At Allentown Intersection: Coroner - NewsBreak: Local News & Alerts",
+    "published": "2026-08-05T10:02:51+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/robertson-county-source-1591580/4806859692576-one-killed-three-injured-after-driver-runs-red-light-on-broadway",
+    "title": "One Killed, Three Injured After Driver Runs Red Light on Broadway - NewsBreak: Local News & Alerts",
+    "published": "2026-08-04T12:49:59+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4809429604505-man-in-critical-condition-after-being-injured-in-hit-and-run-atlanta-police-say",
+    "title": "Man in critical condition after being injured in hit-and-run, Atlanta police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-04T21:00:25+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://kdhnews.com/news/texas/txdot-urges-caution-as-school-zone-crashes-rise/article_f7ef729b-c5f9-59e1-a691-8d53b64f54f4.html",
+    "title": "TxDOT urges caution as school-zone crashes rise - The Killeen Daily Herald",
+    "published": "2026-08-05T13:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/denver7-news-kmgh-563649/4811372258662-bicyclist-found-dead-a-day-after-aurora-hit-and-run-police-seek-driver",
+    "title": "Bicyclist found dead a day after Aurora hit-and-run; police seek driver - NewsBreak: Local News & Alerts",
+    "published": "2026-08-05T19:50:30+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/ok-headline-390543100/4809873607109-woman-arrested-in-fatal-tulsa-hit-and-run-that-killed-man-in-electric-wheelchair",
+    "title": "Woman Arrested in Fatal Tulsa Hit-and-Run That Killed Man in Electric Wheelchair - NewsBreak: Local News & Alerts",
+    "published": "2026-08-05T02:20:22+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }

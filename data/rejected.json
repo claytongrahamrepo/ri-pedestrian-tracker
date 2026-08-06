@@ -594,5 +594,13 @@
   {
     "url": "https://kdhnews.com/news/crime/kpd-reports-a-fatal-hit-and-run-accident-in-the-early-hours-of-sunday/article_d8396a74-5b19-4759-9035-08045392d02e.html",
     "reason": "unfetchable"
+  },
+  {
+    "url": "https://journalstar.com/news/state-regional/nebraska/article_0724e75c-a37c-5186-9e24-c85b233b7d7b.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.ctinsider.com/news/article/stamford-ct-fatal-pedestrian-crash-22370033.php",
+    "reason": "unfetchable"
   }
 ]
