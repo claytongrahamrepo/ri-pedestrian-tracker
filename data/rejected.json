@@ -602,5 +602,17 @@
   {
     "url": "https://www.ctinsider.com/news/article/stamford-ct-fatal-pedestrian-crash-22370033.php",
     "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.newportthisweek.com/articles/driver-charged-in-pedestrian-death/",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.stamfordadvocate.com/capitalregion/article/hartford-putnam-st-hit-and-run-pedestrian-injured-22373273.php",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.nhregister.com/news/milford/article/milford-welches-point-road-12-year-old-hit-on-bike-22370737.php",
+    "reason": "unfetchable"
   }
 ]
