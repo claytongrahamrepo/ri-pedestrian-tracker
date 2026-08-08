@@ -280,13 +280,6 @@
     "attempts": 0
   },
   {
-    "url": "https://starherald.com/news/state-regional/nebraska/article_34241a9a-4e12-54c2-a677-a9eee3b04a1c.html",
-    "title": "Pedestrian critically injured in central Omaha hit-and-run - Star-Herald",
-    "published": "2026-08-01T21:15:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/daily-voice-525087/4802404743795-waterbury-family-seeks-answers-support-after-27-year-old-killed-in-hit-and-run-crash",
     "title": "Waterbury Family Seeks Answers, Support After 27-Year-Old Killed In Hit-And-Run Crash - NewsBreak: Local News & Alerts",
     "published": "2026-07-31T13:49:41+00:00",
@@ -686,13 +679,6 @@
     "attempts": 0
   },
   {
-    "url": "https://kdhnews.com/news/texas/txdot-urges-caution-as-school-zone-crashes-rise/article_f7ef729b-c5f9-59e1-a691-8d53b64f54f4.html",
-    "title": "TxDOT urges caution as school-zone crashes rise - The Killeen Daily Herald",
-    "published": "2026-08-05T13:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/denver7-news-kmgh-563649/4811372258662-bicyclist-found-dead-a-day-after-aurora-hit-and-run-police-seek-driver",
     "title": "Bicyclist found dead a day after Aurora hit-and-run; police seek driver - NewsBreak: Local News & Alerts",
     "published": "2026-08-05T19:50:30+00:00",
@@ -809,6 +795,104 @@
     "title": "Rhode Island Drunken Wrong-Way Crash Prisoner Charged With Possessing Drugs - Patch",
     "published": "2026-08-06T20:35:55+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wkbw-7-news-buffalo-563669/4816541783408-pedestrian-hit-and-killed-on-niagara-falls-boulevard",
+    "title": "Pedestrian hit and killed on Niagara Falls Boulevard - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T20:51:18+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/masslive-com-513123/4816696834313-tow-truck-driver-faces-homicide-charge-after-pedestrian-killed-in-worcester-crosswalk",
+    "title": "Tow truck driver faces homicide charge after pedestrian killed in Worcester crosswalk - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T20:54:03+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.boston25news.com/news/local/one-person-dead-after-being-struck-by-commuter-rail-line-andover/VK6GO2RRVNBAZAFIIJVCQUNJVU/",
+    "title": "One person dead after being struck by train in Andover - Boston 25 News",
+    "published": "2026-08-07T22:13:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://journalnow.com/news/local/crime-courts/article_a8f3a7e7-1f2c-4226-a7b3-04fd5e3111ef.html",
+    "title": "Pedestrian struck in hit-and-run on Cloverdale Avenue in Winston-Salem - Winston-Salem Journal",
+    "published": "2026-08-07T18:15:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4816610794133-ocala-man-convicted-in-2024-crash-that-killed-19-year-old-on-us-27-in-glades-county",
+    "title": "Ocala man convicted in 2024 crash that killed 19-year-old on US 27 in Glades County - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T20:02:16+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wdea-am-1370-520600/4814373235639-freeport-man-dies-after-motorcycle-crash-on-i-295-near-yarmouth-wednesday-evening",
+    "title": "Freeport Man Dies After Motorcycle Crash On I-295 Near Yarmouth Wednesday Evening - NewsBreak: Local News & Alerts",
+    "published": "2026-08-06T19:08:01+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4816871829561-tulsa-police-say-1-pedestrian-dead-after-being-hit-by-car-near-66th-and-lewis",
+    "title": "Tulsa Police say 1 pedestrian dead after being hit by car near 66th and Lewis - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T23:02:12+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.mississauga.com/news/crime/driver-pedestrian-opp/article_afe0e644-4ace-5c19-9734-14ebd4053f33.html",
+    "title": "OPP searching for driver in Brampton hit and run that left pedestrian critically injured - Mississauga.com",
+    "published": "2026-08-07T20:27:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4816339323354-white-suv-hits-2-elderly-pedestrians-prius-in-springfield-flees-scene-police-say",
+    "title": "White SUV hits 2 elderly pedestrians, Prius in Springfield, flees scene, police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T17:10:11+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/fox-17-news-west-michigan-563680/4816888696710-kalamazoo-cyclist-apparently-struck-on-portage-street-as-city-prepares-changes",
+    "title": "Kalamazoo cyclist apparently struck on Portage Street as city prepares changes - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T23:34:23+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/nj-com-513172/4816385260339-driver-arrested-after-bicyclist-killed-in-n-j-crash",
+    "title": "Driver arrested after bicyclist killed in N.J. crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T18:15:20+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4816077937239-hit-run-driver-strikes-10-year-old-bicyclist-takes-off-in-reston-police-say-developing",
+    "title": "Hit-Run Driver Strikes 10-Year-Old Bicyclist, Takes Off In Reston, Police Say (DEVELOPING) - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T11:10:45+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4815850218269-bicyclist-killed-in-crash-with-vehicle-in-mountainside",
+    "title": "Bicyclist killed in crash with vehicle in Mountainside - NewsBreak: Local News & Alerts",
+    "published": "2026-08-07T12:12:23+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4813208435008-45-year-old-cyclist-struck-and-killed-by-semi-making-wide-turn-in-antigo-tuesday",
+    "title": "45-year-old cyclist struck and killed by semi making wide turn in Antigo Tuesday - NewsBreak: Local News & Alerts",
+    "published": "2026-08-06T22:26:01+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
   }
 ]
