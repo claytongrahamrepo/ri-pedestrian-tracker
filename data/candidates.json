@@ -63,13 +63,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.mohavedailynews.com/news/bullhead-city-pedestrian-killed-in-collision-on-highway-95/article_9967dbc9-8fec-4de1-92c4-dc10b9e319fe.html",
-    "title": "Bullhead City pedestrian killed in collision on Highway 95 - mohavedailynews.com",
-    "published": "2026-07-29T15:35:19+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/the-standard-2033851/4801720378379-man-who-stole-maserati-and-killed-pensioner-in-crash-faces-lengthy-sentence",
     "title": "Man who stole Maserati and killed pensioner in crash faces ‘lengthy’ sentence - NewsBreak: Local News & Alerts",
     "published": "2026-07-31T11:25:59+00:00",
@@ -109,7 +102,7 @@
     "title": "Fayetteville man faces additional charges in Greensboro pedestrian hit-and-run - Greensboro News and Record",
     "published": "2026-07-30T18:15:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://herald-review.com/news/local/crime-courts/article_753d6d48-3ddc-4c80-83fc-afcd2543147c.html",
@@ -522,7 +515,7 @@
     "title": "Pedestrian in critical condition after being struck on Route 95 in Pawtucket - The Valley Breeze",
     "published": "2026-08-04T18:33:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://coastalabc.com/news/local/police-responded-to-a-crash-on-i-95-in-pawtucket-aug-4-2026",
@@ -620,7 +613,7 @@
     "title": "Cyclist killed in Sunday crash identified as Bloomington man - The Pantagraph",
     "published": "2026-08-04T18:35:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/cleveland-com-512965/4809503841159-another-bicyclist-was-killed-in-northeast-ohio-are-streets-becoming-more-dangerous",
@@ -894,5 +887,68 @@
     "published": "2026-08-06T22:26:01+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/man-fatally-struck-hit-run-driver-nypd-vehicle-bronx/19647700/",
+    "title": "Man fatally struck by hit-and-run driver, then NYPD vehicle in Bronx - ABC7 New York",
+    "published": "2026-08-08T18:56:13+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/police-search-usps-driver-man-killed-hells-kitchen-hit-run/19646430/",
+    "title": "Police search for USPS driver after man killed in Hell's Kitchen hit-and-run - ABC7 New York",
+    "published": "2026-08-08T15:59:28+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/q9M6mWbMye",
+    "title": "Pedestrian Killed in Accident on US-70 Near Morehead City, NC - t.co",
+    "published": "2026-08-07T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://fallriverreporter.com/authorities-identify-47-year-old-man-killed-in-rhode-island-afternoon-motorcycle-crash/",
+    "title": "Authorities identify 47-year-old man killed in Rhode Island afternoon motorcycle crash - Fall River Reporter",
+    "published": "2026-08-08T22:24:56+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-killed-in-narragansett-motorcycle-crash",
+    "title": "Man killed in Narragansett motorcycle crash - WJAR",
+    "published": "2026-08-08T15:19:12+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.thestar.com/news/gta/highway-404-southbound-closed-after-pedestrian-killed-by-transport-truck-near-finch/article_efc8c7c1-dbbd-4383-a75e-232383418402.html",
+    "title": "Pedestrian dead after being hit by truck on Highway 404 near Finch - Toronto Star",
+    "published": "2026-08-08T13:12:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.facebook.com/Boston25News/videos/watch-video-shared-with-boston-25-shows-a-car-speeding-down-pleasant-street-in-b/1498111148736941/",
+    "title": "Boston 25 News. . #WATCH: Video shared with Boston 25 shows a car speeding down Pleasant Street in Brockton and the aftermath of a crash that ended with the vehicle in a home. Four people were transported to the hospital. One person was seriously injur - facebook.com",
+    "published": "2026-08-08T15:37:21+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/SZBstGkjIr",
+    "title": "Clermont, FL Bicyclist Killed in US-192 Crash - t.co",
+    "published": "2026-08-07T07:00:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/LJDnT3MyWf",
+    "title": "Motorcyclist Killed in Crash on I-35 in Clarke Co, IA - t.co",
+    "published": "2026-08-07T07:00:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 1
   }
 ]
