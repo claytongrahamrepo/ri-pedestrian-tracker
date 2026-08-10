@@ -98,13 +98,6 @@
     "attempts": 0
   },
   {
-    "url": "https://greensboro.com/news/local/crime-courts/article_13349714-cec4-43a4-b755-d64383c3a830.html",
-    "title": "Fayetteville man faces additional charges in Greensboro pedestrian hit-and-run - Greensboro News and Record",
-    "published": "2026-07-30T18:15:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://herald-review.com/news/local/crime-courts/article_753d6d48-3ddc-4c80-83fc-afcd2543147c.html",
     "title": "Arrest made in pedestrian hit-and-run incident in Decatur - Herald-Review.com",
     "published": "2026-07-30T16:30:00+00:00",
@@ -907,7 +900,7 @@
     "title": "Pedestrian Killed in Accident on US-70 Near Morehead City, NC - t.co",
     "published": "2026-08-07T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://fallriverreporter.com/authorities-identify-47-year-old-man-killed-in-rhode-island-afternoon-motorcycle-crash/",
@@ -935,20 +928,76 @@
     "title": "Boston 25 News. . #WATCH: Video shared with Boston 25 shows a car speeding down Pleasant Street in Brockton and the aftermath of a crash that ended with the vehicle in a home. Four people were transported to the hospital. One person was seriously injur - facebook.com",
     "published": "2026-08-08T15:37:21+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/SZBstGkjIr",
     "title": "Clermont, FL Bicyclist Killed in US-192 Crash - t.co",
     "published": "2026-08-07T07:00:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/LJDnT3MyWf",
     "title": "Motorcyclist Killed in Crash on I-35 in Clarke Co, IA - t.co",
     "published": "2026-08-07T07:00:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
+  },
+  {
+    "url": "https://coastalabc.com/news/local/man-critically-injured-in-overnight-crash-08-09-2026",
+    "title": "Man critically injured in overnight crash - coastalabc.com",
+    "published": "2026-08-09T12:48:48+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4819063956393-woman-baby-killed-in-boat-crash-off-liberty-island-reports",
+    "title": "Woman, Baby Killed In Boat Crash Off Liberty Island: Reports - NewsBreak: Local News & Alerts",
+    "published": "2026-08-09T08:54:19+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wxyz-detroit-7-action-news-563681/4819154522091-pedestrian-killed-after-being-hit-by-car-on-detroit-s-east-side",
+    "title": "Pedestrian killed after being hit by car on Detroit's east side - NewsBreak: Local News & Alerts",
+    "published": "2026-08-09T15:10:11+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/police-arrest-usps-employee-involved-deadly-hells-kitchen-hit-run/19654115/",
+    "title": "Police arrest USPS employee involved in deadly Hell's Kitchen hit and run - ABC7 New York",
+    "published": "2026-08-10T01:41:59+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://journalnow.com/news/local/crime-courts/article_f318d058-d3f8-5ab2-8fa2-30e5d0016294.html",
+    "title": "Winston-Salem man charged in hit and run, police identify injured pedestrian - Winston-Salem Journal",
+    "published": "2026-08-09T16:30:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/bradenton-herald-1592551/4819525129444-woman-charged-in-life-threatening-bradenton-hit-and-run-police-say",
+    "title": "Woman charged in ‘life-threatening' Bradenton hit-and-run, police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-09T19:54:33+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/mlive-513121/4819492405508-hit-and-run-driver-flees-after-striking-pedestrian-in-flint",
+    "title": "Hit-and-run driver flees after striking pedestrian in Flint - NewsBreak: Local News & Alerts",
+    "published": "2026-08-09T19:17:33+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/blackstone-valley/man-seriously-injured-in-pawtucket-motorcycle-crash/",
+    "title": "Person seriously injured in Pawtucket motorcycle crash - wpri.com",
+    "published": "2026-08-09T14:41:38+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
   }
 ]
