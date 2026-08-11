@@ -578,7 +578,7 @@
     "title": "Pedestrian killed in Garvin County hit-and-run - KTEN",
     "published": "2026-08-04T18:45:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.kten.com/news/garvin-county-hit-and-run-ends-with-one-dead/article_d85ed1cd-d82d-40ba-8e3d-6fa746ffdf31.html",
@@ -809,7 +809,7 @@
     "title": "Pedestrian struck in hit-and-run on Cloverdale Avenue in Winston-Salem - Winston-Salem Journal",
     "published": "2026-08-07T18:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4816610794133-ocala-man-convicted-in-2024-crash-that-killed-19-year-old-on-us-27-in-glades-county",
@@ -837,7 +837,7 @@
     "title": "OPP searching for driver in Brampton hit and run that left pedestrian critically injured - Mississauga.com",
     "published": "2026-08-07T20:27:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4816339323354-white-suv-hits-2-elderly-pedestrians-prius-in-springfield-flees-scene-police-say",
@@ -896,13 +896,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/q9M6mWbMye",
-    "title": "Pedestrian Killed in Accident on US-70 Near Morehead City, NC - t.co",
-    "published": "2026-08-07T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://fallriverreporter.com/authorities-identify-47-year-old-man-killed-in-rhode-island-afternoon-motorcycle-crash/",
     "title": "Authorities identify 47-year-old man killed in Rhode Island afternoon motorcycle crash - Fall River Reporter",
     "published": "2026-08-08T22:24:56+00:00",
@@ -922,27 +915,6 @@
     "published": "2026-08-08T13:12:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.facebook.com/Boston25News/videos/watch-video-shared-with-boston-25-shows-a-car-speeding-down-pleasant-street-in-b/1498111148736941/",
-    "title": "Boston 25 News. . #WATCH: Video shared with Boston 25 shows a car speeding down Pleasant Street in Brockton and the aftermath of a crash that ended with the vehicle in a home. Four people were transported to the hospital. One person was seriously injur - facebook.com",
-    "published": "2026-08-08T15:37:21+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/SZBstGkjIr",
-    "title": "Clermont, FL Bicyclist Killed in US-192 Crash - t.co",
-    "published": "2026-08-07T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/LJDnT3MyWf",
-    "title": "Motorcyclist Killed in Crash on I-35 in Clarke Co, IA - t.co",
-    "published": "2026-08-07T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://coastalabc.com/news/local/man-critically-injured-in-overnight-crash-08-09-2026",
@@ -997,6 +969,97 @@
     "url": "https://www.wpri.com/news/local-news/blackstone-valley/man-seriously-injured-in-pawtucket-motorcycle-crash/",
     "title": "Person seriously injured in Pawtucket motorcycle crash - wpri.com",
     "published": "2026-08-09T14:41:38+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/3-people-injured-control-car-crashes-nesconset-suffolk-county/19656284/",
+    "title": "Construction worker killed, 2 others hurt after out-of-control car crashes in Nesconset, Suffolk County - ABC7 New York",
+    "published": "2026-08-10T12:35:31+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/south-county/man-dies-after-motorcycle-accident-in-narragansett/",
+    "title": "Man dies after Narragansett motorcycle crash - WPRI.com",
+    "published": "2026-08-08T17:18:21+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.eacourier.com/news/pedestrian-killed-in-sr-266-hit-and-run-friday/article_7140f611-370a-4e65-8594-112e15b35990.html",
+    "title": "DPS investigates fatal hit-and-run on SR 266 east of Bonita - Eastern Arizona Courier",
+    "published": "2026-08-10T17:10:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4820614514600-pedestrian-airlifted-after-crash-manchester-pd",
+    "title": "Pedestrian Airlifted After Crash: Manchester PD - NewsBreak: Local News & Alerts",
+    "published": "2026-08-10T09:30:03+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wptv-west-palm-beach-563672/4820787149565-student-16-hit-by-car-while-crossing-port-st-lucie-intersection",
+    "title": "Student, 16, hit by car while crossing Port St. Lucie intersection - NewsBreak: Local News & Alerts",
+    "published": "2026-08-10T16:06:26+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4816874849547-tulsa-police-say-a-pedestrian-dead-after-being-hit-by-car-near-66th-and-lewis",
+    "title": "Tulsa Police say a pedestrian dead after being hit by car near 66th and Lewis - NewsBreak: Local News & Alerts",
+    "published": "2026-08-08T18:40:06+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://ca.news.yahoo.com/omaha-woman-arrested-2025-hit-031114198.html",
+    "title": "Omaha woman arrested in 2025 hit-and-run that seriously injured pedestrian - Yahoo News Canada",
+    "published": "2026-08-11T03:11:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://greensboro.com/news/local/crime-courts/article_9ad047d2-b41d-48d8-93aa-d52b24c52a5a.html",
+    "title": "Winston-Salem man charged in hit and run, police identify injured pedestrian - Greensboro News and Record",
+    "published": "2026-08-09T16:30:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://ca.news.yahoo.com/1-dead-hit-run-fort-221652346.html",
+    "title": "1 dead after hit and run in Fort Liard, N.W.T. - Yahoo News Canada",
+    "published": "2026-08-10T22:16:52+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news-12-1587832/4820929499108-1-pedestrian-dead-1-critical-in-east-windsor-hit-and-run-crash",
+    "title": "1 pedestrian dead, 1 critical in East Windsor hit-and-run crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-10T17:01:56+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4821070491993-pedestrian-struck-killed-in-hit-run-crash-east-windsor-pd",
+    "title": "Pedestrian Struck, Killed In Hit, Run Crash: East Windsor PD - NewsBreak: Local News & Alerts",
+    "published": "2026-08-10T14:25:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/tiverton/11-year-old-hit-motorboat-while-swimming-nanaquaket-pond-tiverton-police",
+    "title": "11-Year-Old Hit By Motorboat While Swimming In Nanaquaket Pond: Tiverton Police - Patch",
+    "published": "2026-08-10T14:43:15+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/cranston/family-5-hospitalized-after-serious-cranston-dui-crash-cops",
+    "title": "Family Of 5 Hospitalized After 'Serious' Cranston DUI Crash: Cops - Patch",
+    "published": "2026-08-10T16:21:52+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
     "attempts": 0
   }
