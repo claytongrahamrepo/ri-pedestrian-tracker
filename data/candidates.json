@@ -508,7 +508,7 @@
     "title": "Pedestrian in critical condition after being struck on Route 95 in Pawtucket - The Valley Breeze",
     "published": "2026-08-04T18:33:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://coastalabc.com/news/local/police-responded-to-a-crash-on-i-95-in-pawtucket-aug-4-2026",
@@ -837,7 +837,7 @@
     "title": "OPP searching for driver in Brampton hit and run that left pedestrian critically injured - Mississauga.com",
     "published": "2026-08-07T20:27:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4816339323354-white-suv-hits-2-elderly-pedestrians-prius-in-springfield-flees-scene-police-say",
@@ -914,7 +914,7 @@
     "title": "Pedestrian dead after being hit by truck on Highway 404 near Finch - Toronto Star",
     "published": "2026-08-08T13:12:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://coastalabc.com/news/local/man-critically-injured-in-overnight-crash-08-09-2026",
@@ -1019,7 +1019,7 @@
     "title": "Omaha woman arrested in 2025 hit-and-run that seriously injured pedestrian - Yahoo News Canada",
     "published": "2026-08-11T03:11:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://greensboro.com/news/local/crime-courts/article_9ad047d2-b41d-48d8-93aa-d52b24c52a5a.html",
@@ -1061,6 +1061,104 @@
     "title": "Family Of 5 Hospitalized After 'Serious' Cranston DUI Crash: Cops - Patch",
     "published": "2026-08-10T16:21:52+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://theindependent.com/news/state-regional/crime-courts/article_e80c49ea-f378-58c4-bfe7-9b49ce627019.html",
+    "title": "Family of pedestrian killed in crash near WarHorse sues Lincoln driver - The Grand Island Independent",
+    "published": "2026-08-11T20:30:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://lexch.com/news/state-regional/nebraska/article_b17f7e9f-f9f1-57e6-a5c7-869db1592094.html",
+    "title": "Family of pedestrian killed in crash near WarHorse sues Lincoln driver - Lexington Clipper-Herald",
+    "published": "2026-08-11T20:30:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-flintridge-man-arrested-in-fatal-hit-and-run-of-66-year-old/article_d9c11c0e-0d8e-4ab9-92ab-ead0790b68b2.html",
+    "title": "La Cañada Flintridge Man Arrested in Fatal Hit-and-Run of 66-Year-Old Woman - Outlook Newspapers",
+    "published": "2026-08-11T23:30:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.eacourier.com/news/safford-man-arrested-after-fatal-state-route-266-hit-and-run-victim-identified/article_300bec58-5881-4db9-a962-80204bb4252b.html",
+    "title": "Safford man arrested after fatal State Route 266 hit-and-run, victim identified - Eastern Arizona Courier",
+    "published": "2026-08-12T00:29:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.facebook.com/Boston25News/videos/a-massachusetts-state-police-trooper-and-two-other-people-were-taken-to-the-hosp/1576277013870563/",
+    "title": "Boston 25 News. . A Massachusetts State Police trooper and two other people were taken to the hospital after a two-vehicle crash Monday night in Brockton #brockton #brocktoncrash #troopercrash #MSP - facebook.com",
+    "published": "2026-08-11T13:24:07+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://turnto10.com/news/local/tiverton-police-searching-for-boat-allegedly-responsible-for-hit-and-run-on-pond",
+    "title": "Tiverton Police searching for boat allegedly responsible for hit-and-run on pond - WJAR",
+    "published": "2026-08-09T21:08:01+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wausaupilot-500124/4823795922129-update-man-arrested-for-aug-6-hit-and-run-crash-in-town-of-hull-has-died",
+    "title": "UPDATE: Man arrested for Aug. 6 hit-and-run crash in town of Hull has died - NewsBreak: Local News & Alerts",
+    "published": "2026-08-12T01:43:52+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/scifisland-383576533/4822589875133-east-hampton-man-indicted-after-fatal-queens-hit-and-run-fleeing-to-ecuador",
+    "title": "East Hampton Man Indicted After Fatal Queens Hit-and-Run, Fleeing to Ecuador - NewsBreak: Local News & Alerts",
+    "published": "2026-08-11T12:50:14+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/we-are-mid-michigan-341418992/4820846287551-flint-police-search-for-corvette-after-serious-hit-and-run",
+    "title": "Flint Police Search for Corvette After Serious Hit-and-Run - NewsBreak: Local News & Alerts",
+    "published": "2026-08-10T17:04:59+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4821535015124-suspected-drunken-pickup-driver-arrested-after-pedestrian-is-killed-in-hit-and-run-at-bernal-road-and-via-del-oro-in-san-jose",
+    "title": "Suspected Drunken Pickup Driver Arrested After Pedestrian Is Killed in Hit and Run at Bernal Road and via Del Oro in San Jose - NewsBreak: Local News & Alerts",
+    "published": "2026-08-10T04:58:17+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.dailyrepublic.com/news/couple-die-in-saturday-crash-bicyclist-killed-on-off-ramp-identified/article_d89167ff-9158-4a21-90fd-6bdbba07917a.html",
+    "title": "Couple die in Saturday crash; bicyclist killed on off-ramp identified - Daily Republic",
+    "published": "2026-08-11T09:00:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.mdjonline.com/news/police_fire/scooter-rider-hit-by-two-cars-in-south-marietta-crash/article_4cbf9ff8-9aba-4c63-92f5-7b4110eb69cf.html",
+    "title": "Scooter rider hit by two cars in south Marietta crash - Marietta Daily Journal",
+    "published": "2026-08-11T22:15:00+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4823480843353-nest-video-shows-alleged-vehicle-that-hit-e-scooter-rider-in-detroit",
+    "title": "Nest video shows alleged vehicle that hit e-scooter rider in Detroit - NewsBreak: Local News & Alerts",
+    "published": "2026-08-11T22:01:48+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4822857834566-man-on-scooter-hit-by-2-cars-suffers-life-threatening-injuries-cobb-county-police-say",
+    "title": "Man on scooter hit by 2 cars suffers life-threatening injuries, Cobb County police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-11T15:45:53+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
 ]
