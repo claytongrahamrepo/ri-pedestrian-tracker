@@ -389,7 +389,7 @@
     "title": "Pedestrian critically injured in central Omaha hit-and-run - Omaha World-Herald",
     "published": "2026-08-01T21:15:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/shore-news-network-560352/4803921169661-driver-charged-in-fatal-foggy-bottom-hit-and-run",
@@ -480,7 +480,7 @@
     "title": "Briefly: Bicyclist injured in collision with vehicle - The Elkhart Truth",
     "published": "2026-08-03T16:01:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/2-news-oklahoma-kjrh-tulsa-563648/4807188465713-suspect-identified-arrest-warrant-issued-following-deadly-hit-and-run-in-tulsa",
@@ -578,7 +578,7 @@
     "title": "Iredell County woman charged in hit-and-run death of 64-year-old pedestrian - Statesville Record",
     "published": "2026-08-04T16:44:21+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/ktar-news-560325/4805998733562-pedestrian-left-in-critical-condition-after-hit-and-run-in-west-phoenix",
@@ -791,13 +791,6 @@
     "attempts": 0
   },
   {
-    "url": "https://journalnow.com/news/local/crime-courts/article_a8f3a7e7-1f2c-4226-a7b3-04fd5e3111ef.html",
-    "title": "Pedestrian struck in hit-and-run on Cloverdale Avenue in Winston-Salem - Winston-Salem Journal",
-    "published": "2026-08-07T18:15:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/news/4816610794133-ocala-man-convicted-in-2024-crash-that-killed-19-year-old-on-us-27-in-glades-county",
     "title": "Ocala man convicted in 2024 crash that killed 19-year-old on US 27 in Glades County - NewsBreak: Local News & Alerts",
     "published": "2026-08-07T20:02:16+00:00",
@@ -935,7 +928,7 @@
     "title": "Winston-Salem man charged in hit and run, police identify injured pedestrian - Winston-Salem Journal",
     "published": "2026-08-09T16:30:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/bradenton-herald-1592551/4819525129444-woman-charged-in-life-threatening-bradenton-hit-and-run-police-say",
@@ -1054,28 +1047,21 @@
     "title": "Family of pedestrian killed in crash near WarHorse sues Lincoln driver - Lexington Clipper-Herald",
     "published": "2026-08-11T20:30:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-flintridge-man-arrested-in-fatal-hit-and-run-of-66-year-old/article_d9c11c0e-0d8e-4ab9-92ab-ead0790b68b2.html",
     "title": "La Cañada Flintridge Man Arrested in Fatal Hit-and-Run of 66-Year-Old Woman - Outlook Newspapers",
     "published": "2026-08-11T23:30:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.eacourier.com/news/safford-man-arrested-after-fatal-state-route-266-hit-and-run-victim-identified/article_300bec58-5881-4db9-a962-80204bb4252b.html",
     "title": "Safford man arrested after fatal State Route 266 hit-and-run, victim identified - Eastern Arizona Courier",
     "published": "2026-08-12T00:29:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://www.facebook.com/Boston25News/videos/a-massachusetts-state-police-trooper-and-two-other-people-were-taken-to-the-hosp/1576277013870563/",
-    "title": "Boston 25 News. . A Massachusetts State Police trooper and two other people were taken to the hospital after a two-vehicle crash Monday night in Brockton #brockton #brocktoncrash #troopercrash #MSP - facebook.com",
-    "published": "2026-08-11T13:24:07+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
+    "attempts": 1
   },
   {
     "url": "https://turnto10.com/news/local/tiverton-police-searching-for-boat-allegedly-responsible-for-hit-and-run-on-pond",
@@ -1113,18 +1099,11 @@
     "attempts": 0
   },
   {
-    "url": "https://www.dailyrepublic.com/news/couple-die-in-saturday-crash-bicyclist-killed-on-off-ramp-identified/article_d89167ff-9158-4a21-90fd-6bdbba07917a.html",
-    "title": "Couple die in Saturday crash; bicyclist killed on off-ramp identified - Daily Republic",
-    "published": "2026-08-11T09:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.mdjonline.com/news/police_fire/scooter-rider-hit-by-two-cars-in-south-marietta-crash/article_4cbf9ff8-9aba-4c63-92f5-7b4110eb69cf.html",
     "title": "Scooter rider hit by two cars in south Marietta crash - Marietta Daily Journal",
     "published": "2026-08-11T22:15:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4823480843353-nest-video-shows-alleged-vehicle-that-hit-e-scooter-rider-in-detroit",
@@ -1145,21 +1124,21 @@
     "title": "Pedestrian Critically Hurt in Hit-and-Run on James P Cole Blvd in Flint, MI - t.co",
     "published": "2026-08-11T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/zuFRVGatpH",
     "title": "Man Killed, Another Hurt in Hit-and-Run on Rte 33 in East Windsor, NJ - t.co",
     "published": "2026-08-11T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/dQVS4dTWb6",
     "title": "Pedestrian Killed After Being Struck on West Landis Ave in Vineland, NJ - t.co",
     "published": "2026-08-11T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://abc7ny.com/post/deer-park-nail-salon-crash-man-sentenced-long-island-wreck-killed/19668370/",
@@ -1209,5 +1188,47 @@
     "published": "2026-08-11T20:24:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wrtv-563673/4828112311020-1-dead-after-being-struck-by-a-vehicle-east-of-downtown-indianapolis",
+    "title": "1 dead after being struck by a vehicle east of downtown Indianapolis - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T03:25:05+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/myrtle-beach-sun-news-1592580/4827516639908-pedestrian-dies-after-horry-county-crash-left-them-with-critical-injuries",
+    "title": "Pedestrian dies after Horry County crash left them with critical injuries - NewsBreak: Local News & Alerts",
+    "published": "2026-08-13T19:47:52+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/lite-96-9-wfpg-520840/4825156872032-89-year-old-pedestrian-struck-by-car-in-margate",
+    "title": "89-Year-Old Pedestrian Struck By Car in Margate - NewsBreak: Local News & Alerts",
+    "published": "2026-08-12T17:22:16+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/san-luis-obispo-tribune-1592586/4827742312867-chp-identifies-woman-killed-in-highway-41-crash-in-slo-county",
+    "title": "CHP identifies woman killed in Highway 41 crash in SLO County - NewsBreak: Local News & Alerts",
+    "published": "2026-08-13T22:02:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4827171932106-89-year-old-woman-critically-injured-after-hit-by-car-margate-pd",
+    "title": "89-Year-Old Woman Critically Injured After Hit By Car: Margate PD - NewsBreak: Local News & Alerts",
+    "published": "2026-08-13T16:06:56+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/a5iQFK5URc",
+    "title": "Motorcyclist Killed in Wreck on Hwy 21 in Catawba, SC - t.co",
+    "published": "2026-08-12T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
   }
 ]
