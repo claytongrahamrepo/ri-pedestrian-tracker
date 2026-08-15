@@ -476,13 +476,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.elkharttruth.com/news/briefly-bicyclist-injured-in-collision-with-vehicle/article_50d4859f-ae72-52b4-9207-fedd500625f4.html",
-    "title": "Briefly: Bicyclist injured in collision with vehicle - The Elkhart Truth",
-    "published": "2026-08-03T16:01:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/2-news-oklahoma-kjrh-tulsa-563648/4807188465713-suspect-identified-arrest-warrant-issued-following-deadly-hit-and-run-in-tulsa",
     "title": "Suspect identified, arrest warrant issued following deadly hit-and-run in Tulsa - NewsBreak: Local News & Alerts",
     "published": "2026-08-03T20:05:22+00:00",
@@ -753,7 +746,7 @@
     "title": "Witness said hit-and-run victim's body went 'airborne' after impact - Herald-Review.com",
     "published": "2026-08-06T21:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/miami-herald-1592483/4814874990236-deputies-make-slew-of-street-takeover-arrests-including-wanted-hit-and-run-driver",
@@ -1120,27 +1113,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/ON6xa7THyZ",
-    "title": "Pedestrian Critically Hurt in Hit-and-Run on James P Cole Blvd in Flint, MI - t.co",
-    "published": "2026-08-11T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/zuFRVGatpH",
-    "title": "Man Killed, Another Hurt in Hit-and-Run on Rte 33 in East Windsor, NJ - t.co",
-    "published": "2026-08-11T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/dQVS4dTWb6",
-    "title": "Pedestrian Killed After Being Struck on West Landis Ave in Vineland, NJ - t.co",
-    "published": "2026-08-11T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://abc7ny.com/post/deer-park-nail-salon-crash-man-sentenced-long-island-wreck-killed/19668370/",
     "title": "Deer Park nail salon crash: Steven Schwally sentenced in Long Island wreck that killed four - ABC7 Eyewitness News",
     "published": "2026-08-12T17:18:31+00:00",
@@ -1229,6 +1201,104 @@
     "title": "Motorcyclist Killed in Wreck on Hwy 21 in Catawba, SC - t.co",
     "published": "2026-08-12T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4830076604566-pedestrian-killed-after-chain-reaction-crash-in-harrisburg",
+    "title": "Pedestrian Killed After Chain-Reaction Crash In Harrisburg - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T02:05:27+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/myrtle-beach-sun-news-1592580/4829236716630-third-pedestrian-killed-in-horry-county-this-week-after-being-struck-by-vehicle",
+    "title": "Third pedestrian killed in Horry County this week after being struck by vehicle - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T16:44:13+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4829237438348-man-fighting-for-his-life-after-being-struck-by-marc-train-in-montgomery-county-updated",
+    "title": "Man Fighting For His Life After Being Struck By MARC Train In Montgomery County (UPDATED) - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T16:44:22+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4829039573263-pedestrian-killed-on-route-202-in-torrington-police-seek-witnesses",
+    "title": "Pedestrian Killed On Route 202 In Torrington; Police Seek Witnesses - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T14:57:20+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wish-tv-2107872/4828102345132-man-dies-after-being-struck-by-a-vehicle-east-of-downtown-indianapolis",
+    "title": "Man dies after being struck by a vehicle east of downtown Indianapolis - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T02:38:50+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-fresno-bee-1592569/4829639564218-update-38-year-old-hanford-man-killed-in-head-on-collision-on-hwy-43-identified",
+    "title": "Update: 38-year-old Hanford man killed in head-on collision on Hwy. 43 identified - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T20:58:09+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/alachua-chronicle-1653568/4829796911101-williston-woman-arrested-for-death-of-motorcyclist-in-august-2023-crash-on-i-75",
+    "title": "Williston woman arrested for death of motorcyclist in August 2023 crash on I-75 - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T22:02:13+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4829226040839-pedestrian-killed-on-i-20-near-i-35e-in-dallas-county-during-dawn-crash",
+    "title": "Pedestrian Killed on I-20 Near I-35E in Dallas County During Dawn Crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T16:12:10+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/newsnation-2045693/4829896102582-massachusetts-officer-suspended-for-not-aiding-victims-after-deadly-crash",
+    "title": "Massachusetts officer suspended for not aiding victims after deadly crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T22:45:49+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.einpresswire.com/article/934034494/arrest-made-in-early-morning-vehicle-pedestrian-hit-and-run-collision-in-spokane-valley",
+    "title": "Arrest Made in Early Morning Vehicle/Pedestrian Hit-and-Run Collision in Spokane Valley - EIN Presswire",
+    "published": "2026-08-13T23:19:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/kmiz-abc-17-news-1276856/4830133951772-pedestrian-has-life-threatening-injuries-after-hit-and-run-in-northeast-columbia",
+    "title": "Pedestrian has life-threatening injuries after hit-and-run in northeast Columbia - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T03:44:01+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/johnston/johnston-woman-charged-hit-run-crash-cops",
+    "title": "Johnston Woman Charged With Hit-And-Run Crash: Cops - Patch",
+    "published": "2026-08-14T17:41:47+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-fresno-bee-1592569/4830357252795-bicyclist-hospitalized-after-being-hit-by-vehicle-in-fresno-police-say",
+    "title": "Bicyclist hospitalized after being hit by vehicle in Fresno, police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T06:53:18+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/al-com-513124/4829257138286-bicyclist-hit-killed-by-multiple-vehicles-including-jefferson-county-sheriff-s-cruiser",
+    "title": "Bicyclist hit, killed by multiple vehicles, including Jefferson County Sheriff’s cruiser - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T16:59:29+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
   }
 ]
