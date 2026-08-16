@@ -361,7 +361,7 @@
     "title": "Water-dropping aircraft take off to tackle major Greek wildfire, after 2 killed in mid-air collision - WPRI.com",
     "published": "2026-08-03T05:50:58+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.yahoo.com/news/articles/police-respond-head-crash-braintree-131411299.html",
@@ -389,7 +389,7 @@
     "title": "Pedestrian critically injured in central Omaha hit-and-run - Omaha World-Herald",
     "published": "2026-08-01T21:15:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/shore-news-network-560352/4803921169661-driver-charged-in-fatal-foggy-bottom-hit-and-run",
@@ -917,13 +917,6 @@
     "attempts": 0
   },
   {
-    "url": "https://journalnow.com/news/local/crime-courts/article_f318d058-d3f8-5ab2-8fa2-30e5d0016294.html",
-    "title": "Winston-Salem man charged in hit and run, police identify injured pedestrian - Winston-Salem Journal",
-    "published": "2026-08-09T16:30:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/bradenton-herald-1592551/4819525129444-woman-charged-in-life-threatening-bradenton-hit-and-run-police-say",
     "title": "Woman charged in ‘life-threatening' Bradenton hit-and-run, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-09T19:54:33+00:00",
@@ -991,7 +984,7 @@
     "title": "Winston-Salem man charged in hit and run, police identify injured pedestrian - Greensboro News and Record",
     "published": "2026-08-09T16:30:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://ca.news.yahoo.com/1-dead-hit-run-fort-221652346.html",
@@ -1197,13 +1190,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/a5iQFK5URc",
-    "title": "Motorcyclist Killed in Wreck on Hwy 21 in Catawba, SC - t.co",
-    "published": "2026-08-12T07:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/daily-voice-525087/4830076604566-pedestrian-killed-after-chain-reaction-crash-in-harrisburg",
     "title": "Pedestrian Killed After Chain-Reaction Crash In Harrisburg - NewsBreak: Local News & Alerts",
     "published": "2026-08-15T02:05:27+00:00",
@@ -1298,6 +1284,55 @@
     "url": "https://www.newsbreak.com/al-com-513124/4829257138286-bicyclist-hit-killed-by-multiple-vehicles-including-jefferson-county-sheriff-s-cruiser",
     "title": "Bicyclist hit, killed by multiple vehicles, including Jefferson County Sheriff’s cruiser - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T16:59:29+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-sacramento-bee-1592486/4831182518922-pedestrian-seriously-injured-in-south-oak-park-hit-and-run-sacramento-police-say",
+    "title": "Pedestrian seriously injured in South Oak Park hit-and-run, Sacramento police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T19:17:30+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/abc-10-news-kgtv-563645/4831017119160-man-struck-by-bus-s",
+    "title": "Man struck by bus s - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T17:01:47+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/myrtle-beach-sun-news-1592580/4828950547710-pedestrian-dies-after-being-hit-in-horry-county-it-s-the-second-time-this-week",
+    "title": "Pedestrian dies after being hit in Horry County. It's the second time this week - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T20:13:54+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4830708562873-police-followed-speeding-sedan-before-it-struck-killed-juvenile-pedestrian-in-newark-ag-says",
+    "title": "Police followed speeding sedan before it struck, killed juvenile pedestrian in Newark: AG says - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T12:37:45+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/shore-news-network-560352/4830838348471-new-details-released-in-fatal-newark-police-pursuit-investigation-that-killed-juvenile-pedestrian",
+    "title": "New Details Released in Fatal Newark Police Pursuit Investigation That Killed Juvenile Pedestrian - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T14:31:31+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/kmiz-abc-17-news-1276856/4831160145355-columbia-man-killed-after-being-struck-by-vehicle",
+    "title": "Columbia man killed after being struck by vehicle - NewsBreak: Local News & Alerts",
+    "published": "2026-08-14T07:00:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4829418669594-coroner-bicyclist-dies-after-being-hit-by-multiple-vehicles-in-birmingham-including-sheriff-s-patrol-car",
+    "title": "Coroner: Bicyclist dies after being hit by multiple vehicles in Birmingham, including sheriff’s patrol car - NewsBreak: Local News & Alerts",
+    "published": "2026-08-15T02:38:34+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
   }
