@@ -694,5 +694,13 @@
   {
     "url": "https://t.co/a5iQFK5URc",
     "reason": "unfetchable"
+  },
+  {
+    "url": "https://omaha.com/news/local/article_987c4ae5-7f48-472b-8e3e-a73204bd8997.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://greensboro.com/news/local/crime-courts/article_9ad047d2-b41d-48d8-93aa-d52b24c52a5a.html",
+    "reason": "unfetchable"
   }
 ]

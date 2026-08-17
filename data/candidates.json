@@ -385,13 +385,6 @@
     "attempts": 0
   },
   {
-    "url": "https://omaha.com/news/local/article_987c4ae5-7f48-472b-8e3e-a73204bd8997.html",
-    "title": "Pedestrian critically injured in central Omaha hit-and-run - Omaha World-Herald",
-    "published": "2026-08-01T21:15:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/shore-news-network-560352/4803921169661-driver-charged-in-fatal-foggy-bottom-hit-and-run",
     "title": "Driver charged in fatal Foggy Bottom hit and run - NewsBreak: Local News & Alerts",
     "published": "2026-08-02T05:11:29+00:00",
@@ -980,13 +973,6 @@
     "attempts": 0
   },
   {
-    "url": "https://greensboro.com/news/local/crime-courts/article_9ad047d2-b41d-48d8-93aa-d52b24c52a5a.html",
-    "title": "Winston-Salem man charged in hit and run, police identify injured pedestrian - Greensboro News and Record",
-    "published": "2026-08-09T16:30:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://ca.news.yahoo.com/1-dead-hit-run-fort-221652346.html",
     "title": "1 dead after hit and run in Fort Liard, N.W.T. - Yahoo News Canada",
     "published": "2026-08-10T22:16:52+00:00",
@@ -1334,6 +1320,90 @@
     "title": "Coroner: Bicyclist dies after being hit by multiple vehicles in Birmingham, including sheriff’s patrol car - NewsBreak: Local News & Alerts",
     "published": "2026-08-15T02:38:34+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4832574567196-unlicensed-driver-with-warrants-hits-pedestrian-in-patchogue-police",
+    "title": "Unlicensed Driver With Warrants Hits Pedestrian In Patchogue: Police - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T20:48:17+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/SmceVYEpiC",
+    "title": "Pedestrian Killed After Being Struck on State Ave in Indianapolis, IN | Local Accident Reports - t.co",
+    "published": "2026-08-15T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/fort-worth-startelegram-1592487/4832506388369-32-year-old-man-killed-sunday-in-fort-worth-auto-pedestrian-crash-police-say",
+    "title": "32-year-old man killed Sunday in Fort Worth auto-pedestrian crash, police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T19:56:53+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4832853351195-18-year-old-woman-killed-after-being-struck-by-vehicle-in-northwest-reno",
+    "title": "18-year-old woman killed after being struck by vehicle in northwest Reno - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T02:33:18+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news-12-1587832/4832338438350-unlicensed-patchogue-driver-charged-after-striking-43-year-old-pedestrian",
+    "title": "Unlicensed Patchogue driver charged after striking 43-year-old pedestrian - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T17:34:36+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.columbiamissourian.com/news/local/two-arrested-after-pedestrian-killed-on-east-st-charles-road/article_cee24657-58d9-499c-9496-bedbfce9eef4.html",
+    "title": "Two arrested after pedestrian killed on East St. Charles Road - Columbia Missourian",
+    "published": "2026-08-16T11:56:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4832265998920-bicyclist-dies-after-being-hit-by-car-near-lakeland-pcso",
+    "title": "Bicyclist dies after being hit by car near Lakeland: PCSO - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T15:22:30+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.columbiamissourian.com/news/local/two-arrested-after-pedestrian-dies-on-east-st-charles-road/article_cee24657-58d9-499c-9496-bedbfce9eef4.html",
+    "title": "Two arrested after pedestrian dies on East St. Charles Road - Columbia Missourian",
+    "published": "2026-08-16T11:56:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.columbiamissourian.com/news/local/two-arrested-after-a-pedestrian-is-killed-on-east-st-charles-road/article_cee24657-58d9-499c-9496-bedbfce9eef4.html",
+    "title": "Two arrested after a pedestrian is killed on East St. Charles Road - Columbia Missourian",
+    "published": "2026-08-16T11:56:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/ktnv-13-action-news-563659/4832846100566-summerlin-cyclist-seeking-justice-after-hit-and-run-leaves-him-seriously-injured",
+    "title": "Summerlin cyclist seeking justice after hit-and-run leaves him seriously injured - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T03:08:51+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news-channel-312-1276854/4832617122297-pedestrian-in-critical-condition-after-car-crash-in-oxnard",
+    "title": "Pedestrian in critical condition after car crash in Oxnard - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T21:57:11+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/north-providence-police-arrest-man-accused-in-hit-and-run-crash-motorcycle-fled-scene-charges-flock-august-16-2026",
+    "title": "North Providence police arrest man accused in hit-and-run crash - WJAR",
+    "published": "2026-08-17T04:49:12+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
     "attempts": 0
   }
 ]
