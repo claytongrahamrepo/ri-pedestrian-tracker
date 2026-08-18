@@ -102,7 +102,7 @@
     "title": "Arrest made in pedestrian hit-and-run incident in Decatur - Herald-Review.com",
     "published": "2026-07-30T16:30:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/davidson-county-source-1591577/4800741324568-hit-and-run-driver-arrested-after-four-pedestrians-injured-in-nashville",
@@ -1012,7 +1012,7 @@
     "title": "Family of pedestrian killed in crash near WarHorse sues Lincoln driver - The Grand Island Independent",
     "published": "2026-08-11T20:30:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://lexch.com/news/state-regional/nebraska/article_b17f7e9f-f9f1-57e6-a5c7-869db1592094.html",
@@ -1334,7 +1334,7 @@
     "title": "Pedestrian Killed After Being Struck on State Ave in Indianapolis, IN | Local Accident Reports - t.co",
     "published": "2026-08-15T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/fort-worth-startelegram-1592487/4832506388369-32-year-old-man-killed-sunday-in-fort-worth-auto-pedestrian-crash-police-say",
@@ -1362,7 +1362,7 @@
     "title": "Two arrested after pedestrian killed on East St. Charles Road - Columbia Missourian",
     "published": "2026-08-16T11:56:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4832265998920-bicyclist-dies-after-being-hit-by-car-near-lakeland-pcso",
@@ -1404,6 +1404,223 @@
     "title": "North Providence police arrest man accused in hit-and-run crash - WJAR",
     "published": "2026-08-17T04:49:12+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/80-year-old-man-dies-after-being-struck-by-a-vehicle-in-middletown-aug-17-2026",
+    "title": "80-year-old man dies after being struck by a vehicle in Middletown - WJAR",
+    "published": "2026-08-18T00:06:57+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.providencejournal.com/story/news/crime/2026/08/17/middletown-man-struck-by-vehicle-killed/91337486007/",
+    "title": "Middletown pedestrian struck by vehicle dies - The Providence Journal",
+    "published": "2026-08-17T16:01:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.golocalprov.com/news/80-year-old-pedestrian-struck-and-killed-in-middletown",
+    "title": "80-Year-Old Pedestrian Struck and Killed in Middletown - Go Local Prov",
+    "published": "2026-08-17T06:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/evening-pedestrian-collision-on-route-138-leaves-local-man-dead/",
+    "title": "Evening pedestrian collision on Route 138 leaves local man dead - fallriverreporter.com",
+    "published": "2026-08-17T14:03:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/video/pedestrian-struck-killed-by-vehicle-in-middletown/12075423/",
+    "title": "Pedestrian struck, killed by vehicle in Middletown - WPRI.com",
+    "published": "2026-08-17T13:50:35+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newportdispatch.com/2026/08/17/pedestrian-killed-in-crash-in-middletown/",
+    "title": "Pedestrian killed in crash in Middletown - Newport Dispatch",
+    "published": "2026-08-17T19:28:41+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://thenewportbuzz.com/middletown-pedestrian-killed-coddington-highway/62124",
+    "title": "80-Year-Old Pedestrian Killed in Coddington Highway Crash in Middletown - Newport Buzz",
+    "published": "2026-08-17T14:30:21+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/scifisland-383576533/4833632915831-driver-arrested-after-pedestrian-seriously-injured-in-patchogue-crash-police-say-he-was-unlicensed",
+    "title": "Driver Arrested After Pedestrian Seriously Injured in Patchogue Crash, Police Say He Was Unlicensed - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T14:35:49+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4834419655017-pedestrian-dies-over-2-weeks-after-being-struck-by-car-in-owings-mills-police",
+    "title": "Pedestrian dies over 2 weeks after being struck by car in Owings Mills: police - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T21:55:55+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4832568478826-18-year-old-woman-killed-in-pedestrian-crash-on-mccarran-boulevard-in-reno",
+    "title": "18-year-old woman killed in pedestrian crash on McCarran Boulevard in Reno - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T05:23:50+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833191309747-delaware-state-police-investigate-fatal-pedestrian-crash-in-laurel-after-41-year-old-man-was-struck-saturday-night-on-sussex-highway-near-oasis-drive",
+    "title": "Delaware State Police Investigate Fatal Pedestrian Crash in Laurel After 41-Year-Old Man Was Struck Saturday Night on Sussex Highway Near Oasis Drive - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T22:35:56+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/8JhfRx79Tb",
+    "title": "Woman Dies in Hit-and-Run on W Oak St, Louisville, KY - t.co",
+    "published": "2026-08-16T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833559955471-beaumont-police-search-for-hit-and-run-driver-after-38-year-old-justin-balka-is-killed-crossing-washington-boulevard-late-friday-night",
+    "title": "Beaumont Police Search for Hit-And-Run Driver After 38-Year-Old Justin Balka Is Killed Crossing Washington Boulevard Late Friday Night - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T18:25:44+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc45.com/newsletter-daily/woman-sleeping-underneath-semi-truck-fawoman-killed-struck-semi-truck-sleeping-underneath-trailer-shell-gas-station-fesslers-lane-nashville-police-investigationtally-struck-as-driver-pulls-away-police-say",
+    "title": "Woman sleeping underneath semi-truck fatally struck as driver pulls away, MNPD says - WXLV",
+    "published": "2026-08-18T01:56:58+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/belleville-news-democrat-1592547/4834367053677-identity-of-man-killed-in-belleville-crash-is-released",
+    "title": "Identity of man killed in Belleville crash is released - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T21:10:15+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833293742757-new-york-man-killed-after-being-struck-on-interstate-70",
+    "title": "New York man killed after being struck on Interstate 70 - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T10:27:33+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4834545770924-21-year-old-woman-killed-in-3-vehicle-lehigh-county-crash-state-police",
+    "title": "21-Year-Old Woman Killed In 3-Vehicle Lehigh County Crash: State Police - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T23:18:18+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4834393519334-friends-mourn-kearny-woman-20-killed-in-route-280-weekend-crash",
+    "title": "Friends Mourn Kearny Woman, 20, Killed In Route 280 Weekend Crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T21:31:20+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833645068268-woman-killed-in-three-vehicle-crash-near-desoto-driver-charged-with-dui",
+    "title": "Woman killed in three-vehicle crash near DeSoto; driver charged with DUI - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T14:12:29+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833191312342-kearny-woman-killed-and-newark-driver-seriously-hurt-in-early-sunday-crash-on-interstate-280-in-harrison-after-honda-struck-sign-support-and-trees",
+    "title": "Kearny Woman Killed and Newark Driver Seriously Hurt in Early Sunday Crash on Interstate 280 in Harrison After Honda Struck Sign Support and Trees - NewsBreak: Local News & Alerts",
+    "published": "2026-08-16T21:49:49+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833702776298-bronx-man-60-dies-days-after-jerome-avenue-hit-and-run-driver-still-at-large",
+    "title": "Bronx Man, 60, Dies Days After Jerome Avenue Hit-and-Run, Driver Still at Large - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T14:36:56+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://nwitimes.com/news/local/crime-courts/article_b0803b8a-2b89-4278-b8fb-b360f5485fb8.html",
+    "title": "Police seeking hit-and-run driver causing serious injuries - nwitimes.com",
+    "published": "2026-08-17T16:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.lpheralddispatch.com/news/local/pedestrian-injured-after-hit-and-run/article_4bffef0e-21a2-521a-8bd8-7c2ec858b8bd.html",
+    "title": "Pedestrian injured after hit-and-run - LPHeraldDispatch.com",
+    "published": "2026-08-17T20:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4834516132307-three-pedestrians-are-killed-in-separate-crashes-across-the-washington-region-after-a-metrobus-strike-a-hit-and-run-and-a-two-car-collision-over-the-weekend",
+    "title": "Three Pedestrians Are Killed in Separate Crashes Across the Washington Region After a Metrobus Strike, a Hit-And-Run, and a Two-Car Collision Over the Weekend - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T18:33:17+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/Sk2VHehSQE",
+    "title": "Rider Killed in Collision at US 27 & KY 169, Nicholasville, KY - t.co",
+    "published": "2026-08-16T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://patch.com/rhode-island/westwarwick/intoxicated-ma-driver-eluded-law-nabbed-after-west-warwick-crash-cops",
+    "title": "Intoxicated MA Driver Eluded Law But Nabbed After West Warwick Crash: Cops - Patch",
+    "published": "2026-08-17T17:40:44+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833969102193-young-bicyclist-dies-three-days-after-being-struck-by-suv-in-anchorage",
+    "title": "Young bicyclist dies three days after being struck by SUV in Anchorage - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T17:34:29+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833969102193-young-bicyclist-dies-three-days-after-being-struck-by-suv-in-eagle-river",
+    "title": "Young bicyclist dies three days after being struck by SUV in Eagle River - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T17:30:46+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/boston-500265/4834372886542-scooter-rider-charged-in-hit-and-run-crash-with-12-year-old-in-cambridge",
+    "title": "Scooter rider charged in hit-and-run crash with 12-year-old in Cambridge - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T21:11:21+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/miami-herald-1592483/4834231345315-3-men-in-a-mercedes-shot-a-scooter-rider-with-pellet-guns-miami-police-say",
+    "title": "3 men in a Mercedes shot a scooter rider with pellet guns, Miami police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T20:26:02+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4833813636499-man-using-wheelchair-dies-after-being-hit-by-vehicle-in-horry-county-coroner-s-office-says",
+    "title": "Man using wheelchair dies after being hit by vehicle in Horry County, coroner’s office says - NewsBreak: Local News & Alerts",
+    "published": "2026-08-17T15:53:17+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
 ]
