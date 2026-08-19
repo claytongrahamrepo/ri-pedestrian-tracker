@@ -1071,13 +1071,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.mdjonline.com/news/police_fire/scooter-rider-hit-by-two-cars-in-south-marietta-crash/article_4cbf9ff8-9aba-4c63-92f5-7b4110eb69cf.html",
-    "title": "Scooter rider hit by two cars in south Marietta crash - Marietta Daily Journal",
-    "published": "2026-08-11T22:15:00+00:00",
-    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/news/4823480843353-nest-video-shows-alleged-vehicle-that-hit-e-scooter-rider-in-detroit",
     "title": "Nest video shows alleged vehicle that hit e-scooter rider in Detroit - NewsBreak: Local News & Alerts",
     "published": "2026-08-11T22:01:48+00:00",
@@ -1117,7 +1110,7 @@
     "title": "Iredell County search warrant said driver fled to friend's house after hitting pedestrian - Statesville Record",
     "published": "2026-08-13T08:30:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-flintridge-man-arrested-in-fatal-hit-and-run-of-sheriffs-department-employee/article_d9c11c0e-0d8e-4ab9-92ab-ead0790b68b2.html",
@@ -1330,13 +1323,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/SmceVYEpiC",
-    "title": "Pedestrian Killed After Being Struck on State Ave in Indianapolis, IN | Local Accident Reports - t.co",
-    "published": "2026-08-15T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/fort-worth-startelegram-1592487/4832506388369-32-year-old-man-killed-sunday-in-fort-worth-auto-pedestrian-crash-police-say",
     "title": "32-year-old man killed Sunday in Fort Worth auto-pedestrian crash, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-16T19:56:53+00:00",
@@ -1488,7 +1474,7 @@
     "title": "Woman Dies in Hit-and-Run on W Oak St, Louisville, KY - t.co",
     "published": "2026-08-16T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4833559955471-beaumont-police-search-for-hit-and-run-driver-after-38-year-old-justin-balka-is-killed-crossing-washington-boulevard-late-friday-night",
@@ -1579,7 +1565,7 @@
     "title": "Rider Killed in Collision at US 27 & KY 169, Nicholasville, KY - t.co",
     "published": "2026-08-16T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://patch.com/rhode-island/westwarwick/intoxicated-ma-driver-eluded-law-nabbed-after-west-warwick-crash-cops",
@@ -1620,6 +1606,111 @@
     "url": "https://www.newsbreak.com/news/4833813636499-man-using-wheelchair-dies-after-being-hit-by-vehicle-in-horry-county-coroner-s-office-says",
     "title": "Man using wheelchair dies after being hit by vehicle in Horry County, coroner’s office says - NewsBreak: Local News & Alerts",
     "published": "2026-08-17T15:53:17+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.bostonglobe.com/2026/08/18/metro/80-year-old-pedestrian-dies-in-middletown-ri-crash/",
+    "title": "Man, 80, dies after being struck by vehicle in Middletown, R.I. - The Boston Globe",
+    "published": "2026-08-18T13:32:36+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wmar-2-news-baltimore-563671/4835917338622-woman-dead-child-injured-following-crash-in-rockville",
+    "title": "Woman dead, child injured following crash in Rockville - newsbreak.com",
+    "published": "2026-08-18T17:22:04+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://statesville.com/news/local/crime-courts/article_a64829b3-9b4c-4ab6-bfac-201d14ed0616.html",
+    "title": "Second person charged in Statesville hit-and-run that killed 64-year-old pedestrian - Statesville Record",
+    "published": "2026-08-18T17:49:06+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-citizens-299113683/4835639616774-oxford-man-arrested-in-fatal-hit-and-run-investigation",
+    "title": "Oxford man arrested in fatal hit and run investigation - newsbreak.com",
+    "published": "2026-08-18T14:02:34+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://hoodline.com/2026/08/georgia-ranks-9th-worst-for-young-pedestrian-deaths-study-finds/",
+    "title": "Georgia Ranks 9th Worst for Young Pedestrian Deaths, Study Finds - Hoodline",
+    "published": "2026-08-18T20:36:46+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/LXRJjQTn6L",
+    "title": "Man Killed, Woman Injured After Police Pursuit Ends in Crash in Clarion, PA - t.co",
+    "published": "2026-08-17T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/kyw-news-radio-560912/4833489983991-police-investigating-2-separate-hit-and-runs-in-philadelphia",
+    "title": "Police investigating 2 separate hit-and-runs in Philadelphia - newsbreak.com",
+    "published": "2026-08-18T05:50:32+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/D3LMok0pbu",
+    "title": "Two Killed, One Hurt in Crash on N Reading Rd in East Cocalico Twp, PA - t.co",
+    "published": "2026-08-17T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/9xeovdkJmF",
+    "title": "Motorcyclist Killed in Head-On Collision on Geer Hwy in Greenville Co, SC - t.co",
+    "published": "2026-08-17T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/MoPbbjUIGG",
+    "title": "Four Hospitalized After Crash on North Fwy in Omaha, NE - t.co",
+    "published": "2026-08-17T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://abc7ny.com/post/speeding-bmw-driver-wanted-bicyclist-killed-bronx-crash/19701580/",
+    "title": "Speeding BMW driver wanted after bicyclist killed in Bronx crash - ABC7 New York",
+    "published": "2026-08-19T08:49:29+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/lexington-herald-leader-1592576/4835698960494-bicyclist-in-lexington-seriously-injured-in-collision-road-has-reopened",
+    "title": "Bicyclist in Lexington seriously injured in collision. Road has reopened - newsbreak.com",
+    "published": "2026-08-18T14:26:05+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4834259884738-hit-and-run-kills-cyclist-on-sr-29-in-collier-county-driver-still-missing",
+    "title": "Hit-and-run kills cyclist on SR 29 in Collier County, driver still missing - newsbreak.com",
+    "published": "2026-08-17T20:50:27+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.elkharttruth.com/news/briefly-boy-on-scooter-hit-by-car/article_671a3414-4c3f-531a-92cb-73426a62f887.html",
+    "title": "Briefly: Boy on scooter hit by car - The Elkhart Truth",
+    "published": "2026-08-18T17:02:00+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4836699719668-harris-county-crash-10-year-old-girl-riding-electric-scooter-struck-by-vehicle",
+    "title": "Harris County crash: 10-year-old girl riding electric scooter struck by vehicle - newsbreak.com",
+    "published": "2026-08-19T01:32:02+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
