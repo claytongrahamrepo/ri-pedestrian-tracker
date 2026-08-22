@@ -1397,7 +1397,7 @@
     "title": "Pedestrian struck, killed by vehicle in Middletown - WPRI.com",
     "published": "2026-08-17T13:50:35+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newportdispatch.com/2026/08/17/pedestrian-killed-in-crash-in-middletown/",
@@ -1659,13 +1659,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/lehighvalleylive-com-513173/4837743166876-39-year-old-killed-in-south-whitehall-pedestrian-crash-coroner-says-update",
-    "title": "39-year-old killed in South Whitehall pedestrian crash, coroner says (UPDATE) - NewsBreak: Local News & Alerts",
-    "published": "2026-08-19T15:16:49+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.kake.com/home/kansas-pedestrian-killed-after-stepping-in-front-of-train-sheriff/article_fa168365-f0fe-43c9-9871-2fbf68196920.html",
     "title": "Kansas pedestrian killed after stepping in front of train: Sheriff - KAKE",
     "published": "2026-08-19T16:30:00+00:00",
@@ -1678,13 +1671,6 @@
     "published": "2026-08-18T17:16:29+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://abcnews.com/video/135766427/",
-    "title": "Video Manhunt underway for masked man menacing Philadelphia pedestrians - ABC News - Breaking News, Latest News and Videos",
-    "published": "2026-08-19T11:50:33+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4837500185735-man-killed-in-glenburn-motorcycle-crash",
@@ -1757,34 +1743,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/R2OiQPGxjy",
-    "title": "88-Year-Old Woman Killed in Crash at S Illinois St, S Belt in Belleville, IL - t.co",
-    "published": "2026-08-18T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/BAJOB1dIy8",
-    "title": "Man Killed, Child Critically Hurt in Crash on Story St in Boone, IA - t.co",
-    "published": "2026-08-18T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/aomNkMkV7Z",
-    "title": "Woman Killed in Head-On Crash With Semi in Baldwin, GA - t.co",
-    "published": "2026-08-18T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/BbinTYkZnM",
-    "title": "Venice, FL Fatal Crash on US-41 Kills Two - t.co",
-    "published": "2026-08-18T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.yahoo.com/news/articles/teen-struck-car-while-riding-210052806.html",
     "title": "Teen struck by car while riding motorized scooter in Leawood released from hospital - Yahoo",
     "published": "2026-08-18T21:00:52+00:00",
@@ -1824,28 +1782,28 @@
     "title": "1 Dead After Pedestrian Collision on Moline St in Houston, TX - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/eDTQF6jYNz",
     "title": "8-Year-Old Killed in Crash on County Rd H Near Gilman, WI - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/DVWKiaHRWp",
     "title": "Woman Killed in Hit-and-Run Crash in Brooklyn, NY - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/MuFpnPacSb",
     "title": "1 Dead After Crash on Gardner Rd in Kinsman, IL - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/pennlive-com-512963/4839579573997-69-year-old-woman-id-d-as-pedestrian-killed-in-harrisburg",
@@ -1866,21 +1824,21 @@
     "title": "1 Killed in Multi-Vehicle Crash in Bainbridge, GA - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/hH6JGeqle6",
     "title": "Hit-and-Run Chain Reaction Kills Cyclist in the Bronx, NY - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/WfmlRQXgUL",
     "title": "2 Killed in Head-on Crash on Washington Road in Augusta, GA - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.bakersfield.com/news/coroners-office-ids-pedestrian-killed-by-train/article_37aec2e1-fe51-43fb-894d-7dd06967e70d.html",
@@ -1922,7 +1880,7 @@
     "title": "East St Louis Man Killed in Crash on Old St Louis Rd in Belleville, IL - t.co",
     "published": "2026-08-19T07:00:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/fun-104-520806/4840133307319-29-year-old-woman-killed-in-head-on-crash-on-southern-minnesota-highway",
@@ -1964,6 +1922,139 @@
     "title": "Savannah man charged after fatal hit-and-run in St. Joseph - News-Press NOW",
     "published": "2026-08-19T07:00:18+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/blackstone-valley/state-police-id-2-killed-in-cumberland-fiery-crash/",
+    "title": "Police ID 2 killed in Cumberland fiery crash - WPRI.com",
+    "published": "2026-08-21T15:42:07+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://news4sanantonio.com/news/nation-world/2-dead-after-serious-crash-interstate-295-north-in-cumberland-rhode-island",
+    "title": "2 killed in fiery Rhode Island interstate crash that shut down traffic for hours - WOAI",
+    "published": "2026-08-21T14:23:22+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://billingsgazette.com/news/state-and-regional/article_f8fa0efb-a070-5673-bf06-f6028568f9c9.html",
+    "title": "MHP: Pedestrian killed in early-morning crash in Anaconda - Billings Gazette",
+    "published": "2026-08-21T15:30:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wcvb.com/article/2-massachusetts-men-killed-in-rhode-island-crash/73494912",
+    "title": "2 Mass. drivers die in head-on crash on Rhode Island highway - WCVB",
+    "published": "2026-08-21T20:21:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/loved-ones-remember-norton-man-killed-in-i-295-crash-cumberland-friends-family-pickup-truck-father-larger-than-life-august-21-2026",
+    "title": "Loved ones remember Norton man killed in I-295 crash - WJAR",
+    "published": "2026-08-22T02:35:53+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/suv-crashes-backyard-pool-home-hewlett-long-island-nassau-county/19713917/",
+    "title": "Woman dies after SUV crashes into backyard pool in Hewlett, Long Island. - ABC7 New York",
+    "published": "2026-08-21T16:26:45+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/i-295-cumberland-rhode-island-crash/4001615/",
+    "title": "2 people dead after Cumberland, RI, crash that closed I-295 north - NBC Boston",
+    "published": "2026-08-21T12:34:54+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/bristol-county-man-killed-in-fiery-rollover-highway-crash-remembered-for-his-constant-smile-big-heart-contagious-laugh/",
+    "title": "Bristol County man killed in fiery rollover highway crash remembered for his constant smile, big heart, contagious laugh - Fall River Reporter",
+    "published": "2026-08-22T00:24:47+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/rolled-over-truck-blocks-interstate-295-north-route-122-cumberland-rhode-island-august-20-2026",
+    "title": "Crash on Interstate 295 in Cumberland kills 2 from Massachusetts - WJAR",
+    "published": "2026-08-21T05:05:01+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/crash-involving-e-bike-leads-to-arrest-of-33-year-old-man-in-johnston-aug-20-2026",
+    "title": "Crash involving E-bike leads to arrest of 33-year-old man in Johnston - WJAR",
+    "published": "2026-08-21T04:50:20+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.boston25news.com/news/2-massachusetts-drivers-killed-head-on-crash-rhode-island-highway/a42306c4-8133-4433-913e-61a126a17d2e/",
+    "title": "2 Massachusetts drivers killed in head-on crash on Rhode Island highway - Boston 25 News",
+    "published": "2026-08-21T16:25:30+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://turnto10.com/news/local/2-massachusetts-men-dead-after-head-on-crash-on-i-295-in-cumberland-speeding-recklessly-median-cross-traffic-seatbelt-barrier-august-21-2026",
+    "title": "2 Massachusetts men killed in head-on crash on Interstate 295 in Cumberland - WJAR",
+    "published": "2026-08-21T22:46:11+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/blackstone-valley/truck-rollover-blocks-i-295-north-in-cumberland/",
+    "title": "2 killed in Cumberland fiery rollover crash - WPRI.com",
+    "published": "2026-08-20T19:49:04+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.desototimes.com/news/pedestrian-killed-in-olive-branch-collision/article_60b11b64-153d-46a1-bd7b-253436515a68.html",
+    "title": "Pedestrian killed in Olive Branch collision - DeSoto Times-Tribune",
+    "published": "2026-08-21T14:33:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fox8.com/news/squidpocalypse-of-26-truckload-of-squid-spills-in-rollover-crash-creating-smelly-mess/amp/",
+    "title": "‘Squidpocalypse of ’26’: Truckload of squid spills in rollover crash, creating smelly mess - FOX 8 News",
+    "published": "2026-08-21T10:56:26+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.romesentinel.com/news/utica-arterial-hit-run-fatal/article_19ebfe79-b719-4b8d-8db6-ab75903d226c.html",
+    "title": "Man killed in Utica hit and run - Rome Sentinel",
+    "published": "2026-08-21T14:45:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.thelegaladvocate.com/news/breaking/pedestrian-struck-by-vehicle-at-30-hartford-avenue-in-providence-ri-20260821026",
+    "title": "Pedestrian Struck by Vehicle at 30 Hartford Avenue in Providence, RI - The Legal Advocate",
+    "published": "2026-08-22T07:59:37+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "http://www.abc-7.com/article/rhode-island-squid-spill-tractor-trailer/73496577",
+    "title": "'Felt like something out of SpongeBob': Squid spill covers Rhode Island roadway - Gulf Coast News and Weather",
+    "published": "2026-08-21T17:48:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/miami-herald-1592483/4842375780744-hit-and-run-driver-who-killed-scooter-rider-has-been-arrested-bso-says",
+    "title": "Hit-and-run driver who killed scooter rider has been arrested, BSO says - NewsBreak: Local News & Alerts",
+    "published": "2026-08-21T19:40:02+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
 ]
