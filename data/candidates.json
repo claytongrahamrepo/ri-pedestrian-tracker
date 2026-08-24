@@ -858,7 +858,7 @@
     "title": "Pedestrian dead after being hit by truck on Highway 404 near Finch - Toronto Star",
     "published": "2026-08-08T13:12:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://coastalabc.com/news/local/man-critically-injured-in-overnight-crash-08-09-2026",
@@ -1314,13 +1314,6 @@
     "published": "2026-08-16T17:34:36+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.columbiamissourian.com/news/local/two-arrested-after-pedestrian-killed-on-east-st-charles-road/article_cee24657-58d9-499c-9496-bedbfce9eef4.html",
-    "title": "Two arrested after pedestrian killed on East St. Charles Road - Columbia Missourian",
-    "published": "2026-08-16T11:56:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4832265998920-bicyclist-dies-after-being-hit-by-car-near-lakeland-pcso",
@@ -1789,7 +1782,7 @@
     "title": "Driver busted weeks after Jersey City hit-and-run left man seriously injured - NewsBreak: Local News & Alerts",
     "published": "2026-08-20T02:14:58+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.bakersfield.com/news/coroners-office-ids-pedestrian-killed-by-train/article_37aec2e1-fe51-43fb-894d-7dd06967e70d.html",
@@ -1939,13 +1932,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.boston25news.com/news/2-massachusetts-drivers-killed-head-on-crash-rhode-island-highway/a42306c4-8133-4433-913e-61a126a17d2e/",
-    "title": "2 Massachusetts drivers killed in head-on crash on Rhode Island highway - Boston 25 News",
-    "published": "2026-08-21T16:25:30+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://turnto10.com/news/local/2-massachusetts-men-dead-after-head-on-crash-on-i-295-in-cumberland-speeding-recklessly-median-cross-traffic-seatbelt-barrier-august-21-2026",
     "title": "2 Massachusetts men killed in head-on crash on Interstate 295 in Cumberland - WJAR",
     "published": "2026-08-21T22:46:11+00:00",
@@ -1964,7 +1950,7 @@
     "title": "Pedestrian killed in Olive Branch collision - DeSoto Times-Tribune",
     "published": "2026-08-21T14:33:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://fox8.com/news/squidpocalypse-of-26-truckload-of-squid-spills-in-rollover-crash-creating-smelly-mess/amp/",
@@ -2012,6 +1998,139 @@
     "url": "https://www.newsbreak.com/denver7-news-kmgh-563649/4840965043435-father-of-cyclist-killed-in-hit-and-run-crash-fighting-for-safer-aurora-roads",
     "title": "Father of cyclist killed in hit-and-run crash fighting for safer Aurora roads - NewsBreak: Local News & Alerts",
     "published": "2026-08-21T19:37:45+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/BAIeOlrwuP",
+    "title": "Pedestrian Killed in Crash on I-26 in Spartanburg Co, SC - t.co",
+    "published": "2026-08-22T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4845465094731-pedestrian-killed-in-crash-at-interstate-10-craycroft",
+    "title": "Pedestrian killed in crash at Interstate 10, Craycroft - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T00:52:26+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/icj0ZmXgmi",
+    "title": "Pedestrian Killed in Wreck on 101st Airborne Division Pkwy in Clarksville, TN - t.co",
+    "published": "2026-08-22T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/knss-radio-1590310/4844958816598-pedestrian-killed-friday-on-the-kansas-turnpike-identified",
+    "title": "Pedestrian killed Friday on the Kansas Turnpike identified - NewsBreak: Local News & Alerts",
+    "published": "2026-08-22T19:19:39+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/pVBLrTuWTX",
+    "title": "Pedestrian Killed After Being Hit on US 183 Ramp in Austin, TX - t.co",
+    "published": "2026-08-22T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/uhFt7rfQ9p",
+    "title": "Two Killed in Collision on Rte 430 in Chautauqua, NY - t.co",
+    "published": "2026-08-22T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://people.com/mom-helped-teens-then-got-hit-by-car-had-no-idea-who-shed-saved-until-friend-lost-it-exclusive-12060962",
+    "title": "Mom Pulled Over to Help Teens, Only to Get Hit by Car (Exclusive) - People.com",
+    "published": "2026-08-23T15:14:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.facebook.com/Boston25News/photos/breaking-two-massachusetts-men-were-killed-in-a-violent-head-on-crash-after-inve/1547787447382916/",
+    "title": "BREAKING: Two Massachusetts men were killed in a violent head-on crash after investigators say one driver was speeding and driving recklessly in the highway median. - facebook.com",
+    "published": "2026-08-22T03:34:15+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/2-mass-men-killed-wrong-195920302.html",
+    "title": "2 Mass. men killed in wrong-way crash on Rhode Island highway - Yahoo",
+    "published": "2026-08-22T19:59:20+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4843790061930-pedestrian-dies-after-jeep-crashes-into-him-in-north-philadelphia",
+    "title": "Pedestrian dies after Jeep crashes into him in North Philadelphia - NewsBreak: Local News & Alerts",
+    "published": "2026-08-22T17:49:45+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4845152707134-updating-breaking-news-43-year-old-weirsdale-man-killed-in-marion-county-pickup-crash",
+    "title": "Updating Breaking News: 43-year-old Weirsdale man killed in Marion County pickup crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-23T15:40:23+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/VJ6WMdPvw1",
+    "title": "Man Killed in Head-On Collision on Rte 322, Port Matilda, PA | Local Accident Reports - t.co",
+    "published": "2026-08-22T07:00:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4844986371638-man-hit-by-impaired-driver-after-running-into-street-while-being-chased-following-argument",
+    "title": "Man hit by impaired driver after running into street while being chased following argument - NewsBreak: Local News & Alerts",
+    "published": "2026-08-23T16:29:28+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/north-kingstown-police-looking-into-hit-and-run",
+    "title": "North Kingstown police looking into hit-and-run - WJAR",
+    "published": "2026-08-22T20:14:24+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.aol.com/articles/metro-detroit-family-opens-gofundme-013123000.html",
+    "title": "Metro Detroit family opens GoFundMe for woman who was hit by speed boat in Waterford Twp. - AOL.com",
+    "published": "2026-08-23T15:29:01+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.niagarathisweek.com/news/crime/st-catharines-hit-run-niagara-police-man-injured/article_e572bba6-dec5-55a1-873d-2182eb5bb52e.html",
+    "title": "One suspect arrested: 2 people seriously injured in separate St. Catharines hit-and-run collisions - Niagara This Week",
+    "published": "2026-08-21T23:36:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/wtkr-news-3-563675/4844883314331-teen-charged-in-hit-and-run-crash-that-left-9-year-old-boy-injured-in-norfolk",
+    "title": "Teen charged in hit-and-run crash that left 9-year-old boy injured in Norfolk - NewsBreak: Local News & Alerts",
+    "published": "2026-08-23T14:41:15+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/G9AeVNTPO9",
+    "title": "Motorcyclist Killed in Hit-and-Run on FM 88 Near Elsa, TX - t.co",
+    "published": "2026-08-22T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4845665233260-cyclist-killed-in-early-morning-crash-near-great-saltair-in-magna-after-being-struck-on-i-80-frontage-road-with-police-citing-darkness-as-a-possible-factor",
+    "title": "Cyclist Killed in Early Morning Crash Near Great Saltair in Magna After Being Struck on I-80 Frontage Road, With Police Citing Darkness as a Possible Factor - NewsBreak: Local News & Alerts",
+    "published": "2026-08-23T16:36:13+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
   }
