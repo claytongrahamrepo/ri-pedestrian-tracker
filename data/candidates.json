@@ -550,7 +550,7 @@
     "title": "Pedestrian killed in Garvin County hit-and-run - KTEN",
     "published": "2026-08-04T18:45:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/ktar-news-560325/4805998733562-pedestrian-left-in-critical-condition-after-hit-and-run-in-west-phoenix",
@@ -1334,7 +1334,7 @@
     "title": "Two arrested after a pedestrian is killed on East St. Charles Road - Columbia Missourian",
     "published": "2026-08-16T11:56:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/ktnv-13-action-news-563659/4832846100566-summerlin-cyclist-seeking-justice-after-hit-and-run-leaves-him-seriously-injured",
@@ -1778,13 +1778,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/shore-news-network-560352/4837641580446-driver-busted-weeks-after-jersey-city-hit-and-run-left-man-seriously-injured",
-    "title": "Driver busted weeks after Jersey City hit-and-run left man seriously injured - NewsBreak: Local News & Alerts",
-    "published": "2026-08-20T02:14:58+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.bakersfield.com/news/coroners-office-ids-pedestrian-killed-by-train/article_37aec2e1-fe51-43fb-894d-7dd06967e70d.html",
     "title": "Coroner's office IDs pedestrian killed by train - Bakersfield.com",
     "published": "2026-08-19T22:57:00+00:00",
@@ -2006,7 +1999,7 @@
     "title": "Pedestrian Killed in Crash on I-26 in Spartanburg Co, SC - t.co",
     "published": "2026-08-22T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4845465094731-pedestrian-killed-in-crash-at-interstate-10-craycroft",
@@ -2020,7 +2013,7 @@
     "title": "Pedestrian Killed in Wreck on 101st Airborne Division Pkwy in Clarksville, TN - t.co",
     "published": "2026-08-22T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/knss-radio-1590310/4844958816598-pedestrian-killed-friday-on-the-kansas-turnpike-identified",
@@ -2034,14 +2027,14 @@
     "title": "Pedestrian Killed After Being Hit on US 183 Ramp in Austin, TX - t.co",
     "published": "2026-08-22T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/uhFt7rfQ9p",
     "title": "Two Killed in Collision on Rte 430 in Chautauqua, NY - t.co",
     "published": "2026-08-22T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://people.com/mom-helped-teens-then-got-hit-by-car-had-no-idea-who-shed-saved-until-friend-lost-it-exclusive-12060962",
@@ -2055,7 +2048,7 @@
     "title": "BREAKING: Two Massachusetts men were killed in a violent head-on crash after investigators say one driver was speeding and driving recklessly in the highway median. - facebook.com",
     "published": "2026-08-22T03:34:15+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.yahoo.com/news/articles/2-mass-men-killed-wrong-195920302.html",
@@ -2083,7 +2076,7 @@
     "title": "Man Killed in Head-On Collision on Rte 322, Port Matilda, PA | Local Accident Reports - t.co",
     "published": "2026-08-22T07:00:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4844986371638-man-hit-by-impaired-driver-after-running-into-street-while-being-chased-following-argument",
@@ -2125,12 +2118,166 @@
     "title": "Motorcyclist Killed in Hit-and-Run on FM 88 Near Elsa, TX - t.co",
     "published": "2026-08-22T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4845665233260-cyclist-killed-in-early-morning-crash-near-great-saltair-in-magna-after-being-struck-on-i-80-frontage-road-with-police-citing-darkness-as-a-possible-factor",
     "title": "Cyclist Killed in Early Morning Crash Near Great Saltair in Magna After Being Struck on I-80 Frontage Road, With Police Citing Darkness as a Possible Factor - NewsBreak: Local News & Alerts",
     "published": "2026-08-23T16:36:13+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.facebook.com/Boston25News/posts/an-8-year-old-year-old-hit-by-a-car-in-attleboro-on-monday-is-expected-to-be-oka/1551074217054239/",
+    "title": "An 8-year-old year old hit by a car in Attleboro on Monday is expected to be okay, officials said. - facebook.com",
+    "published": "2026-08-25T08:50:40+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://patch.com/massachusetts/attleboro/child-hospitalized-after-being-hit-car-attleboro-report",
+    "title": "Child Hospitalized After Being Hit By Car In Attleboro: Report - Patch",
+    "published": "2026-08-24T20:29:33+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.aol.com/articles/crash-south-nashville-slows-traffic-160826000.html",
+    "title": "Crash in South Nashville slows traffic on I-24 - AOL.com",
+    "published": "2026-08-22T17:32:41+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/belleville-news-democrat-1592547/4847007977920-man-charged-nearly-a-year-after-cahokia-heights-crash-caused-pedestrian-death",
+    "title": "Man charged nearly a year after Cahokia Heights crash caused pedestrian death - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T20:12:09+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/daily-voice-525087/4846402985727-person-struck-in-early-morning-hit-run-in-montgomery-police-searching-for-suspect",
+    "title": "Person Struck In Early-Morning Hit-Run In Montgomery — Police Searching For Suspect - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T14:05:16+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/GyC4W8LhFp",
+    "title": "Pedestrian Hurt After Vehicle Strikes at Walmart in Bowling Green, KY - t.co",
+    "published": "2026-08-23T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4847084155800-coroner-ids-pedestrian-killed-in-crash-at-powers-and-palmer-park",
+    "title": "Coroner IDs pedestrian killed in crash at Powers and Palmer Park - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T21:05:18+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/7TfXq9JGuB",
+    "title": "1 Dead After Pedestrian Wreck on S Main St in Waterbury, CT - t.co",
+    "published": "2026-08-23T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/we-are-lafayette-341418997/4846424112056-lafayette-man-killed-in-early-morning-crash",
+    "title": "Lafayette Man Killed in Early Morning Crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T14:48:58+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.timesunion.com/news/article/albany-club-sued-plane-crash-death-montgomery-22401192.php",
+    "title": "Estate of lawmaker killed in plane crash sues pilot and flying club - Times Union",
+    "published": "2026-08-25T10:09:43+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://fallriverreporter.com/officials-identify-37-year-old-bristol-county-man-killed-in-motorcycle-crash/",
+    "title": "Officials identify 37-year-old Bristol County man killed in motorcycle crash - Fall River Reporter",
+    "published": "2026-08-25T00:50:09+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.stltoday.com/news/local/crime-courts/article_213c3e0a-8265-4611-aaa2-e83136fabfd7.html",
+    "title": "Pedestrian death on I-55 leads St. Louis police to dead man in Soulard home nearby - STLtoday.com",
+    "published": "2026-08-24T18:48:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://wbsm.com/raynham-route-138-motorcycle-crash-fatal/",
+    "title": "South Easton Motorcyclist Dies Following Sunday Collision in Raynham - WBSM.com",
+    "published": "2026-08-24T20:04:47+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://herald-review.com/news/local/article_fc58557d-49fc-4c62-983f-821c184fb13d.html",
+    "title": "Coroner names Decatur pedestrian killed in collision - Herald-Review.com",
+    "published": "2026-08-24T11:15:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4846666267599-coroner-names-20-year-old-man-killed-after-struck-by-vehicle-on-highway-58",
+    "title": "Coroner names 20-year-old man killed after struck by vehicle on Highway 58 - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T17:26:02+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/eight-year-old-hospitalized-after-monday-crash",
+    "title": "Eight-year-old hospitalized after Monday crash - coastalabc.com",
+    "published": "2026-08-25T03:44:34+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.aol.com/articles/norfolk-mother-seeks-help-community-021035000.html",
+    "title": "Norfolk mother seeks help from community after hit-and-run hospitalizes son - AOL.com",
+    "published": "2026-08-24T03:59:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.aol.com/articles/e-bike-crash-leads-arrest-172059000.html",
+    "title": "E-bike crash leads to arrest in Johnston - AOL.com",
+    "published": "2026-08-24T11:21:40+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/the-state-1592583/4846767700248-search-for-driver-after-woman-killed-in-hit-and-run-crash-sc-police-say",
+    "title": "Search for driver after woman killed in hit-and-run crash, SC police say - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T18:12:34+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/ktnv-13-action-news-563659/4846411228152-lvmpd-east-valley-hit-and-run-leaves-pedestrian-with-life-threatening-injuries",
+    "title": "LVMPD: East valley hit-and-run leaves pedestrian with life-threatening injuries - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T14:21:44+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/alachua-chronicle-1653568/4846892049688-cyclist-killed-in-waldo-road-crash",
+    "title": "Cyclist killed in Waldo Road crash - NewsBreak: Local News & Alerts",
+    "published": "2026-08-24T19:23:33+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsbreak.com/news/4843928773430-air-care-called-after-bicyclist-injured-in-butler-county-crash-dispatcher-says",
+    "title": "Air Care called after bicyclist injured in Butler County crash, dispatcher says - NewsBreak: Local News & Alerts",
+    "published": "2026-08-22T20:02:37+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
   }
