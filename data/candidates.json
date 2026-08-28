@@ -546,13 +546,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.kten.com/news/pedestrian-killed-in-garvin-county-hit-and-run/article_d85ed1cd-d82d-40ba-8e3d-6fa746ffdf31.html",
-    "title": "Pedestrian killed in Garvin County hit-and-run - KTEN",
-    "published": "2026-08-04T18:45:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/ktar-news-560325/4805998733562-pedestrian-left-in-critical-condition-after-hit-and-run-in-west-phoenix",
     "title": "Pedestrian left in critical condition after hit-and-run in west Phoenix - NewsBreak: Local News & Alerts",
     "published": "2026-08-03T22:55:44+00:00",
@@ -928,7 +921,7 @@
     "title": "DPS investigates fatal hit-and-run on SR 266 east of Bonita - Eastern Arizona Courier",
     "published": "2026-08-10T17:10:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4820614514600-pedestrian-airlifted-after-crash-manchester-pd",
@@ -1071,13 +1064,6 @@
     "attempts": 0
   },
   {
-    "url": "https://statesville.com/news/local/crime-courts/article_ef0cafe1-5345-4e16-9d11-d17a7d852e55.html",
-    "title": "Iredell County search warrant said driver fled to friend's house after hitting pedestrian - Statesville Record",
-    "published": "2026-08-13T08:30:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-flintridge-man-arrested-in-fatal-hit-and-run-of-sheriffs-department-employee/article_d9c11c0e-0d8e-4ab9-92ab-ead0790b68b2.html",
     "title": "La Cañada Flintridge Man Arrested in Fatal Hit-and-Run of Sheriff's Department Employee - Outlook Newspapers",
     "published": "2026-08-11T23:30:00+00:00",
@@ -1096,7 +1082,7 @@
     "title": "14-Year-Old on Electric Scooter Struck by Vehicle and Injured in Moses Lake - Source ONE News",
     "published": "2026-08-11T20:24:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/wrtv-563673/4828112311020-1-dead-after-being-struck-by-a-vehicle-east-of-downtown-indianapolis",
@@ -1320,7 +1306,7 @@
     "title": "Two arrested after pedestrian dies on East St. Charles Road - Columbia Missourian",
     "published": "2026-08-16T11:56:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/ktnv-13-action-news-563659/4832846100566-summerlin-cyclist-seeking-justice-after-hit-and-run-leaves-him-seriously-injured",
@@ -1383,7 +1369,7 @@
     "title": "Pedestrian killed in crash in Middletown - Newport Dispatch",
     "published": "2026-08-17T19:28:41+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://thenewportbuzz.com/middletown-pedestrian-killed-coddington-highway/62124",
@@ -1487,13 +1473,6 @@
     "url": "https://nwitimes.com/news/local/crime-courts/article_b0803b8a-2b89-4278-b8fb-b360f5485fb8.html",
     "title": "Police seeking hit-and-run driver causing serious injuries - nwitimes.com",
     "published": "2026-08-17T16:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://www.lpheralddispatch.com/news/local/pedestrian-injured-after-hit-and-run/article_4bffef0e-21a2-521a-8bd8-7c2ec858b8bd.html",
-    "title": "Pedestrian injured after hit-and-run - LPHeraldDispatch.com",
-    "published": "2026-08-17T20:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 2
   },
@@ -1614,7 +1593,7 @@
     "title": "Briefly: Boy on scooter hit by car - The Elkhart Truth",
     "published": "2026-08-18T17:02:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4836699719668-harris-county-crash-10-year-old-girl-riding-electric-scooter-struck-by-vehicle",
@@ -1831,7 +1810,7 @@
     "title": "Dog Killed in Culver City Hit-and-Run - westsidecurrent.com",
     "published": "2026-08-21T00:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newspressnow.com/news/local_news/courts/savannah-man-charged-after-fatal-hit-and-run-in-st-joseph/article_60422e46-33a4-5355-b2d3-60e021f23a88.html",
@@ -2048,7 +2027,7 @@
     "title": "One suspect arrested: 2 people seriously injured in separate St. Catharines hit-and-run collisions - Niagara This Week",
     "published": "2026-08-21T23:36:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/wtkr-news-3-563675/4844883314331-teen-charged-in-hit-and-run-crash-that-left-9-year-old-boy-injured-in-norfolk",
@@ -2205,39 +2184,11 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/Du7GLZU2pR",
-    "title": "Pedestrian Killed in Hit-and-Run on Seward Hwy in Anchorage, AK - t.co",
-    "published": "2026-08-24T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://www.nhregister.com/news/article/ct-ashley-taunton-ri-crash-good-samaritan-22402538.php",
-    "title": "Connecticut woman hit by car while helping crash victims. She later learned who she had saved - New Haven Register",
-    "published": "2026-08-25T16:29:08+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.santafenewmexican.com/news/local_news/one-man-dead-following-early-morning-pedestrian-crash-in-santa-fe/article_d262d90a-f5e4-4836-98b1-6e2203816d5b.html",
     "title": "One man dead following early morning pedestrian crash in Santa Fe - Santa Fe New Mexican",
     "published": "2026-08-24T16:13:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://t.co/V5MbZZVZsI",
-    "title": "Woman Killed in Hwy 2 Collision, Grand Rapids Twp, MN - t.co",
-    "published": "2026-08-24T07:00:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/gqKMG68G7Q",
-    "title": "Cyclist Killed in Collision on I-80 Frontage Rd Near Magna, UT - t.co",
-    "published": "2026-08-24T07:00:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.aol.com/articles/driver-pulled-burning-car-bystanders-155936000.html",
@@ -2257,13 +2208,6 @@
     "url": "https://scnow.com/news/local/crime-courts/article_870a3e04-125c-4f1f-9bdb-c4f180cc4cc4.html",
     "title": "Pedestrian injured in hit-and-run incident in Florence; suspect in custody - SCNow",
     "published": "2026-08-25T20:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://t.co/UPYtRFZMXT",
-    "title": "Hit-and-Run Driver Kills Woman in Crosswalk on 6th Ave in New York, NY - t.co",
-    "published": "2026-08-24T07:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 2
   },
@@ -2363,7 +2307,7 @@
     "title": "Police Log: 50 Vehicles in Street Takeover, Passing Vehicle Clips Pedestrian, Problems with Teen Hangout in Woods - Westwood Minute",
     "published": "2026-08-27T04:44:37+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.bostonglobe.com/2026/08/26/metro/medford-hit-and-run/",
@@ -2377,7 +2321,7 @@
     "title": "Arrest made in St. Catharines hit-and-run that seriously injured a pedestrian, the 1st of 2 within hours of each other - Niagara This Week",
     "published": "2026-08-26T22:03:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/grandview-independent-308456179/4851129477081-richmond-police-investigate-fatal-hit-and-run-near-23rd-street-and-hellings-avenue",
@@ -2405,6 +2349,174 @@
     "title": "Wilkesboro bicyclist killed in collision with vehicle - FOX8 WGHP",
     "published": "2026-08-26T19:35:20+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.syracuse.com/crime/2026/08/deputies-id-pedestrian-who-died-after-being-hit-by-vehicle-involved-in-two-car-crash.html",
+    "title": "Deputies ID Central NY pedestrian who died after being hit by vehicle involved in two-car crash - Syracuse.com",
+    "published": "2026-08-27T20:58:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.newsfromthestates.com/article/burlington-artist-dug-nap-struck-and-killed-e-bike-rider-crosswalk-new-court-filing-alleges",
+    "title": "Burlington artist dug Nap struck and killed e-bike rider in crosswalk, new court filing alleges - News From The States",
+    "published": "2026-08-27T19:21:06+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/z2OASOcTjj",
+    "title": "Pedestrian Killed in Crash on New Georges Creek Rd in Frostburg, MD - t.co",
+    "published": "2026-08-27T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/Uym2828Hs9",
+    "title": "1 Dead After Pedestrian Wreck on I-75/85 in Atlanta, GA - t.co",
+    "published": "2026-08-27T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/bfpJimac1b",
+    "title": "Pedestrian Struck on Frederick St in Hanover, PA - t.co",
+    "published": "2026-08-26T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/PTYGdvysoC",
+    "title": "Child Killed in Dump Truck Crash on Country Club Dr in Tullahoma, TN - t.co",
+    "published": "2026-08-26T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/66p7TegHV8",
+    "title": "School Bus Strikes Woman in Wheelchair in Parma, OH - t.co",
+    "published": "2026-08-26T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/0lSCGDlruq",
+    "title": "Tractor Driver Killed in Crash Near Scenic Rd in Grant Co, WI - t.co",
+    "published": "2026-08-26T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://turnto10.com/news/local/rhode-island-state-police-respond-to-a-fatal-motorcycle-crash-on-route-6-in-johnston-aug-28-2026",
+    "title": "Cranston man killed in motorcycle crash in Johnston - WJAR",
+    "published": "2026-08-28T19:18:45+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/west-bay/motorcyclist-killed-in-johnston-crash-3/",
+    "title": "Motorcyclist killed in Johnston crash - WPRI.com",
+    "published": "2026-08-28T15:58:50+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.masslive.com/news/2026/08/motorcyclist-dies-after-3-vehicle-crash-on-i-95-in-massachusetts.html",
+    "title": "Motorcyclist dies after 3-vehicle crash on I-95 in Massachusetts - MassLive.com",
+    "published": "2026-08-27T22:40:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.boston25news.com/news/local/one-person-died-after-three-vehicle-crash-i-95-westwood/HFS3KPTUYBGLBPWLJ7EULSFJDA/",
+    "title": "One person died after three-vehicle crash on I-95 in Westwood - Boston 25 News",
+    "published": "2026-08-27T22:04:31+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://kfoxtv.com/news/local/developing-crash-involving-semi-and-a-pedestrian-leaves-one-person-dead",
+    "title": "One person run over, killed in East El Paso I-10 incident - KFOX",
+    "published": "2026-08-27T04:13:59+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.syracuse.com/crime/2026/08/central-ny-pedestrian-dies-after-being-hit-by-vehicle-involved-in-two-car-crash.html",
+    "title": "Central NY pedestrian dies after being hit by vehicle involved in two-car crash - Syracuse.com",
+    "published": "2026-08-26T11:27:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/serious-crash-impacts-traffic-on-i-95-in-westwood/4004675/",
+    "title": "Motorcyclist killed in 3-vehicle crash on I-95 in Westwood - NBC Boston",
+    "published": "2026-08-27T02:16:18+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/da-identifies-rhode-island-motorcycle-rider-killed-in-multi-vehicle-massachusetts-highway-crash/",
+    "title": "DA identifies Rhode Island motorcycle rider killed in multi-vehicle Massachusetts highway crash - Fall River Reporter",
+    "published": "2026-08-27T22:00:28+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.syracuse.com/crime/2026/08/deputies-identify-man-who-died-after-crashing-motorcycle-in-oneida-county.html",
+    "title": "Deputies identify man who died after crashing motorcycle in Oneida County - Syracuse.com",
+    "published": "2026-08-28T19:02:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.mlive.com/news/ann-arbor/2026/08/50-year-old-woman-killed-in-rural-washtenaw-county-crash.html",
+    "title": "50-year-old woman killed in rural Washtenaw County crash - MLive.com",
+    "published": "2026-08-28T14:02:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/1b16vLvN2B",
+    "title": "Woman Killed in Head-on Collision on LA-444 in Livingston Parish, LA - t.co",
+    "published": "2026-08-26T07:00:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.pennlive.com/news/2026/08/man-going-to-help-others-after-hershey-crash-was-hit-by-a-car-police.html",
+    "title": "Man going to help others after Hershey crash was hit by a car: police - PennLive.com",
+    "published": "2026-08-28T18:55:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nj.com/somerset/2026/08/hit-and-run-killed-a-21-year-old-nj-college-senior-just-days-into-her-final-year.html",
+    "title": "Hit-and-run killed a 21-year-old N.J. college senior just days into her final year - NJ.com",
+    "published": "2026-08-27T01:03:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.insidehalton.com/news/crime/woman-dead-after-hit-and-run-crash-in-burlington-on-thursday/article_fff5cf4c-2abd-5268-88bd-7571c5c105bc.html",
+    "title": "Woman dead after hit-and-run crash in Burlington on Thursday afternoon: Halton police - Inside Halton",
+    "published": "2026-08-28T12:28:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/cXdIgYys50",
+    "title": "Man Killed in Hit-and-Run on Hwy 139 Near Loma, CO - t.co",
+    "published": "2026-08-26T07:00:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://turnto10.com/news/local/man-struck-by-vehicle-in-west-warwick-pedestrian-crossing-street-injured-hospital-main-street-august-28-2026",
+    "title": "Man struck by vehicle in West Warwick - WJAR",
+    "published": "2026-08-28T20:30:31+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
     "attempts": 0
   }
 ]
