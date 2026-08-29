@@ -902,5 +902,17 @@
   {
     "url": "https://t.co/UPYtRFZMXT",
     "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.thestar.com/news/gta/highway-404-southbound-closed-after-pedestrian-killed-by-transport-truck-near-finch/article_efc8c7c1-dbbd-4383-a75e-232383418402.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://www.columbiamissourian.com/news/local/two-arrested-after-pedestrian-dies-on-east-st-charles-road/article_cee24657-58d9-499c-9496-bedbfce9eef4.html",
+    "reason": "unfetchable"
+  },
+  {
+    "url": "https://westwoodminute.town.news/g/westwood-ma/n/385785/police-log-50-vehicles-participate-street-takeover-teens-create-hangout",
+    "reason": "unfetchable"
   }
 ]
