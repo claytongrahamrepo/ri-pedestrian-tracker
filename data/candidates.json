@@ -455,13 +455,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/miami-herald-1592483/4807311086443-man-accused-of-trapping-pedestrian-under-truck-miami-dade-deputies-say",
-    "title": "Man accused of trapping pedestrian under truck, Miami-Dade deputies say - NewsBreak: Local News & Alerts",
-    "published": "2026-08-03T21:20:01+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/2-news-oklahoma-kjrh-tulsa-563648/4807188465713-suspect-identified-arrest-warrant-issued-following-deadly-hit-and-run-in-tulsa",
     "title": "Suspect identified, arrest warrant issued following deadly hit-and-run in Tulsa - NewsBreak: Local News & Alerts",
     "published": "2026-08-03T20:05:22+00:00",
@@ -551,13 +544,6 @@
     "published": "2026-08-03T22:55:44+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://pantagraph.com/news/local/article_9ea537de-ef75-443a-9c28-ee88408bc697.html",
-    "title": "Cyclist killed in Sunday crash identified as Bloomington man - The Pantagraph",
-    "published": "2026-08-04T18:35:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/cleveland-com-512965/4809503841159-another-bicyclist-was-killed-in-northeast-ohio-are-streets-becoming-more-dangerous",
@@ -718,7 +704,7 @@
     "title": "Witness said hit-and-run victim's body went 'airborne' after impact - Herald-Review.com",
     "published": "2026-08-06T21:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/miami-herald-1592483/4814874990236-deputies-make-slew-of-street-takeover-arrests-including-wanted-hit-and-run-driver",
@@ -914,7 +900,7 @@
     "title": "DPS investigates fatal hit-and-run on SR 266 east of Bonita - Eastern Arizona Courier",
     "published": "2026-08-10T17:10:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4820614514600-pedestrian-airlifted-after-crash-manchester-pd",
@@ -976,13 +962,6 @@
     "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-flintridge-man-arrested-in-fatal-hit-and-run-of-66-year-old/article_d9c11c0e-0d8e-4ab9-92ab-ead0790b68b2.html",
     "title": "La Cañada Flintridge Man Arrested in Fatal Hit-and-Run of 66-Year-Old Woman - Outlook Newspapers",
     "published": "2026-08-11T23:30:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://www.eacourier.com/news/safford-man-arrested-after-fatal-state-route-266-hit-and-run-victim-identified/article_300bec58-5881-4db9-a962-80204bb4252b.html",
-    "title": "Safford man arrested after fatal State Route 266 hit-and-run, victim identified - Eastern Arizona Courier",
-    "published": "2026-08-12T00:29:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 2
   },
@@ -1061,7 +1040,7 @@
     "title": "La Cañada Flintridge Man Arrested in Fatal Hit-and-Run of Sheriff's Department Employee - Outlook Newspapers",
     "published": "2026-08-11T23:30:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/the-staten-island-advance-513122/4821085625416-usps-driver-arrested-in-fatal-hell-s-kitchen-hit-and-run-victim-just-performed-with-band-in-nyc",
@@ -1075,7 +1054,7 @@
     "title": "14-Year-Old on Electric Scooter Struck by Vehicle and Injured in Moses Lake - Source ONE News",
     "published": "2026-08-11T20:24:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/wrtv-563673/4828112311020-1-dead-after-being-struck-by-a-vehicle-east-of-downtown-indianapolis",
@@ -1726,21 +1705,21 @@
     "title": "Coroner's office IDs pedestrian killed by train - Bakersfield.com",
     "published": "2026-08-19T22:57:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://richmond.com/news/local/crime-courts/article_14fc5e87-a4a6-4b03-8894-886498e2594c.html",
     "title": "39-year-old pedestrian killed in Chesterfield hit-and-run - Richmond Times-Dispatch",
     "published": "2026-08-20T23:00:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.thespec.com/news/hamilton-region/pedestrian-critically-injured-in-hamilton-mountain-crash/article_546a846a-093f-518e-9744-f49c28beaf4a.html",
     "title": "Pedestrian, 91, killed in Hamilton Mountain crash - The Spec",
     "published": "2026-08-19T13:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/wibc-1608515/4840248354358-19-year-old-indy-man-killed-in-hancock-county-crash",
@@ -1788,13 +1767,6 @@
     "url": "https://www.westsidecurrent.com/crime/dog-killed-in-culver-city-hit-and-run/article_fee7c75c-1c2b-4343-8a3a-f7f2225fd070.html",
     "title": "Dog Killed in Culver City Hit-and-Run - westsidecurrent.com",
     "published": "2026-08-21T00:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
-  },
-  {
-    "url": "https://www.newspressnow.com/news/local_news/courts/savannah-man-charged-after-fatal-hit-and-run-in-st-joseph/article_60422e46-33a4-5355-b2d3-60e021f23a88.html",
-    "title": "Savannah man charged after fatal hit-and-run in St. Joseph - News-Press NOW",
-    "published": "2026-08-19T07:00:18+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 2
   },
@@ -2069,7 +2041,7 @@
     "title": "Pedestrian death on I-55 leads St. Louis police to dead man in Soulard home nearby - STLtoday.com",
     "published": "2026-08-24T18:48:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://wbsm.com/raynham-route-138-motorcycle-crash-fatal/",
@@ -2083,7 +2055,7 @@
     "title": "Coroner names Decatur pedestrian killed in collision - Herald-Review.com",
     "published": "2026-08-24T11:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4846666267599-coroner-names-20-year-old-man-killed-after-struck-by-vehicle-on-highway-58",
@@ -2450,13 +2422,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/yhkMS32ssq",
-    "title": "Bicyclist Killed in Collision on 1000 E in Salt Lake City, UT - t.co",
-    "published": "2026-08-27T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.al.com/news/huntsville/2026/08/alabama-police-investigate-pedestrian-struck-and-killed-by-vehicle-on-us-72.html",
     "title": "Athens police investigate pedestrian struck by vehicle on US-72 - AL.com",
     "published": "2026-08-30T14:44:00+00:00",
@@ -2509,6 +2474,90 @@
     "url": "https://www.yahoo.com/entertainment/celebrity/articles/reports-taylor-swift-donates-woman-164417624.html",
     "title": "Reports: Taylor Swift donates to woman injured in crash - Yahoo",
     "published": "2026-08-29T16:44:17+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.thehour.com/news/article/taylor-swift-donation-ashley-taunton-ct-mom-22410277.php",
+    "title": "Taylor Swift gives $50K to Connecticut mom hurt while helping crash victims - Norwalk Hour",
+    "published": "2026-08-31T01:11:05+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://t.co/K8IUXkDtyj",
+    "title": "17-Year-Old Pedestrian Fatally Struck on SR 49, Clayton, OH - t.co",
+    "published": "2026-08-29T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://fallriverreporter.com/bristol-county-man-who-died-from-injuries-in-motorcycle-crash-remembered-for-many-talents-as-services-announced/",
+    "title": "Bristol County man who died from injuries in motorcycle crash remembered for many talents as services announced - Fall River Reporter",
+    "published": "2026-08-31T04:33:26+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.loudountimes.com/news/public_safety/accidents/pedestrian-killed-on-rt-7-in-potomac-falls/article_6a8ba989-af37-420f-b0e8-2902bc9e5aed.html",
+    "title": "Pedestrian killed on Rt. 7 in Potomac Falls - Loudoun Times-Mirror",
+    "published": "2026-08-31T09:00:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.pennlive.com/crime/2026/08/woman-admits-to-causing-fiery-crash-that-killed-father-daughter-on-lancaster-county-highway.html",
+    "title": "Woman admits to causing fiery crash that killed father, daughter on Lancaster County highway - pennlive.com",
+    "published": "2026-08-31T14:59:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/connecticut/ledyard/taylor-swift-donates-50k-help-hero-ledyard-good-samaritan-hit-car",
+    "title": "Taylor Swift Donates $50K To Help Hero Ledyard Good Samaritan Hit By Car - Patch",
+    "published": "2026-08-31T16:12:19+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://thoughtcatalog.com/nadia-santiago/2026/08/taylor-swift-dropped-50000-into-a-connecticut-moms-gofundme-after-she-got-hit-by-a-car/",
+    "title": "Taylor Swift Dropped $50,000 into a Connecticut Mom’s Gofundme After She Got Hit by a Car - Thought Catalog",
+    "published": "2026-08-31T01:00:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.oregonlive.com/crime/2026/08/pedestrian-seriously-injured-in-gresham-hit-and-run-police-say.html",
+    "title": "Pedestrian seriously injured in Gresham hit-and-run, police say - OregonLive.com",
+    "published": "2026-08-31T15:30:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/eastgreenwich/east-greenwich-man-charged-dui-after-hit-run-crash-cops",
+    "title": "East Greenwich Man Charged With DUI After Hit-And-Run Crash: Cops - Patch",
+    "published": "2026-08-31T16:32:24+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/brooklyn-nurse-jiayi-zheng-killed-sunset-park-hit-run-driver-sought/19763742/",
+    "title": "Brooklyn nurse Jiayi Zheng killed in Sunset Park hit-and-run; driver still sought - ABC7 New York",
+    "published": "2026-08-30T18:52:45+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.silive.com/nyc/2026/08/nyc-nurse-killed-in-hit-and-run-crash-in-brooklyn-saturday.html",
+    "title": "NYC nurse killed in hit-and-run crash in Brooklyn Saturday - SILive.com",
+    "published": "2026-08-31T12:53:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wtnh.com/news/connecticut/taylor-swift-donates-to-connecticut-mother-injured-in-crash-while-being-good-samaritan/amp/",
+    "title": "Taylor Swift donates to Connecticut mother injured in crash while being good Samaritan - WTNH.com",
+    "published": "2026-08-31T07:40:23+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
     "attempts": 0
   }
