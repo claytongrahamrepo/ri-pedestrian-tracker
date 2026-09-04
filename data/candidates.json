@@ -623,13 +623,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/idaho-statesman-1592573/4814917020156-pedestrian-suffers-life-threatening-injuries-in-crash-at-curtis-emerald-in-boise",
-    "title": "Pedestrian suffers ‘life-threatening' injuries in crash at Curtis, Emerald in Boise - NewsBreak: Local News & Alerts",
-    "published": "2026-08-07T00:08:45+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/daily-voice-525087/4813207559838-pedestrian-struck-by-vehicle-closes-main-street-in-waynesboro-developing",
     "title": "Pedestrian Struck By Vehicle Closes Main Street In Waynesboro (DEVELOPING) - NewsBreak: Local News & Alerts",
     "published": "2026-08-06T12:31:01+00:00",
@@ -851,7 +844,7 @@
     "title": "Woman charged in ‘life-threatening' Bradenton hit-and-run, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-09T19:54:33+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/mlive-513121/4819492405508-hit-and-run-driver-flees-after-striking-pedestrian-in-flint",
@@ -1412,13 +1405,6 @@
     "published": "2026-08-17T14:36:56+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://nwitimes.com/news/local/crime-courts/article_b0803b8a-2b89-4278-b8fb-b360f5485fb8.html",
-    "title": "Police seeking hit-and-run driver causing serious injuries - nwitimes.com",
-    "published": "2026-08-17T16:00:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4834516132307-three-pedestrians-are-killed-in-separate-crashes-across-the-washington-region-after-a-metrobus-strike-a-hit-and-run-and-a-two-car-collision-over-the-weekend",
@@ -2520,32 +2506,11 @@
     "attempts": 0
   },
   {
-    "url": "https://www.stamfordadvocate.com/news/article/ct-ashley-taunton-taylor-swift-crash-recovery-22412616.php",
-    "title": "CT mother credits faith, community and Taylor Swift for 'miraculous recovery' from car crash - stamfordadvocate.com",
-    "published": "2026-09-01T21:25:32+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.masslive.com/news/2026/09/bicyclist-killed-in-crash-with-pickup-truck-in-lynn.html",
     "title": "Bicyclist killed in crash with pickup truck in Lynn - MassLive",
     "published": "2026-09-01T19:13:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://t.co/PwK0B3fNR1",
-    "title": "Rider Killed in Hit-and-Run on I-90, Bratenahl, OH - t.co",
-    "published": "2026-09-01T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/RpmTS8apcS",
-    "title": "Three Dead, Two Seriously Injured in I-68 Crash Near Frostburg, MD - t.co",
-    "published": "2026-09-01T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://kearneyhub.com/news/local/article_aad783ac-e60c-4300-b449-3a9b94095161.html",
@@ -2559,14 +2524,14 @@
     "title": "1 Dead After Pedestrian Crash on Murfreesboro Pike in Nashville, TN - t.co",
     "published": "2026-09-03T09:15:13+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.cleveland.com/news/2026/09/moreno-wants-connecticut-governor-to-apologize-for-ohio-mans-death-in-crash.html",
     "title": "Moreno wants Connecticut governor to apologize for Ohio man’s death in crash - Cleveland.com",
     "published": "2026-09-02T19:41:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.wpri.com/news/local-news/east-bay/boater-wanted-bristol-hit-and-run-that-injured-swimmer/",
@@ -2580,6 +2545,62 @@
     "title": "Pedestrian killed by hit-and-run driver in north St. Louis - stltoday.com",
     "published": "2026-09-01T14:14:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nj.com/camden/2026/09/off-duty-nj-cop-strikes-kills-19-year-old-pedestrian.html",
+    "title": "Off-duty N.J. cop strikes, kills 19-year-old pedestrian - NJ.com",
+    "published": "2026-09-01T18:53:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://t.co/SixzfWOVHe",
+    "title": "Pedestrian Killed in Crash on Memorial Pkwy in Huntsville, AL - t.co",
+    "published": "2026-09-03T07:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://turnto10.com/news/local/school-bus-crash-reported-in-north-stonington-connecticut-serious-injuries-state-police-september-2-2026",
+    "title": "School bus crash reported in North Stonington, serious injuries reported - WJAR",
+    "published": "2026-09-03T04:22:22+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.kake.com/home/wichita-woman-hit-by-car-4-years-after-brother-killed-in-hit-and-run/article_bb4dcd18-3b38-4954-95e1-f23a2441aa71.html",
+    "title": "Wichita woman hit by car 4 years after brother killed in hit-and-run - kake.com",
+    "published": "2026-09-03T12:03:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://patch.com/rhode-island/lincoln/wrong-way-crash-probe-leads-providence-man-arrest-dui-charges-cops",
+    "title": "Wrong-Way Crash Probe Leads To Providence Man Arrest On DUI Charges: Cops - patch.com",
+    "published": "2026-09-02T16:56:46+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.einnews.com/pr_news/939214997/vehicle-pedestrian-fatal-hit-and-run-crash",
+    "title": "Vehicle/Pedestrian Fatal Hit-and-Run Crash - EIN News",
+    "published": "2026-09-02T23:32:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://theindependent.com/news/state-regional/nebraska/article_d4af8f96-6f5f-5b13-aed8-750b47bfce24.html",
+    "title": "Tesla driver gets six years in prison for killing Omaha pedestrian - The Grand Island Independent",
+    "published": "2026-09-03T21:45:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.syracuse.com/crime/2026/09/central-ny-bicyclist-dies-after-being-hit-by-three-vehicles.html",
+    "title": "Central NY bicyclist dies after being hit by three vehicles - syracuse.com",
+    "published": "2026-09-01T20:32:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
   }
 ]
