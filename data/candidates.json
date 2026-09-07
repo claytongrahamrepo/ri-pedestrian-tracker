@@ -1799,13 +1799,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.romesentinel.com/news/utica-arterial-hit-run-fatal/article_19ebfe79-b719-4b8d-8db6-ab75903d226c.html",
-    "title": "Man killed in Utica hit and run - Rome Sentinel",
-    "published": "2026-08-21T14:45:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.thelegaladvocate.com/news/breaking/pedestrian-struck-by-vehicle-at-30-hartford-avenue-in-providence-ri-20260821026",
     "title": "Pedestrian Struck by Vehicle at 30 Hartford Avenue in Providence, RI - The Legal Advocate",
     "published": "2026-08-22T07:59:37+00:00",
@@ -2569,55 +2562,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/MNWQPl4sI8",
-    "title": "Pedestrian Hurt After Being Struck on Church St in New Haven, CT - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/BGpjWwHpy4",
-    "title": "Pedestrian Killed in Hit-and-Run Wreck in Greenville, SC - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/jjaCp0X2L6",
-    "title": "Pedestrian Killed in Crash on US 25E in Knox Co, KY - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/0TH9VBVB4e",
-    "title": "Fatal Hit-And-Run Pedestrian Crash at Erringer Rd 7-Eleven in Simi Valley, CA | Local Accident Reports - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/tMuukn9VD9",
-    "title": "Fatal Pedestrian Crash on Rte 307 in Scranton, PA | Local Accident Reports - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/ofT8dy0cev",
-    "title": "Bicyclist Killed in Crash at US-441 in Okeechobee, FL - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/BvCCnXwaTl",
-    "title": "1 Dead After Head-On Crash on Joe Prather Hwy in Hardin Co, KY - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.al.com/news/2026/09/20-year-old-woman-killed-in-etowah-county-crash.html",
     "title": "20-year-old woman killed in Etowah County crash - AL.com",
     "published": "2026-09-04T21:46:00+00:00",
@@ -2653,13 +2597,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/49xhgzIuzj",
-    "title": "Pedestrian Killed After Being Hit on Rte 307 in Scranton, PA - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.silive.com/crime-safety/2026/09/27-year-old-man-suffers-skull-fractures-brain-bleed-in-staten-island-hit-and-run.html",
     "title": "27-year-old man suffers skull fractures, brain bleed in Staten Island hit-and-run - SILive.com",
     "published": "2026-09-04T16:49:00+00:00",
@@ -2674,13 +2611,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/up3KVKhBN7",
-    "title": "Bicyclist Hurt in Crash on Old Ocean City Rd in Willards, MD - t.co",
-    "published": "2026-09-03T07:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.pennlive.com/news/2026/09/pedestrian-seriously-injured-after-being-hit-by-vehicle-in-central-pa.html",
     "title": "Pedestrian seriously injured after being hit by vehicle in central Pa. - PennLive.com",
     "published": "2026-09-05T15:45:00+00:00",
@@ -2692,21 +2622,21 @@
     "title": "14-Year-Old Pedestrian Hit by Vehicle on Boulder Hwy, Las Vegas, NV - t.co",
     "published": "2026-09-04T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/L7r1JyUYDv",
     "title": "22-Year-Old Driver Charged After Fatal Hit-and-Run in Charlotte, NC - t.co",
     "published": "2026-09-04T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://t.co/WO8Rt1yNTL",
     "title": "E-Bike Rider Killed in Collision on Kern St in Taft, CA - t.co",
     "published": "2026-09-04T07:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.thestar.com/news/gta/woman-82-dies-in-hospital-after-being-struck-by-suv-in-scarborough/article_63f39ec3-d552-4922-a103-21ac5a2a610a.html",
@@ -2734,6 +2664,34 @@
     "title": "Bicyclist dies after car strike in Cambridge last month; victim identified as MIT prof - MassLive",
     "published": "2026-09-03T23:57:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/young-man-dies-from-injuries-sustained-in-new-bedford-motorcycle-crash-remembered-for-heart-of-gold/",
+    "title": "Young man dies from injuries sustained in New Bedford motorcycle crash, remembered for heart of gold - Fall River Reporter",
+    "published": "2026-09-07T13:56:10+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.mlive.com/news/saginaw-bay-city/2026/09/mid-michigan-woman-79-dies-after-2-vehicle-crash-friday.html",
+    "title": "Mid-Michigan woman, 79, dies after 2-vehicle crash Friday - MLive.com",
+    "published": "2026-09-04T23:08:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://newslinklive.com/2026/09/06/two-found-dead-after-missing-aircraft-crashes-in-wooded-area-in-ludlow/",
+    "title": "Two found dead after missing aircraft crashes in wooded area in Ludlow - News Link Live",
+    "published": "2026-09-06T13:24:22+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://newjersey.news12.com/2026/09/07/brick-considers-new-speed-restrictions-following-teens-hit-and-run-death/11XTcy5FuJi6iJgfYDiwXy",
+    "title": "Brick Considers New Speed Restrictions Following Teens Hit And Run Death - newjersey.news12.com",
+    "published": "2026-09-07T02:38:50+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
 ]
