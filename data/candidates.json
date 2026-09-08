@@ -1033,7 +1033,7 @@
     "title": "Pedestrian dies after Horry County crash left them with critical injuries - NewsBreak: Local News & Alerts",
     "published": "2026-08-13T19:47:52+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/lite-96-9-wfpg-520840/4825156872032-89-year-old-pedestrian-struck-by-car-in-margate",
@@ -1047,7 +1047,7 @@
     "title": "CHP identifies woman killed in Highway 41 crash in SLO County - NewsBreak: Local News & Alerts",
     "published": "2026-08-13T22:02:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4827171932106-89-year-old-woman-critically-injured-after-hit-by-car-margate-pd",
@@ -1663,7 +1663,7 @@
     "title": "Pedestrian, 91, killed in Hamilton Mountain crash - The Spec",
     "published": "2026-08-19T13:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/wibc-1608515/4840248354358-19-year-old-indy-man-killed-in-hancock-county-crash",
@@ -1783,13 +1783,6 @@
     "published": "2026-08-20T19:49:04+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.desototimes.com/news/pedestrian-killed-in-olive-branch-collision/article_60b11b64-153d-46a1-bd7b-253436515a68.html",
-    "title": "Pedestrian killed in Olive Branch collision - DeSoto Times-Tribune",
-    "published": "2026-08-21T14:33:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://fox8.com/news/squidpocalypse-of-26-truckload-of-squid-spills-in-rollover-crash-creating-smelly-mess/amp/",
@@ -2293,7 +2286,7 @@
     "title": "Hit-and-run killed a 21-year-old N.J. college senior just days into her final year - NJ.com",
     "published": "2026-08-27T01:03:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://turnto10.com/news/local/man-struck-by-vehicle-in-west-warwick-pedestrian-crossing-street-injured-hospital-main-street-august-28-2026",
@@ -2461,7 +2454,7 @@
     "title": "NYC woman killed in weekend N.J. Turnpike crash that injured 4 others - NJ.com",
     "published": "2026-08-31T18:17:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.al.com/news/2026/08/florida-woman-killed-in-southeast-alabama-crash.html",
@@ -2517,7 +2510,7 @@
     "title": "Off-duty N.J. cop strikes, kills 19-year-old pedestrian - NJ.com",
     "published": "2026-09-01T18:53:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://turnto10.com/news/local/school-bus-crash-reported-in-north-stonington-connecticut-serious-injuries-state-police-september-2-2026",
@@ -2573,7 +2566,7 @@
     "title": "FL woman killed in car crash involving alligator, days before starting new job as sheriff’s deputy - NJ.com",
     "published": "2026-09-03T15:24:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.al.com/news/2026/09/north-carolina-man-struck-killed-when-he-gets-out-of-vehicle-damaged-in-another-i-22-crash.html",
@@ -2618,27 +2611,6 @@
     "attempts": 0
   },
   {
-    "url": "https://t.co/7VfhRYhEV6",
-    "title": "14-Year-Old Pedestrian Hit by Vehicle on Boulder Hwy, Las Vegas, NV - t.co",
-    "published": "2026-09-04T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/L7r1JyUYDv",
-    "title": "22-Year-Old Driver Charged After Fatal Hit-and-Run in Charlotte, NC - t.co",
-    "published": "2026-09-04T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://t.co/WO8Rt1yNTL",
-    "title": "E-Bike Rider Killed in Collision on Kern St in Taft, CA - t.co",
-    "published": "2026-09-04T07:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.thestar.com/news/gta/woman-82-dies-in-hospital-after-being-struck-by-suv-in-scarborough/article_63f39ec3-d552-4922-a103-21ac5a2a610a.html",
     "title": "Woman, 82, dies in hospital after being struck by SUV in Scarborough - thestar.com",
     "published": "2026-09-05T12:54:00+00:00",
@@ -2678,19 +2650,33 @@
     "title": "Mid-Michigan woman, 79, dies after 2-vehicle crash Friday - MLive.com",
     "published": "2026-09-04T23:08:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://newslinklive.com/2026/09/06/two-found-dead-after-missing-aircraft-crashes-in-wooded-area-in-ludlow/",
     "title": "Two found dead after missing aircraft crashes in wooded area in Ludlow - News Link Live",
     "published": "2026-09-06T13:24:22+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://newjersey.news12.com/2026/09/07/brick-considers-new-speed-restrictions-following-teens-hit-and-run-death/11XTcy5FuJi6iJgfYDiwXy",
     "title": "Brick Considers New Speed Restrictions Following Teens Hit And Run Death - newjersey.news12.com",
     "published": "2026-09-07T02:38:50+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://madison.com/news/local/crime-courts/article_3069bcb1-76c5-45d3-8cf4-bb566d35e815.html",
+    "title": "Bicyclist killed near Cambridge - Wisconsin State Journal",
+    "published": "2026-09-07T15:00:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/providence/police-look-to-id-boy-seriously-injured-in-providence-e-scooter-crash/",
+    "title": "Police ID boy seriously injured in Providence e-scooter crash - WPRI.com",
+    "published": "2026-09-06T23:15:40+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
