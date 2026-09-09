@@ -931,13 +931,6 @@
     "attempts": 0
   },
   {
-    "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-flintridge-man-arrested-in-fatal-hit-and-run-of-66-year-old/article_d9c11c0e-0d8e-4ab9-92ab-ead0790b68b2.html",
-    "title": "La Cañada Flintridge Man Arrested in Fatal Hit-and-Run of 66-Year-Old Woman - Outlook Newspapers",
-    "published": "2026-08-11T23:30:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://turnto10.com/news/local/tiverton-police-searching-for-boat-allegedly-responsible-for-hit-and-run-on-pond",
     "title": "Tiverton Police searching for boat allegedly responsible for hit-and-run on pond - WJAR",
     "published": "2026-08-09T21:08:01+00:00",
@@ -1033,7 +1026,7 @@
     "title": "Pedestrian dies after Horry County crash left them with critical injuries - NewsBreak: Local News & Alerts",
     "published": "2026-08-13T19:47:52+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/lite-96-9-wfpg-520840/4825156872032-89-year-old-pedestrian-struck-by-car-in-margate",
@@ -1047,7 +1040,7 @@
     "title": "CHP identifies woman killed in Highway 41 crash in SLO County - NewsBreak: Local News & Alerts",
     "published": "2026-08-13T22:02:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4827171932106-89-year-old-woman-critically-injured-after-hit-by-car-margate-pd",
@@ -1068,7 +1061,7 @@
     "title": "Third pedestrian killed in Horry County this week after being struck by vehicle - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T16:44:13+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4829237438348-man-fighting-for-his-life-after-being-struck-by-marc-train-in-montgomery-county-updated",
@@ -1096,7 +1089,7 @@
     "title": "Update: 38-year-old Hanford man killed in head-on collision on Hwy. 43 identified - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T20:58:09+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/alachua-chronicle-1653568/4829796911101-williston-woman-arrested-for-death-of-motorcyclist-in-august-2023-crash-on-i-75",
@@ -1173,7 +1166,7 @@
     "title": "Pedestrian dies after being hit in Horry County. It's the second time this week - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T20:13:54+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4830708562873-police-followed-speeding-sedan-before-it-struck-killed-juvenile-pedestrian-in-newark-ag-says",
@@ -2156,13 +2149,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.niagarathisweek.com/news/crime/police-arrest-driver-st-catharines-hit-run-collision/article_4a5edf2d-01d1-5aae-81d1-9c946aaf38fe.html",
-    "title": "Arrest made in St. Catharines hit-and-run that seriously injured a pedestrian, the 1st of 2 within hours of each other - Niagara This Week",
-    "published": "2026-08-26T22:03:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/grandview-independent-308456179/4851129477081-richmond-police-investigate-fatal-hit-and-run-near-23rd-street-and-hellings-avenue",
     "title": "Richmond police investigate fatal hit-and-run near 23rd Street and Hellings Avenue - NewsBreak: Local News & Alerts",
     "published": "2026-08-26T20:41:31+00:00",
@@ -2653,13 +2639,6 @@
     "attempts": 1
   },
   {
-    "url": "https://newslinklive.com/2026/09/06/two-found-dead-after-missing-aircraft-crashes-in-wooded-area-in-ludlow/",
-    "title": "Two found dead after missing aircraft crashes in wooded area in Ludlow - News Link Live",
-    "published": "2026-09-06T13:24:22+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://newjersey.news12.com/2026/09/07/brick-considers-new-speed-restrictions-following-teens-hit-and-run-death/11XTcy5FuJi6iJgfYDiwXy",
     "title": "Brick Considers New Speed Restrictions Following Teens Hit And Run Death - newjersey.news12.com",
     "published": "2026-09-07T02:38:50+00:00",
@@ -2678,6 +2657,62 @@
     "title": "Police ID boy seriously injured in Providence e-scooter crash - WPRI.com",
     "published": "2026-09-06T23:15:40+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://scnow.com/news/local/article_ea7c0b1f-35e7-40dd-a6d4-fd500bf5e999.html",
+    "title": "Pedestrian struck, killed in Florence County – SCHP says driver left scene - SCNow",
+    "published": "2026-09-08T15:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/rhode-island-woman-accused-of-hitting-pedestrian-on-electric-unicycle-with-stolen-vehicle-fleeing-the-scene-victim-fighting-for-his-life/",
+    "title": "Rhode Island woman accused of hitting pedestrian on electric unicycle with stolen vehicle, fleeing the scene; victim fighting for his life - Fall River Reporter",
+    "published": "2026-09-08T17:34:11+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.10tv.com/article/news/local/family-remembers-23-year-old-man-killed-fairfield-county-crash/530-911ea4e9-0f9f-425a-b5c6-cda9354d5f7b",
+    "title": "Family remembers 23-year-old man killed in Fairfield County crash - 10TV",
+    "published": "2026-09-08T22:17:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/newsletter-daily/taunton-man-dies-in-head-on-collision-in-dedham-utility-truck-pickup-driver-deadly-crash-district-attorney-norfolk-septmeber-7-2026",
+    "title": "Taunton man dies in head-on collision in Dedham - coastalabc.com",
+    "published": "2026-09-08T10:15:08+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/arrest-pedestrian-hit-car-killed-064641030.html",
+    "title": "Arrest after pedestrian hit by car and killed - Yahoo",
+    "published": "2026-09-07T06:46:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/providence-woman-arrested-after-brief-chase-hit-and-run",
+    "title": "Providence woman arrested after brief chase, hit-and-run - turnto10.com",
+    "published": "2026-09-08T16:24:21+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/blackstone-valley/woman-arrested-after-pawtucket-hit-and-run/amp/",
+    "title": "Woman arrested after Pawtucket hit-and-run - WPRI.com",
+    "published": "2026-09-08T13:44:39+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/pawtucket/man-electric-unicycle-struck-stolen-car-pawtucket-hit-run-cops",
+    "title": "Man On Electric Unicycle Struck By Stolen Car In Pawtucket Hit-And-Run: Cops - Patch",
+    "published": "2026-09-08T16:24:03+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
     "attempts": 0
   }
 ]
