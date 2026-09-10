@@ -1022,25 +1022,11 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/myrtle-beach-sun-news-1592580/4827516639908-pedestrian-dies-after-horry-county-crash-left-them-with-critical-injuries",
-    "title": "Pedestrian dies after Horry County crash left them with critical injuries - NewsBreak: Local News & Alerts",
-    "published": "2026-08-13T19:47:52+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/lite-96-9-wfpg-520840/4825156872032-89-year-old-pedestrian-struck-by-car-in-margate",
     "title": "89-Year-Old Pedestrian Struck By Car in Margate - NewsBreak: Local News & Alerts",
     "published": "2026-08-12T17:22:16+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/san-luis-obispo-tribune-1592586/4827742312867-chp-identifies-woman-killed-in-highway-41-crash-in-slo-county",
-    "title": "CHP identifies woman killed in Highway 41 crash in SLO County - NewsBreak: Local News & Alerts",
-    "published": "2026-08-13T22:02:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4827171932106-89-year-old-woman-critically-injured-after-hit-by-car-margate-pd",
@@ -1061,7 +1047,7 @@
     "title": "Third pedestrian killed in Horry County this week after being struck by vehicle - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T16:44:13+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4829237438348-man-fighting-for-his-life-after-being-struck-by-marc-train-in-montgomery-county-updated",
@@ -1089,7 +1075,7 @@
     "title": "Update: 38-year-old Hanford man killed in head-on collision on Hwy. 43 identified - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T20:58:09+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/alachua-chronicle-1653568/4829796911101-williston-woman-arrested-for-death-of-motorcyclist-in-august-2023-crash-on-i-75",
@@ -1138,7 +1124,7 @@
     "title": "Bicyclist hospitalized after being hit by vehicle in Fresno, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-15T06:53:18+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/al-com-513124/4829257138286-bicyclist-hit-killed-by-multiple-vehicles-including-jefferson-county-sheriff-s-cruiser",
@@ -1152,7 +1138,7 @@
     "title": "Pedestrian seriously injured in South Oak Park hit-and-run, Sacramento police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-15T19:17:30+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/abc-10-news-kgtv-563645/4831017119160-man-struck-by-bus-s",
@@ -1166,7 +1152,7 @@
     "title": "Pedestrian dies after being hit in Horry County. It's the second time this week - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T20:13:54+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4830708562873-police-followed-speeding-sedan-before-it-struck-killed-juvenile-pedestrian-in-newark-ag-says",
@@ -2489,7 +2475,7 @@
     "title": "Pedestrian killed by hit-and-run driver in north St. Louis - stltoday.com",
     "published": "2026-09-01T14:14:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.nj.com/camden/2026/09/off-duty-nj-cop-strikes-kills-19-year-old-pedestrian.html",
@@ -2713,6 +2699,48 @@
     "title": "Man On Electric Unicycle Struck By Stolen Car In Pawtucket Hit-And-Run: Cops - Patch",
     "published": "2026-09-08T16:24:03+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.bostonglobe.com/2026/09/09/metro/pedestrian-fatally-struck-sharon-mbta-commuter-rail/",
+    "title": "Pedestrian fatally struck by train in Sharon, police say - The Boston Globe",
+    "published": "2026-09-09T22:07:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.westsidecurrent.com/marina_del_rey/fatal-crash-on-lincoln-boulevard-kills-pedestrian-near-90-freeway/article_52bfeedd-2ef2-422e-9ed5-97cd1297bd05.html",
+    "title": "Fatal Crash on Lincoln Boulevard Kills Pedestrian Near 90 Freeway - westsidecurrent.com",
+    "published": "2026-09-09T16:35:11+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/us/articles/woman-pleads-guilty-trying-runover-175849343.html",
+    "title": "Woman pleads guilty to trying to run over man with car - Yahoo",
+    "published": "2026-09-09T17:58:49+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/milwaukee-fatal-hit-run-crash-134733621.html",
+    "title": "Milwaukee fatal hit-and-run victim identified, change sought - Yahoo",
+    "published": "2026-09-09T13:47:33+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/1-dead-1-injured-hit-113348600.html",
+    "title": "1 dead, 1 injured after hit-and-run crash on Milwaukee's north side - Yahoo",
+    "published": "2026-09-08T11:33:48+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/framingham-man-held-250k-bail-225053305.html",
+    "title": "Framingham man held on $250K bail in fatal pedestrian hit-and-run - Yahoo",
+    "published": "2026-09-08T22:50:53+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 0
   }
 ]
