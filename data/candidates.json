@@ -1043,13 +1043,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/myrtle-beach-sun-news-1592580/4829236716630-third-pedestrian-killed-in-horry-county-this-week-after-being-struck-by-vehicle",
-    "title": "Third pedestrian killed in Horry County this week after being struck by vehicle - NewsBreak: Local News & Alerts",
-    "published": "2026-08-14T16:44:13+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/daily-voice-525087/4829237438348-man-fighting-for-his-life-after-being-struck-by-marc-train-in-montgomery-county-updated",
     "title": "Man Fighting For His Life After Being Struck By MARC Train In Montgomery County (UPDATED) - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T16:44:22+00:00",
@@ -1069,13 +1062,6 @@
     "published": "2026-08-14T02:38:50+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/the-fresno-bee-1592569/4829639564218-update-38-year-old-hanford-man-killed-in-head-on-collision-on-hwy-43-identified",
-    "title": "Update: 38-year-old Hanford man killed in head-on collision on Hwy. 43 identified - NewsBreak: Local News & Alerts",
-    "published": "2026-08-14T20:58:09+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/alachua-chronicle-1653568/4829796911101-williston-woman-arrested-for-death-of-motorcyclist-in-august-2023-crash-on-i-75",
@@ -1124,7 +1110,7 @@
     "title": "Bicyclist hospitalized after being hit by vehicle in Fresno, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-15T06:53:18+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/al-com-513124/4829257138286-bicyclist-hit-killed-by-multiple-vehicles-including-jefferson-county-sheriff-s-cruiser",
@@ -1138,7 +1124,7 @@
     "title": "Pedestrian seriously injured in South Oak Park hit-and-run, Sacramento police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-15T19:17:30+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/abc-10-news-kgtv-563645/4831017119160-man-struck-by-bus-s",
@@ -1146,13 +1132,6 @@
     "published": "2026-08-15T17:01:47+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/myrtle-beach-sun-news-1592580/4828950547710-pedestrian-dies-after-being-hit-in-horry-county-it-s-the-second-time-this-week",
-    "title": "Pedestrian dies after being hit in Horry County. It's the second time this week - NewsBreak: Local News & Alerts",
-    "published": "2026-08-14T20:13:54+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4830708562873-police-followed-speeding-sedan-before-it-struck-killed-juvenile-pedestrian-in-newark-ag-says",
@@ -1194,7 +1173,7 @@
     "title": "32-year-old man killed Sunday in Fort Worth auto-pedestrian crash, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-16T19:56:53+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4832853351195-18-year-old-woman-killed-after-being-struck-by-vehicle-in-northwest-reno",
@@ -2076,7 +2055,7 @@
     "title": "Pedestrian killed in two-vehicle crash in Camden - Rome Sentinel",
     "published": "2026-08-26T13:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.bostonglobe.com/2026/08/26/metro/oui-boat-dankert-shieh-boat-crash-drunk-logan-airport/",
@@ -2741,6 +2720,76 @@
     "title": "Framingham man held on $250K bail in fatal pedestrian hit-and-run - Yahoo",
     "published": "2026-09-08T22:50:53+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/massachusetts-bay-transportation-authority-mbta-train-fire-ruggles-station-boston-massachusetts-september-9-2026",
+    "title": "Locomotive fire, person struck disrupt train travel between Boston, Providence - WJAR",
+    "published": "2026-09-09T21:52:58+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://hoodline.com/2026/09/amtrak-train-kills-pedestrian-at-sharon-station-mbta-line-sees-long-delays/",
+    "title": "Amtrak Train Kills Pedestrian at Sharon Station, MBTA Line Sees Long Delays - Hoodline",
+    "published": "2026-09-10T16:21:22+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/man-arrested-after-chase-and-fiery-ri-crash-that-killed-young-child/4012958/",
+    "title": "Man arrested after chase and fiery RI crash that killed young child - NBC Boston",
+    "published": "2026-09-11T03:17:48+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://whatsupnewp.com/2026/09/one-dead-two-hurt-in-west-main-road-crash-and-fire-early-thursday/",
+    "title": "Middletown crash that killed a toddler followed a terminated Portsmouth police pursuit - What's Up Newp",
+    "published": "2026-09-10T20:45:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/man-killed-2-women-hurt-truck-hits-pedestrians-chinatown-manhattan/19815758/",
+    "title": "Man killed, 2 women hurt after truck hits pedestrians in Chinatown, Manhattan - ABC7 New York",
+    "published": "2026-09-10T17:42:06+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/east-bay/1-dead-2-hospitalized-after-middletown-crash/",
+    "title": "Child killed, driver charged in Middletown crash - WPRI.com",
+    "published": "2026-09-10T13:25:20+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/providence/ct-woman-charged-dui-after-hit-run-crash-providence-cops",
+    "title": "CT Woman Charged With DUI After Hit-And-Run Crash In Providence: Cops - Patch",
+    "published": "2026-09-10T16:32:35+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://abc7ny.com/post/nesconset-deadly-crash-thomas-lobianco-indicted-19-charges-accident-killed-worker-injured-2-others/19811778/",
+    "title": "Nesconset crash: Thomas Lobianco indicted on 19 charges in DWI crash that killed a construction worker - ABC7 New York",
+    "published": "2026-09-09T21:54:42+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.kake.com/home/woman-hit-by-car-in-west-wichita-in-critical-condition-police/article_4bbde204-8107-44d1-8fb8-6c5af9732d73.html",
+    "title": "Woman hit by car in west Wichita in critical condition: Police - KAKE",
+    "published": "2026-09-10T16:27:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/police-say-vehicle-was-speeding-before-fiery-crash-that-killed-one-seriously-injured-two-others-on-west-main-road/",
+    "title": "Police say vehicle was speeding before fiery crash that killed one, seriously injured two others on West Main Road - fallriverreporter.com",
+    "published": "2026-09-10T19:30:20+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
   }
 ]
