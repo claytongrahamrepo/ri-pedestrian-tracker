@@ -868,13 +868,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.eacourier.com/news/pedestrian-killed-in-sr-266-hit-and-run-friday/article_7140f611-370a-4e65-8594-112e15b35990.html",
-    "title": "DPS investigates fatal hit-and-run on SR 266 east of Bonita - Eastern Arizona Courier",
-    "published": "2026-08-10T17:10:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/daily-voice-525087/4820614514600-pedestrian-airlifted-after-crash-manchester-pd",
     "title": "Pedestrian Airlifted After Crash: Manchester PD - NewsBreak: Local News & Alerts",
     "published": "2026-08-10T09:30:03+00:00",
@@ -1106,25 +1099,11 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/the-fresno-bee-1592569/4830357252795-bicyclist-hospitalized-after-being-hit-by-vehicle-in-fresno-police-say",
-    "title": "Bicyclist hospitalized after being hit by vehicle in Fresno, police say - NewsBreak: Local News & Alerts",
-    "published": "2026-08-15T06:53:18+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/al-com-513124/4829257138286-bicyclist-hit-killed-by-multiple-vehicles-including-jefferson-county-sheriff-s-cruiser",
     "title": "Bicyclist hit, killed by multiple vehicles, including Jefferson County Sheriff’s cruiser - NewsBreak: Local News & Alerts",
     "published": "2026-08-14T16:59:29+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/the-sacramento-bee-1592486/4831182518922-pedestrian-seriously-injured-in-south-oak-park-hit-and-run-sacramento-police-say",
-    "title": "Pedestrian seriously injured in South Oak Park hit-and-run, Sacramento police say - NewsBreak: Local News & Alerts",
-    "published": "2026-08-15T19:17:30+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/abc-10-news-kgtv-563645/4831017119160-man-struck-by-bus-s",
@@ -1173,7 +1152,7 @@
     "title": "32-year-old man killed Sunday in Fort Worth auto-pedestrian crash, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-16T19:56:53+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4832853351195-18-year-old-woman-killed-after-being-struck-by-vehicle-in-northwest-reno",
@@ -1313,7 +1292,7 @@
     "title": "Identity of man killed in Belleville crash is released - NewsBreak: Local News & Alerts",
     "published": "2026-08-17T21:10:15+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4833293742757-new-york-man-killed-after-being-struck-on-interstate-70",
@@ -1397,7 +1376,7 @@
     "title": "3 men in a Mercedes shot a scooter rider with pellet guns, Miami police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-17T20:26:02+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/news/4833813636499-man-using-wheelchair-dies-after-being-hit-by-vehicle-in-horry-county-coroner-s-office-says",
@@ -2450,13 +2429,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.stltoday.com/news/local/crime-courts/article_71d6713f-3d11-45e7-a470-6501131d8285.html",
-    "title": "Pedestrian killed by hit-and-run driver in north St. Louis - stltoday.com",
-    "published": "2026-09-01T14:14:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.nj.com/camden/2026/09/off-duty-nj-cop-strikes-kills-19-year-old-pedestrian.html",
     "title": "Off-duty N.J. cop strikes, kills 19-year-old pedestrian - NJ.com",
     "published": "2026-09-01T18:53:00+00:00",
@@ -2496,7 +2468,7 @@
     "title": "Tesla driver gets six years in prison for killing Omaha pedestrian - The Grand Island Independent",
     "published": "2026-09-03T21:45:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.syracuse.com/crime/2026/09/central-ny-bicyclist-dies-after-being-hit-by-three-vehicles.html",
@@ -2790,6 +2762,27 @@
     "title": "Police say vehicle was speeding before fiery crash that killed one, seriously injured two others on West Main Road - fallriverreporter.com",
     "published": "2026-09-10T19:30:20+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/providence/massachusetts-man-charged-providence-hit-run-crash-cops",
+    "title": "Massachusetts Man Charged With Providence Hit-And-Run Crash: Cops - Patch",
+    "published": "2026-09-11T15:07:57+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/northprovidence/cumberland-man-charged-dui-after-north-providence-crash-cops",
+    "title": "Cumberland Man Charged With DUI After North Providence Crash: Cops - Patch",
+    "published": "2026-09-11T15:26:16+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.thespec.com/news/hamilton-region/young-man-killed-in-queenston-road-crash-remembered/article_ab8cfe81-850c-5ccb-b4fe-1bf9b2af9d3d.html",
+    "title": "Young man killed in Queenston Road crash ‘always had a smile on his face’ - The Spec",
+    "published": "2026-09-10T10:00:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
   }
 ]
