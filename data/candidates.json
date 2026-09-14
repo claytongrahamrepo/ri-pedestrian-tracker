@@ -1281,13 +1281,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/belleville-news-democrat-1592547/4834367053677-identity-of-man-killed-in-belleville-crash-is-released",
-    "title": "Identity of man killed in Belleville crash is released - NewsBreak: Local News & Alerts",
-    "published": "2026-08-17T21:10:15+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/news/4833293742757-new-york-man-killed-after-being-struck-on-interstate-70",
     "title": "New York man killed after being struck on Interstate 70 - NewsBreak: Local News & Alerts",
     "published": "2026-08-17T10:27:33+00:00",
@@ -1365,13 +1358,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/miami-herald-1592483/4834231345315-3-men-in-a-mercedes-shot-a-scooter-rider-with-pellet-guns-miami-police-say",
-    "title": "3 men in a Mercedes shot a scooter rider with pellet guns, Miami police say - NewsBreak: Local News & Alerts",
-    "published": "2026-08-17T20:26:02+00:00",
-    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/news/4833813636499-man-using-wheelchair-dies-after-being-hit-by-vehicle-in-horry-county-coroner-s-office-says",
     "title": "Man using wheelchair dies after being hit by vehicle in Horry County, coroner’s office says - NewsBreak: Local News & Alerts",
     "published": "2026-08-17T15:53:17+00:00",
@@ -1432,7 +1418,7 @@
     "title": "Bicyclist in Lexington seriously injured in collision. Road has reopened - newsbreak.com",
     "published": "2026-08-18T14:26:05+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/news/4834259884738-hit-and-run-kills-cyclist-on-sr-29-in-collier-county-driver-still-missing",
@@ -1460,7 +1446,7 @@
     "title": "Broward deputies hunt for hit-and-run driver who killed a man: BSO - NewsBreak: Local News & Alerts",
     "published": "2026-08-19T21:58:03+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.kake.com/home/kansas-pedestrian-killed-after-stepping-in-front-of-train-sheriff/article_fa168365-f0fe-43c9-9871-2fbf68196920.html",
@@ -1537,7 +1523,7 @@
     "title": "25-year-old bicyclist killed in a crash early Wednesday in Burleson, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-19T22:40:45+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/denver7-news-kmgh-563649/4838112035738-aurora-police-arrest-suspect-in-fatal-hit-and-run-that-killed-cyclist",
@@ -1587,13 +1573,6 @@
     "published": "2026-08-20T12:59:18+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.thespec.com/news/hamilton-region/pedestrian-critically-injured-in-hamilton-mountain-crash/article_546a846a-093f-518e-9744-f49c28beaf4a.html",
-    "title": "Pedestrian, 91, killed in Hamilton Mountain crash - The Spec",
-    "published": "2026-08-19T13:15:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/wibc-1608515/4840248354358-19-year-old-indy-man-killed-in-hancock-county-crash",
@@ -2817,6 +2796,20 @@
     "url": "https://fallriverreporter.com/22-year-old-motorcycle-rider-dead-after-evening-collision-in-rhode-island/",
     "title": "22-year-old motorcycle rider dead after evening collision in Rhode Island - Fall River Reporter",
     "published": "2026-09-12T21:57:40+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://tulsaworld.com/news/local/article_a862df60-439a-4a17-8423-aae2503832e9.html",
+    "title": "Pedestrian struck by car on I-44 last week dies - Tulsa World",
+    "published": "2026-09-14T14:26:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/providence/1-dead-1-in-critical-condition-after-crash-on-i-95-north/",
+    "title": "1 dead, 1 in critical condition after crash on I-95 North - WPRI.com",
+    "published": "2026-09-13T23:24:08+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
   }
