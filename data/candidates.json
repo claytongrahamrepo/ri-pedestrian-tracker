@@ -865,7 +865,7 @@
     "title": "Man dies after Narragansett motorcycle crash - WPRI.com",
     "published": "2026-08-08T17:18:21+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4820614514600-pedestrian-airlifted-after-crash-manchester-pd",
@@ -1222,7 +1222,7 @@
     "title": "Pedestrian struck, killed by vehicle in Middletown - WPRI.com",
     "published": "2026-08-17T13:50:35+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newportdispatch.com/2026/08/17/pedestrian-killed-in-crash-in-middletown/",
@@ -1414,13 +1414,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/lexington-herald-leader-1592576/4835698960494-bicyclist-in-lexington-seriously-injured-in-collision-road-has-reopened",
-    "title": "Bicyclist in Lexington seriously injured in collision. Road has reopened - newsbreak.com",
-    "published": "2026-08-18T14:26:05+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/news/4834259884738-hit-and-run-kills-cyclist-on-sr-29-in-collier-county-driver-still-missing",
     "title": "Hit-and-run kills cyclist on SR 29 in Collier County, driver still missing - newsbreak.com",
     "published": "2026-08-17T20:50:27+00:00",
@@ -1446,14 +1439,14 @@
     "title": "Broward deputies hunt for hit-and-run driver who killed a man: BSO - NewsBreak: Local News & Alerts",
     "published": "2026-08-19T21:58:03+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.kake.com/home/kansas-pedestrian-killed-after-stepping-in-front-of-train-sheriff/article_fa168365-f0fe-43c9-9871-2fbf68196920.html",
     "title": "Kansas pedestrian killed after stepping in front of train: Sheriff - KAKE",
     "published": "2026-08-19T16:30:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.boston25news.com/news/local/40000-pounds-squid-spills-rhode-island-road-after-crash/YWCSVQQNZNG7JDSLBZJMEMJJ7Q/",
@@ -1468,13 +1461,6 @@
     "published": "2026-08-19T12:21:10+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.kake.com/home/man-charged-after-girl-is-critically-injured-in-augusta-hit-and-run/article_ac8033da-5808-4021-9917-6ca966ffb75a.html",
-    "title": "Man charged after girl is critically injured in Augusta hit-and-run - KAKE",
-    "published": "2026-08-19T20:04:07+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.yahoo.com/news/articles/drive-smart-nevada-pedestrian-safety-161707085.html",
@@ -1509,7 +1495,7 @@
     "title": "Suspect arrested in Elk Grove hit-and-run that injured 74-year-old pedestrian - NewsBreak: Local News & Alerts",
     "published": "2026-08-20T00:47:13+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/the-citizens-299113683/4838325017519-oxford-man-arrested-in-fatal-hit-and-run",
@@ -1523,7 +1509,7 @@
     "title": "25-year-old bicyclist killed in a crash early Wednesday in Burleson, police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-19T22:40:45+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/denver7-news-kmgh-563649/4838112035738-aurora-police-arrest-suspect-in-fatal-hit-and-run-that-killed-cyclist",
@@ -1607,7 +1593,7 @@
     "title": "USC grad was killed in boat crash and man is going to prison, SC officials say - NewsBreak: Local News & Alerts",
     "published": "2026-08-20T15:53:40+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/wrtv-563673/4838810992055-man-killed-in-fishers-i-69-hit-and-run-while-fixing-flat-tire",
@@ -1621,7 +1607,7 @@
     "title": "Police ID 2 killed in Cumberland fiery crash - WPRI.com",
     "published": "2026-08-21T15:42:07+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://news4sanantonio.com/news/nation-world/2-dead-after-serious-crash-interstate-295-north-in-cumberland-rhode-island",
@@ -1691,7 +1677,7 @@
     "title": "2 killed in Cumberland fiery rollover crash - WPRI.com",
     "published": "2026-08-20T19:49:04+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://fox8.com/news/squidpocalypse-of-26-truckload-of-squid-spills-in-rollover-crash-creating-smelly-mess/amp/",
@@ -2118,7 +2104,7 @@
     "title": "Motorcyclist killed in Johnston crash - WPRI.com",
     "published": "2026-08-28T15:58:50+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.masslive.com/news/2026/08/motorcyclist-dies-after-3-vehicle-crash-on-i-95-in-massachusetts.html",
@@ -2265,7 +2251,7 @@
     "title": "Taylor Swift donates to good Samaritan injured in crash - WPRI.com",
     "published": "2026-08-29T16:44:17+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.yahoo.com/entertainment/celebrity/articles/reports-taylor-swift-donates-woman-164417624.html",
@@ -2398,7 +2384,7 @@
     "title": "Boater wanted in Bristol hit-and-run that injured swimmer - WPRI.com",
     "published": "2026-09-02T17:05:38+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.nj.com/camden/2026/09/off-duty-nj-cop-strikes-kills-19-year-old-pedestrian.html",
@@ -2440,7 +2426,7 @@
     "title": "Tesla driver gets six years in prison for killing Omaha pedestrian - The Grand Island Independent",
     "published": "2026-09-03T21:45:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.syracuse.com/crime/2026/09/central-ny-bicyclist-dies-after-being-hit-by-three-vehicles.html",
@@ -2566,7 +2552,7 @@
     "title": "Police ID boy seriously injured in Providence e-scooter crash - WPRI.com",
     "published": "2026-09-06T23:15:40+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://scnow.com/news/local/article_ea7c0b1f-35e7-40dd-a6d4-fd500bf5e999.html",
@@ -2706,7 +2692,7 @@
     "title": "Child killed, driver charged in Middletown crash - WPRI.com",
     "published": "2026-09-10T13:25:20+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://patch.com/rhode-island/providence/ct-woman-charged-dui-after-hit-run-crash-providence-cops",
@@ -2783,7 +2769,7 @@
     "title": "Man killed in Scituate motorcycle crash - WPRI.com",
     "published": "2026-09-12T15:16:38+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://turnto10.com/news/local/seven-hospitalized-after-multi-vehicle-crash",
@@ -2810,6 +2796,48 @@
     "url": "https://www.wpri.com/news/local-news/providence/1-dead-1-in-critical-condition-after-crash-on-i-95-north/",
     "title": "1 dead, 1 in critical condition after crash on I-95 North - WPRI.com",
     "published": "2026-09-13T23:24:08+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://turnto10.com/news/local/authorities-identify-cranston-man-killed-in-crash-on-i-95-south-providence-state-police-passenger-driver-ejected-rhode-island-hospital-september-14-2026",
+    "title": "Authorities identify Cranston man killed in crash on I-95 - turnto10.com",
+    "published": "2026-09-14T23:56:40+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/30-year-old-man-identified-as-victim-in-fatal-rhode-island-highway-crash-that-also-critically-injured-another/",
+    "title": "30-year-old man identified as victim in fatal Rhode Island highway crash that also critically injured another - Fall River Reporter",
+    "published": "2026-09-15T04:25:34+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/northwest/police-id-22-year-old-killed-in-scituate-motorcycle-crash/",
+    "title": "Police ID 22-year-old killed in Scituate motorcycle crash - WPRI.com",
+    "published": "2026-09-14T17:30:06+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://fallriverreporter.com/authorities-identify-22-year-old-man-killed-in-rhode-island-motorcycle-collision/",
+    "title": "Authorities identify 22-year-old man killed in Rhode Island motorcycle collision - Fall River Reporter",
+    "published": "2026-09-14T17:17:44+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/victim-of-scituate-motorcycle-crash-identified",
+    "title": "Victim of Scituate motorcycle crash identified - turnto10.com",
+    "published": "2026-09-14T17:26:24+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/one-dead-after-late-night-crash-on-i-95-9-13-2026",
+    "title": "One dead after late night crash on I-95 - turnto10.com",
+    "published": "2026-09-13T14:24:17+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
   }
