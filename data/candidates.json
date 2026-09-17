@@ -991,14 +991,7 @@
     "title": "Pedestrian hit near Grovetown High School - WFXG",
     "published": "2026-08-11T19:16:32+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
-  },
-  {
-    "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-flintridge-man-arrested-in-fatal-hit-and-run-of-sheriffs-department-employee/article_d9c11c0e-0d8e-4ab9-92ab-ead0790b68b2.html",
-    "title": "La Cañada Flintridge Man Arrested in Fatal Hit-and-Run of Sheriff's Department Employee - Outlook Newspapers",
-    "published": "2026-08-11T23:30:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/the-staten-island-advance-513122/4821085625416-usps-driver-arrested-in-fatal-hell-s-kitchen-hit-and-run-victim-just-performed-with-band-in-nyc",
@@ -1379,13 +1372,6 @@
     "attempts": 0
   },
   {
-    "url": "https://statesville.com/news/local/crime-courts/article_a64829b3-9b4c-4ab6-bfac-201d14ed0616.html",
-    "title": "Second person charged in Statesville hit-and-run that killed 64-year-old pedestrian - Statesville Record",
-    "published": "2026-08-18T17:49:06+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/the-citizens-299113683/4835639616774-oxford-man-arrested-in-fatal-hit-and-run-investigation",
     "title": "Oxford man arrested in fatal hit and run investigation - newsbreak.com",
     "published": "2026-08-18T14:02:34+00:00",
@@ -1484,13 +1470,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/the-sacramento-bee-1592486/4838704429411-suspect-arrested-in-elk-grove-hit-and-run-that-injured-74-year-old-pedestrian",
-    "title": "Suspect arrested in Elk Grove hit-and-run that injured 74-year-old pedestrian - NewsBreak: Local News & Alerts",
-    "published": "2026-08-20T00:47:13+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/the-citizens-299113683/4838325017519-oxford-man-arrested-in-fatal-hit-and-run",
     "title": "Oxford man arrested in fatal hit and run - NewsBreak: Local News & Alerts",
     "published": "2026-08-19T20:09:56+00:00",
@@ -1573,13 +1552,6 @@
     "published": "2026-08-20T14:29:24+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/the-state-1592583/4839902614884-usc-grad-was-killed-in-boat-crash-and-man-is-going-to-prison-sc-officials-say",
-    "title": "USC grad was killed in boat crash and man is going to prison, SC officials say - NewsBreak: Local News & Alerts",
-    "published": "2026-08-20T15:53:40+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/wrtv-563673/4838810992055-man-killed-in-fishers-i-69-hit-and-run-while-fixing-flat-tire",
@@ -1691,7 +1663,7 @@
     "title": "Hit-and-run driver who killed scooter rider has been arrested, BSO says - NewsBreak: Local News & Alerts",
     "published": "2026-08-21T19:40:02+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/fox-13-news-563658/4844152031965-cyclist-hit-killed-by-car-near-great-saltair",
@@ -2825,7 +2797,7 @@
     "title": "Boston 25 News. . A Cape Cod police officer is facing OUI charges after investigators say his SUV crashed through bushes and into a parked car. - facebook.com",
     "published": "2026-09-14T12:09:44+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.grandhaventribune.com/news/law_enforcement/gh-woman-in-critical-condition-after-being-hit-by-car-in-forest-park/article_3173d3bf-ee07-517d-b847-2e06e05d65a9.html",
@@ -2859,6 +2831,34 @@
     "url": "https://www.nbcboston.com/video/on-air/as-seen-on/tremont-street-closed-in-boston-after-person-on-scooter-hit-by-car/4015699/",
     "title": "Tremont Street closed in Boston after person on scooter hit by car - NBC Boston",
     "published": "2026-09-16T13:26:57+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://www.berkshireeagle.com/news/southern_berkshires/great-barrington-crosswalk/article_67d23f10-891b-4afe-a385-46c0c1645d01.html",
+    "title": "Great Barrington plans safety upgrades at crosswalk where pedestrian was killed - The Berkshire Eagle",
+    "published": "2026-09-16T16:00:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.stltoday.com/news/local/crime-courts/article_0d1ed99c-e9db-475a-b3dc-6d4f18fb3831.html",
+    "title": "Pedestrian killed on I-170 north of I-70 - STLtoday.com",
+    "published": "2026-09-16T16:15:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://www.newjerseyhills.com/observer-tribune/woman-hit-by-car-while-helping-injured-deer-in-mount-olive/article_4641216e-3db1-4c81-92a1-f5310b8507d4.html",
+    "title": "Woman hit by car while helping injured deer in Mount Olive - New Jersey Hills Media Group",
+    "published": "2026-09-16T15:56:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nbcboston.com/video/on-air/as-seen-on/good-samaritan-rescues-unconscious-driver-during-fiery-cape-cod-crash/4015986/",
+    "title": "Good Samaritan rescues unconscious driver during fiery Cape Cod crash - NBC Boston",
+    "published": "2026-09-16T20:40:41+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 1
   }
