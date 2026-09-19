@@ -991,7 +991,7 @@
     "title": "Pedestrian hit near Grovetown High School - WFXG",
     "published": "2026-08-11T19:16:32+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/the-staten-island-advance-513122/4821085625416-usps-driver-arrested-in-fatal-hell-s-kitchen-hit-and-run-victim-just-performed-with-band-in-nyc",
@@ -1775,7 +1775,7 @@
     "title": "Man charged nearly a year after Cahokia Heights crash caused pedestrian death - NewsBreak: Local News & Alerts",
     "published": "2026-08-24T20:12:09+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4846402985727-person-struck-in-early-morning-hit-run-in-montgomery-police-searching-for-suspect",
@@ -1845,7 +1845,7 @@
     "title": "Search for driver after woman killed in hit-and-run crash, SC police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-24T18:12:34+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.newsbreak.com/ktnv-13-action-news-563659/4846411228152-lvmpd-east-valley-hit-and-run-leaves-pedestrian-with-life-threatening-injuries",
@@ -2734,7 +2734,7 @@
     "title": "Pedestrian struck by car on I-44 last week dies - Tulsa World",
     "published": "2026-09-14T14:26:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.wpri.com/news/local-news/providence/1-dead-1-in-critical-condition-after-crash-on-i-95-north/",
@@ -2797,7 +2797,7 @@
     "title": "Child hit by car while walking to school in Derby - KAKE",
     "published": "2026-09-15T15:00:00+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.bignewsnetwork.com/news/279309642/police-arrest-another-accused-in-gurgaon-biker-hit-and-run-case",
@@ -2814,13 +2814,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.berkshireeagle.com/news/southern_berkshires/great-barrington-crosswalk/article_67d23f10-891b-4afe-a385-46c0c1645d01.html",
-    "title": "Great Barrington plans safety upgrades at crosswalk where pedestrian was killed - The Berkshire Eagle",
-    "published": "2026-09-16T16:00:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.stltoday.com/news/local/crime-courts/article_0d1ed99c-e9db-475a-b3dc-6d4f18fb3831.html",
     "title": "Pedestrian killed on I-170 north of I-70 - STLtoday.com",
     "published": "2026-09-16T16:15:00+00:00",
@@ -2833,13 +2826,6 @@
     "published": "2026-09-16T15:56:00+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.nbcboston.com/video/on-air/as-seen-on/good-samaritan-rescues-unconscious-driver-during-fiery-cape-cod-crash/4015986/",
-    "title": "Good Samaritan rescues unconscious driver during fiery Cape Cod crash - NBC Boston",
-    "published": "2026-09-16T20:40:41+00:00",
-    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://turnto10.com/news/local/westerly-man-sentenced-to-more-than-8-years-for-dui-crash-that-killed-pedestrian-september-17-2026",
@@ -2867,6 +2853,83 @@
     "title": "Bicyclist airlifted to Iowa City for treatment after Rock Island crash - Dispatch Argus",
     "published": "2026-09-18T00:20:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://coastalabc.com/news/local/man-dies-in-motorcycle-crash-in-coventry-serious-injuries-hospital-rhode-island-accident-under-investigation-police-september-18-2026",
+    "title": "Man dies in motorcycle crash in Coventry - coastalabc.com",
+    "published": "2026-09-18T23:47:46+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://patch.com/rhode-island/westerly/westerly-man-sentenced-8-1-2-years-prison-deadly-dui-crash-ag",
+    "title": "Westerly Man Sentenced To 8 1/2 Years In Prison For Deadly DUI Crash: AG - Patch",
+    "published": "2026-09-18T15:23:11+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.wpri.com/news/local-news/west-bay/man-dies-in-coventry-crash/",
+    "title": "Man dies in Coventry motorcycle crash - WPRI.com",
+    "published": "2026-09-18T23:55:50+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://bikinginla.com/2026/09/18/measure-hla-lawsuits-stacking-up-in-la-courts-and-oregon-woman-fesses-up-to-dui-death-of-87-year-old-slo-bicyclist/",
+    "title": "Measure HLA lawsuits stacking up in LA courts, and Oregon woman 'fesses up to DUI death of 87-year old SLO bicyclist - BikinginLA",
+    "published": "2026-09-18T15:03:53+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/man-held-on-bail-after-19-year-police-veteran-struck-by-vehicle-significantly-injured-at-cape-cod-melody-tent/",
+    "title": "Man held on bail after 19-year police veteran struck by vehicle, significantly injured, at Cape Cod Melody Tent - fallriverreporter.com",
+    "published": "2026-09-17T00:10:05+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/pedestrian-killed-hit-run-police-214053762.html",
+    "title": "Pedestrian killed in hit-and-run; police searching for driver of Kia SUV - Yahoo",
+    "published": "2026-09-18T21:40:53+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.thespec.com/news/canada/judge-dismisses-motion-to-acquit-in-fatal-hit-and-run-trial/article_c284f343-576b-559d-af6b-163c18ec7bcc.html",
+    "title": "Judge dismisses motion to acquit in fatal hit-and-run trial - thespec.com",
+    "published": "2026-09-18T21:18:11+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/kolkata/south-kolkata-pujas-told-to-keep-roads-pedestrian-paths-clear/articleshow/134318936.cms",
+    "title": "South Kolkata pujas told to keep roads, pedestrian paths clear - timesofindia.indiatimes.com",
+    "published": "2026-09-17T17:59:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://turnto10.com/news/local/15-year-old-injured-in-a-hit-and-run-crash-in-providence-scooter-car-leg-fracture-intersection-september-16-2026",
+    "title": "15-year-old injured in a hit-and-run crash in Providence - WJAR",
+    "published": "2026-09-17T00:02:59+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/davenport-high-school-student-hit-151134708.html",
+    "title": "Davenport High School student hit, killed by car while on electric scooter: PCSO - Yahoo",
+    "published": "2026-09-18T15:11:34+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.bostonglobe.com/2026/09/16/metro/two-hospitalized-in-mission-hill-scooter-and-car-crash/",
+    "title": "Scooter rider struck by car in Mission Hill, near site of crash that killed city bikeshare planner - The Boston Globe",
+    "published": "2026-09-16T21:46:00+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
 ]
