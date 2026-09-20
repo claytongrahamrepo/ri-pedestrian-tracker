@@ -1775,7 +1775,7 @@
     "title": "Man charged nearly a year after Cahokia Heights crash caused pedestrian death - NewsBreak: Local News & Alerts",
     "published": "2026-08-24T20:12:09+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/daily-voice-525087/4846402985727-person-struck-in-early-morning-hit-run-in-montgomery-police-searching-for-suspect",
@@ -1845,7 +1845,7 @@
     "title": "Search for driver after woman killed in hit-and-run crash, SC police say - NewsBreak: Local News & Alerts",
     "published": "2026-08-24T18:12:34+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/ktnv-13-action-news-563659/4846411228152-lvmpd-east-valley-hit-and-run-leaves-pedestrian-with-life-threatening-injuries",
@@ -1943,7 +1943,7 @@
     "title": "Pedestrian killed in two-vehicle crash in Camden - Rome Sentinel",
     "published": "2026-08-26T13:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.bostonglobe.com/2026/08/26/metro/oui-boat-dankert-shieh-boat-crash-drunk-logan-airport/",
@@ -2440,7 +2440,7 @@
     "title": "Woman, 82, dies in hospital after being struck by SUV in Scarborough - thestar.com",
     "published": "2026-09-05T12:54:00+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.bignewsnetwork.com/news/279289520/tragedy-in-rathkeale-toddler-dies-after-hit-and-run-driver-arrested",
@@ -2818,7 +2818,7 @@
     "title": "Pedestrian killed on I-170 north of I-70 - STLtoday.com",
     "published": "2026-09-16T16:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.newjerseyhills.com/observer-tribune/woman-hit-by-car-while-helping-injured-deer-in-mount-olive/article_4641216e-3db1-4c81-92a1-f5310b8507d4.html",
@@ -2902,14 +2902,14 @@
     "title": "Judge dismisses motion to acquit in fatal hit-and-run trial - thespec.com",
     "published": "2026-09-18T21:18:11+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://timesofindia.indiatimes.com/city/kolkata/south-kolkata-pujas-told-to-keep-roads-pedestrian-paths-clear/articleshow/134318936.cms",
     "title": "South Kolkata pujas told to keep roads, pedestrian paths clear - timesofindia.indiatimes.com",
     "published": "2026-09-17T17:59:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://turnto10.com/news/local/15-year-old-injured-in-a-hit-and-run-crash-in-providence-scooter-car-leg-fracture-intersection-september-16-2026",
@@ -2929,6 +2929,69 @@
     "url": "https://www.bostonglobe.com/2026/09/16/metro/two-hospitalized-in-mission-hill-scooter-and-car-crash/",
     "title": "Scooter rider struck by car in Mission Hill, near site of crash that killed city bikeshare planner - The Boston Globe",
     "published": "2026-09-16T21:46:00+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://wjla.com/news/local/library-in-northeast-dc-struck-by-gunfire-woodridge-neighborhood-library-september-2026",
+    "title": "Library in Northeast DC struck by gunfire - WJLA",
+    "published": "2026-09-17T20:33:35+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/driver-cited-two-injured-after-late-night-crash-into-fall-river-home/",
+    "title": "Driver cited, two injured, after late-night crash into Fall River home - Fall River Reporter",
+    "published": "2026-09-19T12:41:20+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/coventry-ri-motorcycle-crash-andrew-brailey/4017602/",
+    "title": "30-year-old RI man killed in motorcycle crash - NBC Boston",
+    "published": "2026-09-20T03:02:30+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/22-year-old-rhode-island-man-killed-in-motorcycle-crash-remembered-as-bright-animal-shelter-volunteer/",
+    "title": "22-year-old Rhode Island man killed in motorcycle crash remembered as bright, animal shelter volunteer - Fall River Reporter",
+    "published": "2026-09-19T16:42:49+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://fallriverreporter.com/30-year-old-rhode-island-father-of-two-young-children-killed-in-motorcycle-crash/",
+    "title": "30-year-old Rhode Island father of two young children killed in motorcycle crash - Fall River Reporter",
+    "published": "2026-09-18T23:47:39+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.nbcboston.com/news/local/holbrook-ma-hit-and-run-vehicle-police-search/4017550/",
+    "title": "Police looking for vehicle involved in Holbrook hit-and-run that injured teen - NBC Boston",
+    "published": "2026-09-20T02:29:06+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.bignewsnetwork.com/news/279318988/three-year-old-boy-killed-after-being-hit-by-car-in-hyderabad-incident-caught-on-cctv",
+    "title": "Three-year-old boy killed after being hit by car in Hyderabad', incident caught on CCTV - bignewsnetwork.com",
+    "published": "2026-09-20T10:59:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 0
+  },
+  {
+    "url": "https://www.aol.com/articles/driver-charged-providence-hit-run-153632000.html",
+    "title": "Driver charged in Providence hit-and-run - AOL.com",
+    "published": "2026-09-17T15:41:47+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 0
+  },
+  {
+    "url": "https://turnto10.com/news/local/providence-police-charges-driver-who-fled-hit-and-run-incident-that-injured-15-year-old-jazmin-alexis-dacosta-sept-17-2026",
+    "title": "Providence police charge driver in hit-and-run that injured 15-year-old - WJAR",
+    "published": "2026-09-17T15:44:51+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
   }
