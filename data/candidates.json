@@ -1771,13 +1771,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.newsbreak.com/belleville-news-democrat-1592547/4847007977920-man-charged-nearly-a-year-after-cahokia-heights-crash-caused-pedestrian-death",
-    "title": "Man charged nearly a year after Cahokia Heights crash caused pedestrian death - NewsBreak: Local News & Alerts",
-    "published": "2026-08-24T20:12:09+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.newsbreak.com/daily-voice-525087/4846402985727-person-struck-in-early-morning-hit-run-in-montgomery-police-searching-for-suspect",
     "title": "Person Struck In Early-Morning Hit-Run In Montgomery — Police Searching For Suspect - NewsBreak: Local News & Alerts",
     "published": "2026-08-24T14:05:16+00:00",
@@ -1839,13 +1832,6 @@
     "published": "2026-08-24T11:21:40+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 0
-  },
-  {
-    "url": "https://www.newsbreak.com/the-state-1592583/4846767700248-search-for-driver-after-woman-killed-in-hit-and-run-crash-sc-police-say",
-    "title": "Search for driver after woman killed in hit-and-run crash, SC police say - NewsBreak: Local News & Alerts",
-    "published": "2026-08-24T18:12:34+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
   },
   {
     "url": "https://www.newsbreak.com/ktnv-13-action-news-563659/4846411228152-lvmpd-east-valley-hit-and-run-leaves-pedestrian-with-life-threatening-injuries",
@@ -2121,13 +2107,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.nj.com/somerset/2026/08/hit-and-run-killed-a-21-year-old-nj-college-senior-just-days-into-her-final-year.html",
-    "title": "Hit-and-run killed a 21-year-old N.J. college senior just days into her final year - NJ.com",
-    "published": "2026-08-27T01:03:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://turnto10.com/news/local/man-struck-by-vehicle-in-west-warwick-pedestrian-crossing-street-injured-hospital-main-street-august-28-2026",
     "title": "Man struck by vehicle in West Warwick - WJAR",
     "published": "2026-08-28T20:30:31+00:00",
@@ -2289,13 +2268,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.nj.com/news/2026/08/nyc-woman-killed-in-weekend-nj-turnpike-crash-that-injured-4-others.html",
-    "title": "NYC woman killed in weekend N.J. Turnpike crash that injured 4 others - NJ.com",
-    "published": "2026-08-31T18:17:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://www.al.com/news/2026/08/florida-woman-killed-in-southeast-alabama-crash.html",
     "title": "Florida woman killed in southeast Alabama crash - AL.com",
     "published": "2026-08-30T13:08:00+00:00",
@@ -2342,7 +2314,7 @@
     "title": "Off-duty N.J. cop strikes, kills 19-year-old pedestrian - NJ.com",
     "published": "2026-09-01T18:53:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://turnto10.com/news/local/school-bus-crash-reported-in-north-stonington-connecticut-serious-injuries-state-police-september-2-2026",
@@ -2391,7 +2363,7 @@
     "title": "FL woman killed in car crash involving alligator, days before starting new job as sheriff’s deputy - NJ.com",
     "published": "2026-09-03T15:24:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.al.com/news/2026/09/north-carolina-man-struck-killed-when-he-gets-out-of-vehicle-damaged-in-another-i-22-crash.html",
@@ -2898,20 +2870,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.thespec.com/news/canada/judge-dismisses-motion-to-acquit-in-fatal-hit-and-run-trial/article_c284f343-576b-559d-af6b-163c18ec7bcc.html",
-    "title": "Judge dismisses motion to acquit in fatal hit-and-run trial - thespec.com",
-    "published": "2026-09-18T21:18:11+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://timesofindia.indiatimes.com/city/kolkata/south-kolkata-pujas-told-to-keep-roads-pedestrian-paths-clear/articleshow/134318936.cms",
-    "title": "South Kolkata pujas told to keep roads, pedestrian paths clear - timesofindia.indiatimes.com",
-    "published": "2026-09-17T17:59:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://turnto10.com/news/local/15-year-old-injured-in-a-hit-and-run-crash-in-providence-scooter-car-leg-fracture-intersection-september-16-2026",
     "title": "15-year-old injured in a hit-and-run crash in Providence - WJAR",
     "published": "2026-09-17T00:02:59+00:00",
@@ -2994,5 +2952,40 @@
     "published": "2026-09-17T15:44:51+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 0
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaW5STFowcmxXRDZ4NDZZOUdlaFpDanFZQ1ZEUEpxc0ppbEtNWFRZMG9rcFR2N1BGSTRxNEMwQk5nX3Frb1RuV3VwelRPZXc1VjhmRmhOeE5Ld3BMajBKQ0s0eXlhLVhKX1AydG51RXJBV1V0ZmVySVlsc2s2RUktU014X3dLY25UMkk5d21zSjNrYmlpVlVPVFZOVEI2VGItV3VSSkFMLVRfZUlMMlg2VVRjSlQ3Q0ZGeXc",
+    "title": "Rhode Island man sentenced to state prison for crash that killed 31-year-old pedestrian - Fall River Reporter",
+    "published": "2026-09-20T18:39:46+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRV80VXh6OW1kMEJRbjd6WlhETmNyRmtSN1lMb0p1R2EwS25FemdsSU9DblhaRVV2dlJVamhUM21TaWdNVUZHeFFxVWd3Nm5hX1hzRVUxNGplOXVSWFBPcmdXajJGV2p1cXZod0JFSVo0dUk2RFB1Q3ZnOFo2N0kwaFBtMlFEdjYtT0hxemRnbEVBVmV0R1ozUWRPYkxyTEdqVUtSVmVIWG9aRkpR0gGyAUFVX3lxTE9RYkZXb0Vfb2ZuSHRwbXpVT1JncmN6Q0NvSl81ZmtnNjdCTU9iemt2ZEthTXZfR3JDXzdseVlJVXV4U2JsSmF5YU0zU0M1Zl8zT2hHMEdJMlVJN0lKRm5Gak9Bc2RlWERVQndaTnlMalA5YTJwa1pUT18xSHRwNXlfamFGaEd3TVNMOWFTVFQ4d0lSV3FaODBtS01yUUdSX1oxeXVvLWp0QW9yUllqcDZkNXc",
+    "title": "1 dead, 7 others injured after SUV crashes into tables outside Ocean County restaurant - ABC7 New York",
+    "published": "2026-09-20T15:57:21+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV2NONWptRWJvV29udGRQZFlsT3JIZ3lPdDJFZ2JnRGl6RUdudlNDaUM3Q3JySWMxLXJ2V2RUX3I0eGJDMTlTbmx0WUVCdnJ3NnNmWTNJeW9KczJXZ2lsRElHU2VndE9FbC1ZdUYxU3gzcVNtTGVoTlFpZFJGRkZZMm5vRlRSM1Z4OS1SX1QxQ3pCOE9rSnNVMklQazd6WXd4VGYwVzZ2Rnc",
+    "title": "Taunton man identified as man killed in head on crash with utility truck - Fall River Reporter",
+    "published": "2026-09-20T22:44:20+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFVETUktZDVia3RvZHF2NTRBNHZkVzRGd052VS1jQlNHUHVKMmtfU2dKMVVOLTN1NG1ER0JwRGlVd0lUX0VrTHliYUd4WUxZbjd1bFhQMUFCV2pzd0JjbkMzaGF2UFUyOXprR1E0RzQ0N1lWd1JRUE5jQ1V0Q1BMLWVRQy1qWi1ydlluRi1NSmhLVG5icHdTSXBvdHphRVVlS3ExdFdXMkVhLWRpUmRadkI4Mk1ETVFLWXk5OWhJamRlZ0h1LVRnMm12MA",
+    "title": "Authorities identify Cape Cod man as one of three killed in collision involving multiple motorcycles - Fall River Reporter",
+    "published": "2026-09-21T02:28:54+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1VTVUdidFBOc2VFMDZzNEVVRmxUVjAxUXlBTlhtSk9iWkxlRlM0bURWZWdZd2RocDVzazdwWTFWVXhna2hxOWktd3JyMGMzQU1uUng0UGM3UEw3YlZZYnNCUmJCMk9tV1FlckNCMzc5aTRvdDk1S1BIcUhhNlpvNHdUXzdib2p1bmFNdUh1eFBsR0JWVmtYR0R0dHo5Q0c5Qk1rSXcxYV9mdTFiM2U5SV8zSUdrUmFMUXhBYTNFWVlUTS10emJtZXJjZWE1R0dR",
+    "title": "Pedestrian killed in Friday night collision on Augusta Road - WFXG FOX54",
+    "published": "2026-09-21T14:57:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
   }
 ]
