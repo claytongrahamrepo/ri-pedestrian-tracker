@@ -2548,13 +2548,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.thespec.com/news/hamilton-region/young-man-killed-in-queenston-road-crash-remembered/article_ab8cfe81-850c-5ccb-b4fe-1bf9b2af9d3d.html",
-    "title": "Young man killed in Queenston Road crash ‘always had a smile on his face’ - The Spec",
-    "published": "2026-09-10T10:00:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://turnto10.com/news/local/foster-man-killed-in-scituate-motorcycle-crash",
     "title": "Foster man killed in Scituate motorcycle crash - WJAR",
     "published": "2026-09-12T22:23:46+00:00",
@@ -2797,7 +2790,7 @@
     "title": "Three-year-old boy killed after being hit by car in Hyderabad', incident caught on CCTV - bignewsnetwork.com",
     "published": "2026-09-20T10:59:00+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://www.aol.com/articles/driver-charged-providence-hit-run-153632000.html",
@@ -2814,108 +2807,94 @@
     "attempts": 0
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeU83REZxT1VZaXJLR25uMkVhV2dqd2ZBZVRwWHRMRTFQT1lYejVOVWh4b05Fb25JcmgwUlFQX0JBaU5rRmJQYm10ZnQxU19nbmNLX0ZSckhEMlRFYlBlQjhoM2xOOFhUdUFkTUNudm5hS2syaTlrZGJjakl1eXlpTVdkb1FWRjNGNUlwdlJnZU1WbkpGUWNiY2ZWdUE3SGV1RGhaLUY1cE05RHZ1LUZ5dm9rZ1EyaEZ0WFo1SlBLOTRValROR1FHZXM4RTYxQmVzaWtodURfREIwdw",
-    "title": "Providence woman sentenced in fatal 2023 New Year's Eve hit-and-run - The Providence Journal",
-    "published": "2026-10-03T10:05:00+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWG81RG1mQ2tLblROUXdDYXJhalpoRllHalJQY1ZlSlI4SjBIcE5kMk9ialhIcTJkdjRxWEE0d25vX1ltelYtR0lNZ1BBOWxKX3JLLUdRaGw4TENUeEhWTGl3VzRGbjN1cHZLYUZpVDkyN0ZXZDd5ZzcteEd5bTFzUEhKbklTcWhCWmNSQXhRUDg0QVRXdTNPUjZwTW9BS0ZwQWhLNkdFTW15S0RJVzZ5MmV1bkx2RjRC0gH2AUFVX3lxTE1GYzFFOEh0U1hDTnd6N1hOUng1eUZ1MlVteWo1aUtZZUJMWnVUNFd4Sm83ZVYySFlvSmhIcU9taDROMTZoTkx1U25XQ3JuWHgwYXFFaDF6ci1ST3FRcDFEU2xFMkdHcjJLWS1XWmdpRmptaTNfYUJFMThsRDFZNThEeWxPamEteUNjMk5odGQ2UmxZSGhHWmJSUEFZa0w0UmV5WlNiamRkUlBWcm9lRG1leEJXcEJXTTR2c0VhLUY1RzhmY1B2SGNsNGhyeHhoUWhINC1ZZ3pVWktDTnh1NTBFMGljeGRFZHFHWTA2SGhiZ2hpUWE0Zw",
-    "title": "Barnstable Cop Struck By Intoxicated Drive Outside ZZ Top Show Facing 'Long Recovery,' Department says - Patch",
-    "published": "2026-10-02T15:27:07+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTY3Vk1YZ2w5WkRyTUtkSXNqYmFzV3NIUkl2dDI1RHFDWHlDWW1fYk9QSHRMamM5Skg0azhHWXlXOEhkT2RYVkdIUW5mMkNUTWtfTGJDUmNUaWNBR04tR2ZfZHB5RU96dFhSN3BGR29GajRFdmJyYUU3bHRDNE5YTkhnazQwdC1YQmxPbEZ5Vk0zMGRhRnpjekFSQU10UHEzQ0I5QWhIRk1YUXgycDJMUDdnZzk0aE41ZW5XRA",
-    "title": "Fall River EMS, Fire, Police, respond to collision after pedestrian suffers serious injuries - Fall River Reporter",
-    "published": "2026-10-03T13:51:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVdlWFIyTFRhMXRmSVFBM2RZdnBHOXBxUlpRUXJ5Wkd6SVFaLWlSbHdCcmxrZ3hsMmhtRFVrTW5VMEFUa3MxSkZmWFlRUXZCaC1hRG5iRUxOa0NKZ1ZYNlV2X1MweW1ZMVpDNVBPQ05YTzBWajZhaThaMnRyUGRqRTBaUnlhQWFJcThfcnJmOXQxOG4wcWtkMUpISVBaZjJJdlc0",
-    "title": "Rhode Island's Rate Of Hit-And-Run Crashes Among Lowest In Nation: Study - Patch",
-    "published": "2026-10-02T21:19:58+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFAzT1NzY3BSMVFUME9KQ0sycks2LURYamtZQVJnXzVSQ2NXTWNndGZhR3F0ZHU5LWx3OU95SFVWQXNaYXBmcG0tUFItWEVNOWlZMzlyZFhFeE55THNfSWJ5blVwZE1LVjRvSG1iRGxOcUNIenZkbkQtakJocC1ueHJfbXNLTEJvSUZhRFJOdDBSM2xSVlhoempiOGRpdw",
-    "title": "Indianola teen pedestrian killed in Sept. 27 Warren County crash - Waterloo-Cedar Falls Courier",
-    "published": "2026-10-02T14:45:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnJyMmFwZHVtYklVMkdUeG5TZjAxX1ZaUHJSWWdjaWppVGFUNkVld3VnSURUUFc1dkdWQ1IybGMybmVBU3J4ZHBzSHNhZ2drRmV6M3pKeklJREtTUkl5MVFlV3I1LUlKejRNazBNVXVhMzNaR25fYzc5bGUzdVpnR19hWW5VVDhlUGhKNGh5ZXRWQdIBlwFBVV95cUxNT1NXUnpsa1JzdjlRcFZxTi1QR202eGxsTXdfOWl1bjZITVlQaXFEWUI0MVlMQV9yMlQyWkhEcTZoWFhpSWRjVTl2NlZMWmtBZ1BYNXRLSERTVDBhRDQxVnJxMnpucjltODdkSlZFNU9PaWRuNzk5ZWwzR0lfc1dNRzNHend1N0FHb1ZpM0c1cTV4LVptS0Uw",
-    "title": "Lodi police need help finding driver behind a hit-and-run in NJ - ABC7 Eyewitness News",
-    "published": "2026-10-02T21:43:09+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYm9XSEJqYmtHYWs4UndpLURsR0pnM2ExblVTUWFfNk01ZGJvb3JLd1dRX2IxdElpWVN6VVFhaHNqUFl3Y0VtUWhlc2lnb2FPWGx1amhjaUFNSF93dVVhLTJKZTRGTzVWNUVsX3R1VENob1pVVFJsZFhOY3dSUWlmOWxabFFkXzN0c2otcndZTWF4bVpncW1wOVRLT1J4RXZYLUE",
-    "title": "Fall River Cyclist Seriously Hurt in South Main St. Crash - Hoodline",
-    "published": "2026-10-03T14:08:58+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGtsSkZHRjRkaEEzRVh6R0YxV0dCNXcyUnhiMzFaNm9XWS0wbHAzbW0yaHZSN2R2LXJWQlB0Vlh3UW44b1R4eHVGMVgtUDRqbzhXZUNFak9Fc0UtcEpySnEyMWhqc3c2Um9yb1RaWmpqQ1BhVFRibjQ1cGVKbUd5LTBFYzBuTTRISzZqNXVvSmVpbEdQel95bHZJSWhIODJvTWxST3dtVTRRbkJZV3hVemxHRi1KUdIBtgFBVV95cUxPUGtsSkZHRjRkaEEzRVh6R0YxV0dCNXcyUnhiMzFaNm9XWS0wbHAzbW0yaHZSN2R2LXJWQlB0Vlh3UW44b1R4eHVGMVgtUDRqbzhXZUNFak9Fc0UtcEpySnEyMWhqc3c2Um9yb1RaWmpqQ1BhVFRibjQ1cGVKbUd5LTBFYzBuTTRISzZqNXVvSmVpbEdQel95bHZJSWhIODJvTWxST3dtVTRRbkJZV3hVemxHRi1KUQ",
-    "title": "Suspect changes plea in 2023 deadly Woonsocket hit-and-run - WPRI.com",
-    "published": "2026-10-02T15:11:18+00:00",
-    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWHBIc0J2QzlWXzNVU2syR3VkdHNQUHhyM3B0am41a25CLURZdl94V2FoS2RQZngwN3p6NXlRdmVYemdycXhZYzJWVG0zc2N0c0MzNF9yME1ibk1fSEt2X2k3T243XzlaN1lnaXA4MEdSVHdlekltNXlmWWR2dFFRWHlSMkk1WlZNRzRoTWcxUnJTUVM4aDV6QW5uY0dyZHRzVzBQRkJLdkI0N2otcWU1VW0tbVREemYwRDk1UEZHcEZNUlNtblAtRW1kenp5aG5TcmU4S1VFbGI2M2taNU5ZQ2p0WElNS1Y0Qk9KOA",
-    "title": "Bicyclist seriously injured in crash in Fall River - WJAR",
-    "published": "2026-10-02T21:06:30+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWVWRnpDV2wwNWIzZE9zTW5pMDFKV3NWV2JXQWxTYmhNQTA3Tzdva3gyZGdmaXRsVnNKYW1Hc0FtYzQxN0pCM1BqSTBaWTZFcXdKVXA5S3BxenZTRDJGZXlUeUp0VkZZMXFtNXM5TzJGTmlQVUs2TzVaejNMSUJjNGhMUW1GbTJQZU44X3BWTDFRNlQyV01CUW5uTEVjejV2MVFPN0xkMXMxMWdZbEVyb3JNYzFrb09vVjNxRmpOdVBCR0J5ZDhrY09ZMUo",
-    "title": "Preliminary investigation released after Fall River bicyclist seriously injured in collision with SUV - Fall River Reporter",
-    "published": "2026-10-02T21:06:22+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanNZY2ZuOHBtUTdtTmotdXplUkhiVVlEVTEwUWlnOXZLTzFXMFFtUkFVSUNxTVhXV1NXUUFEc1BhYVhHeGVBVEpaQUFQbGhUMVE3T1JlSTNoTnB1cEtUZDFNVDkwOHNCcjRoa2hTUTlrd3NCWHNTeDNYR3k4em0tcjMtRlgxcTF3ekhTcVVPR1c3bUdmV29vVnJYVUstODktWmUxd1BCU05ZOTM1X2lZ",
     "title": "Man Critically Injured After Pedestrian Crash on Pocasset St in Fall River, MA - Fiorentino Legal, P.C.",
     "published": "2026-10-04T09:13:38+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMERoX084VWhGa1dhcXNkQnNKUW1wbjM5eEEtalhvMDZoNV9qMmdYR01Xb3ZELS1KX3d3UTVZNjFMUWVjbnNuWDRHbW1ZTkM5MXBJTlpZNVFZMjJaSXdTYUh5Q1lrZVBZSEJ3bjNPcUpfM19rSDJQd3FUZ2EwY252cHV3",
     "title": "Rhode Island Ave Pedestrian Bridge Getting a Glow Up. Depending on your perspective… - PoPville",
     "published": "2026-10-02T19:05:19+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmlOUjBlb0RCMUZmMjFxYXRFdDdOdHZaZVhwTGh5TGd4WVRzcnBXckkxbDVPaEtmTHRaMjBJZWt6LUZtb0NycVVmSDk0Yi1qQzBMaTE5WFYtWldKM3NHQ0R2c2N3Q2Nnbk80X001OHpSbWp3WE1mMHB6aHFjTmRLa2J4N1FRMFp1YVRhek0wRjROeWctZ2pGZkpzMDJhRkRjdzlHMlh3b0Z5U1ZzU1NCTzNibDROOVEwbUlzd3ViUFFSVERET0hzbGQ4QTc0N0tYZktr",
     "title": "Woman dies, man taken to hospital after pickup truck strikes pedestrians in Niagara Falls - Niagara Falls Review",
     "published": "2026-10-02T03:18:08+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU94V0JoeGZUdmNiMmZXNUhLb3dpUlRoVndEZ1ZjOWZqd0VGTnBGel9vYjJBZHB4UklBZ0tEOUFuOEpYZnV3eXNtWmQyNDFvLURZcEVfYkZrcmdYN0UtQU5CMGMwVFVBcU9NZjQzZklKdGJDTDJJTUE0dy1JUnc1a1BsSVVJVHpLTzNodlhOUW9qOVZtTWxUTVB2T2puTzQ",
     "title": "Woman Seriously Hurt in Bicycle Crash on Main St in Fall River, MA - Fiorentino Legal, P.C.",
     "published": "2026-10-04T09:13:38+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjNHSHo1LUthRUVubU1NMnZ1RVBLZ3RfVVJpamxkdEFBbkw3SUh1UlhXMlJGNkxhRy1jQ2ZBZXVFZ2t3ME03dzdCb2g5MmR0Nlo1bE5SVHF1R1pNTFVweUVuY2xIVktiU3NqRlVFQjJ6NGJOVGNESjFIQlFGSEl6bDZMRE1CU3djTkN2a0VPYUd5Q19CcXpvLTlESG5tQQ",
     "title": "Bicyclist injured in crash near UNL on Saturday morning - Lincoln Journal Star",
     "published": "2026-10-03T16:30:00+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHdLOVVGOFRHYklOM1lCV3ZZTnZmZ2xINEhmdmk2dmMxS0ZpMDloYjRaUGRhQzY3WTFGV3hIZUZfb1ZMR016YVlqZi04ekVFb1Y1bXh3a3ozVmlvMVpuLXM2dEN1WUZBVGh6dzhfOXFlNnpvZVZkejI5WmhFLWxKWGVRdEljcU4zeGxJUDRyVDdfdS1tZzZyREFFRS1RaTVSSG1nWDBYMy15a2RmaERySTN0d2Y",
+    "title": "Massachusetts teen ejected, pronounced dead at Rhode Island Hospital, after car crash - Fall River Reporter",
+    "published": "2026-10-04T23:10:13+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjEyYmRhdGtFLWR2LTlvWjZfLVM5alVCTm9ORVpEY1pvaDJ1WjNrUU5jZnl2d3haSURmSWJfRzlLekFNb3pldTQ0NVF2QUF3M0FjcG9tSldRd2V0X3NzN3U4Nm1UcnRSZG5qWFdiQVV0blBwVndMS1pVQ3dDTmJuYmlpTTJNb3ZyTVlpWi1BLUI3Tko1al9Say1QTjBUMi11QVNxZEhncDhqMG1LQk9tSA",
+    "title": "Uxbridge High School student dies in Saturday night car crash - masslive.com",
+    "published": "2026-10-04T16:55:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1BWdU16UjFmcy1zX1ZtLVR4OWJ1LVQ3ZllDRzN0RVdiVU1oVGpOVjlsV1dnRWthMVdObFdpMlRrTVhmQjYwMmo3ODltQ1plZGtxSUlGTWFEY0lYUlcyRkZsQktDWnRrTlR0VE55dldsa1JGanRSYU9ZZzBkaTVxYlZtcVFvOHVrRkFsalozMXVCRUlLVlhIQnV3",
+    "title": "60-year-old pedestrian killed in Dinwiddie car crash - Richmond Times-Dispatch",
+    "published": "2026-10-04T22:30:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdExBVDZlVGFiMnpOaGZiMExBVFpicWRXZHB3eU5nb2F4TGdBdlpiSkpQaVpCbkVrTC1hUEpVRDJ0elhpVmNLUXQ3TXBSVlJwREhOVGc3ZElGcHpCWGM5NmlNQXFXUEhid180RXF5YXBfaU1yZG1WSVNkUDJVRXRDRlhhbVd5N2duNC1NN1pOTVFvV01SbXgxRHdGZmtTVmV6MWfSAacBQVVfeXFMUElueEVWUnh4UElCWXppZ0w5SHBLZE9DNWlkY21IQmJ0N0R3Y2h4TVBMRGpxNVdTVXRJaTdXbHozbjd1Z1ZEaTZXNnJSWS1qZldyNTJYYnUyeHlsWkV2d1VZUE5HOEIwMkpZUmFMTzRQQ2J5WHc3VzhDX1N6X2pDeDhfbkdmQjZGLW13U05INmh5UW9SNkxfVmdnNll2VzBKRTV2Q3Jac1k",
+    "title": "Driver charged in fatal Grand Central Parkway crash - ABC7 Eyewitness News",
+    "published": "2026-10-04T17:53:48+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzJyQ2R0cnFVZ0lnUkdLNDFZXzNvVkJEUkFlYmlqVXF2M3huUlM0ZWg0WlpBR0QtNmpHV3BQeXZvRHRHUlc5V3A5SHNWWm9jVy1YT1c4U1FIWnRzWGtscE9oSGpldVFxcnUySU9kWWUxcEVuQmhoajhldTRVT0Z6UmJCZjRPYjV4TXkxRHNaYVU",
+    "title": "Pedestrian killed in crash with semi-tractor trailer on I-15 at Neon Gateway - cedarnews.net",
+    "published": "2026-10-03T17:00:19+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWJzZ3dGaWJDY3hNS2p5VlhVaGZvRm11ZzNHdkNkektIWTJqZHNJSF9vNGxFSmFickVXeUppT05xMTl6T2lsdmFIcTUyNFVnek9ZSl84eE0zbmxrWDQwQnJFZDVwTFpPSk9LSElndFNpa1cyeXRwTVFtRnNpR0taRVBtMlA4TkZSbWpPSTRoeGFVdER1YVE",
+    "title": "DNA evidence leads to arrest in Omaha crash that cost woman both legs - Omaha World-Herald",
+    "published": "2026-10-05T03:41:35+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYV85ZDhXSFVPbXllYWxIeU04YlpCZkR4ZHZfMUQwOF9ZN3RlQUI4YmNRS181Tkt5ZFMxbS1IQV9BS1JNMXM3dndQM09KRmw0N3c0OEtqdk9zMVRSNDE0dFNZYUFaNVd1cDlNeHA2SXB4VWZScXh5T0xtWDFHYWV1RTlud0RkT25xWG5SSkJqUGtEOE9Zbjd4VXlIQjYxaUVaRDEyVQ",
+    "title": "DNA evidence leads to arrest in Omaha crash that cost woman both legs - Lincoln Journal Star",
+    "published": "2026-10-04T19:45:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGVQMU41UV96bDJWS1E1bVltS0c5NDNkQXloYVE3QUMzX2xTc3hqeE9fMjFfWEVNSXpyVmJyN0tndU84NVN1QUZTOV9BSGJzZlpnRjBoVENacmJUYXEzMXJIYlNscUZkc1VNSjBZWXRsVmpUZXliV3BtSV9aR0FILWozcDg0T0U4cjVQNkFQRzBiNXNBNkJSeS1EWWUwakFUMEd0ZGgtOA",
+    "title": "DNA evidence leads to arrest in Omaha crash that cost woman both legs - York News-Times",
+    "published": "2026-10-04T19:45:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 1
   }
 ]
