@@ -2321,7 +2321,7 @@
     "title": "Tragedy in Rathkeale: Toddler Dies After Hit-and-Run, Driver Arrested - bignewsnetwork.com",
     "published": "2026-09-06T08:08:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://turnto10.com/news/local/man-hospitalized-after-pedestrian-crash-in-providence",
@@ -2363,7 +2363,7 @@
     "title": "Pedestrian struck, killed in Florence County – SCHP says driver left scene - SCNow",
     "published": "2026-09-08T15:00:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://fallriverreporter.com/rhode-island-woman-accused-of-hitting-pedestrian-on-electric-unicycle-with-stolen-vehicle-fleeing-the-scene-victim-fighting-for-his-life/",
@@ -2391,7 +2391,7 @@
     "title": "Arrest after pedestrian hit by car and killed - Yahoo",
     "published": "2026-09-07T06:46:00+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://turnto10.com/news/local/providence-woman-arrested-after-brief-chase-hit-and-run",
@@ -2618,13 +2618,6 @@
     "attempts": 0
   },
   {
-    "url": "https://www.bignewsnetwork.com/news/279309642/police-arrest-another-accused-in-gurgaon-biker-hit-and-run-case",
-    "title": "Police arrest another accused in Gurgaon biker hit-and-run case - Big News Network.com",
-    "published": "2026-09-16T07:31:00+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://turnto10.com/news/local/providence-restaurant-fundraising-to-help-family-of-cook-killed-in-motorcycle-crash-lakeville-tortilla-flats-rafael-cruz-guy-shaffer-dominican-republic-sept-13-2026",
     "title": "Providence restaurant fundraising to help family of cook killed in motorcycle crash - WJAR",
     "published": "2026-09-14T03:21:43+00:00",
@@ -2779,121 +2772,93 @@
     "attempts": 0
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHdLOVVGOFRHYklOM1lCV3ZZTnZmZ2xINEhmdmk2dmMxS0ZpMDloYjRaUGRhQzY3WTFGV3hIZUZfb1ZMR016YVlqZi04ekVFb1Y1bXh3a3ozVmlvMVpuLXM2dEN1WUZBVGh6dzhfOXFlNnpvZVZkejI5WmhFLWxKWGVRdEljcU4zeGxJUDRyVDdfdS1tZzZyREFFRS1RaTVSSG1nWDBYMy15a2RmaERySTN0d2Y",
-    "title": "Massachusetts teen ejected, pronounced dead at Rhode Island Hospital, after car crash - Fall River Reporter",
-    "published": "2026-10-04T23:10:13+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjEyYmRhdGtFLWR2LTlvWjZfLVM5alVCTm9ORVpEY1pvaDJ1WjNrUU5jZnl2d3haSURmSWJfRzlLekFNb3pldTQ0NVF2QUF3M0FjcG9tSldRd2V0X3NzN3U4Nm1UcnRSZG5qWFdiQVV0blBwVndMS1pVQ3dDTmJuYmlpTTJNb3ZyTVlpWi1BLUI3Tko1al9Say1QTjBUMi11QVNxZEhncDhqMG1LQk9tSA",
-    "title": "Uxbridge High School student dies in Saturday night car crash - masslive.com",
-    "published": "2026-10-04T16:55:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1BWdU16UjFmcy1zX1ZtLVR4OWJ1LVQ3ZllDRzN0RVdiVU1oVGpOVjlsV1dnRWthMVdObFdpMlRrTVhmQjYwMmo3ODltQ1plZGtxSUlGTWFEY0lYUlcyRkZsQktDWnRrTlR0VE55dldsa1JGanRSYU9ZZzBkaTVxYlZtcVFvOHVrRkFsalozMXVCRUlLVlhIQnV3",
-    "title": "60-year-old pedestrian killed in Dinwiddie car crash - Richmond Times-Dispatch",
-    "published": "2026-10-04T22:30:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdExBVDZlVGFiMnpOaGZiMExBVFpicWRXZHB3eU5nb2F4TGdBdlpiSkpQaVpCbkVrTC1hUEpVRDJ0elhpVmNLUXQ3TXBSVlJwREhOVGc3ZElGcHpCWGM5NmlNQXFXUEhid180RXF5YXBfaU1yZG1WSVNkUDJVRXRDRlhhbVd5N2duNC1NN1pOTVFvV01SbXgxRHdGZmtTVmV6MWfSAacBQVVfeXFMUElueEVWUnh4UElCWXppZ0w5SHBLZE9DNWlkY21IQmJ0N0R3Y2h4TVBMRGpxNVdTVXRJaTdXbHozbjd1Z1ZEaTZXNnJSWS1qZldyNTJYYnUyeHlsWkV2d1VZUE5HOEIwMkpZUmFMTzRQQ2J5WHc3VzhDX1N6X2pDeDhfbkdmQjZGLW13U05INmh5UW9SNkxfVmdnNll2VzBKRTV2Q3Jac1k",
-    "title": "Driver charged in fatal Grand Central Parkway crash - ABC7 Eyewitness News",
-    "published": "2026-10-04T17:53:48+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzJyQ2R0cnFVZ0lnUkdLNDFZXzNvVkJEUkFlYmlqVXF2M3huUlM0ZWg0WlpBR0QtNmpHV3BQeXZvRHRHUlc5V3A5SHNWWm9jVy1YT1c4U1FIWnRzWGtscE9oSGpldVFxcnUySU9kWWUxcEVuQmhoajhldTRVT0Z6UmJCZjRPYjV4TXkxRHNaYVU",
-    "title": "Pedestrian killed in crash with semi-tractor trailer on I-15 at Neon Gateway - cedarnews.net",
-    "published": "2026-10-03T17:00:19+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWJzZ3dGaWJDY3hNS2p5VlhVaGZvRm11ZzNHdkNkektIWTJqZHNJSF9vNGxFSmFickVXeUppT05xMTl6T2lsdmFIcTUyNFVnek9ZSl84eE0zbmxrWDQwQnJFZDVwTFpPSk9LSElndFNpa1cyeXRwTVFtRnNpR0taRVBtMlA4TkZSbWpPSTRoeGFVdER1YVE",
-    "title": "DNA evidence leads to arrest in Omaha crash that cost woman both legs - Omaha World-Herald",
-    "published": "2026-10-05T03:41:35+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYV85ZDhXSFVPbXllYWxIeU04YlpCZkR4ZHZfMUQwOF9ZN3RlQUI4YmNRS181Tkt5ZFMxbS1IQV9BS1JNMXM3dndQM09KRmw0N3c0OEtqdk9zMVRSNDE0dFNZYUFaNVd1cDlNeHA2SXB4VWZScXh5T0xtWDFHYWV1RTlud0RkT25xWG5SSkJqUGtEOE9Zbjd4VXlIQjYxaUVaRDEyVQ",
-    "title": "DNA evidence leads to arrest in Omaha crash that cost woman both legs - Lincoln Journal Star",
-    "published": "2026-10-04T19:45:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGVQMU41UV96bDJWS1E1bVltS0c5NDNkQXloYVE3QUMzX2xTc3hqeE9fMjFfWEVNSXpyVmJyN0tndU84NVN1QUZTOV9BSGJzZlpnRjBoVENacmJUYXEzMXJIYlNscUZkc1VNSjBZWXRsVmpUZXliV3BtSV9aR0FILWozcDg0T0U4cjVQNkFQRzBiNXNBNkJSeS1EWWUwakFUMEd0ZGgtOA",
-    "title": "DNA evidence leads to arrest in Omaha crash that cost woman both legs - York News-Times",
-    "published": "2026-10-04T19:45:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDZQNGVpVUtTcmNxenpTU216bUo3ZHdLWlhxeEhnZ1U0QXNyckhKc09jaTJDOHlnYjlHMnhsZWxRaEw4by1GdGo2MlVxYUFJR0F2b29fekNBcWtCUEVJd3ItN0lTWmRzQzZjNDR1VE14NF85RTFrT1FQbm11RFp2TNIBhgFBVV95cUxOcURhX3VQVnc4UzVmWUtldGFLeTBDc3JxNDJ4UjdPd0ROQ1E0U0lvZWRNZllLcmd1Qk5ibnZuVFlHcnpUT3h3QjBRU2doSWJPRk1SZEtKU0ppdFRyYmdHWGRfb0lYcVlpcHJPZ2VtNElRek9fQ3pCTFFrM0tQdmVVMWExbVZwZw",
     "title": "Pedestrian struck in hit-and-run on Sunrise Highway - ABC7 Eyewitness News",
     "published": "2026-10-06T16:01:20+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTBaMFM1UkpfbERJZkQ1TjI2YldhV0E5dzZQTF9HT01CclBpaXFYamNzNnFvVGhnZGtDd2hZNVhHWkNvTmw4WEoxeEs5MEpYVFZ4OU5RanRoV1U5c21wSDVwQlFhcU85LXdfQnRXd0FvdXNNNV9DYWtZV1o1N3NtYjVHWmtvY1B6Z0cta0hIUEw3emZfTjVUcW00RjRNQkUz0gGgAUFVX3lxTE55MFowUzVSSl9sRElmRDVOMjZiV2FXQTl3NlBMX0dPTUJyUGlpcVhqY3M2cW9UaGdka0N3aFk1WEdaQ29ObDhYSjF4SzkwSlhUVng5TlFqdGhXVTlzbXBINXBCUWFxTzktd19CdFd3QW91c001X0Nha1lXWjU3c21iNUdaa29jUHpnRy1rSEhQTDd6Zl9ONVRxbTRGNE1CRTM",
     "title": "5-year-old dead, 16-year-old charged after UTV crash - WEAU",
     "published": "2026-10-06T02:38:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTXphNmQ1TDNiSC0yUUpDYkg2Y3FVYmZOaFY3dG9zdnRhSUpObC1kSGR5QThocHRrbXNrQ3ZSOUlnaEt4OWF3MDRGZWRqM2tIVHhDVDlqQ19rWEtuYWpWR3JsQnFMX1cyU3d6TDJPQkN1VE1LRTNXQ2Z2cnJlOGRzNmdtaFREdFo3RVhxbnhDU29yNE9HeEx1ZFc2Q0lKZ0ZOTnZDOXVMbFpobi1wU0JrYzhtWTNYX0NIZkl0OVBKZWx2dWJMcDc2X1k5cHdmRjQtaXc1c180WFlLdm9heUlPNXc1eUxvNE0tMGZIZEFncW1CcWdCZUk5OC1Jd1ZpbXRzMC1fTHRSUnFJVlRRMTNqZ283bmZ0VEVhTWRadktOaw",
     "title": "5-year-old dies in UTV crash in Little Compton; juvenile faces driving to endanger charges - WJAR",
     "published": "2026-10-05T22:41:45+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeW5OYTBrLW9Kb3hLeXlPZTNOdFJQcFlqQUJTVWRCbFRmczNHWmdCaVVzb1k4MXFpalVKY0RZRWwwdF9tOFVFOF9Hc05rVUdGeGR3QjFXOGh5Q1R0ckxwblYzZnBUM2wzcVJnam1ld3kzN0k2eFdOT0dlcWk2OEFzNU1CVGdXLVFpOTJsUEhBZE83dzIyRDFGN3ZWVdIBoAFBVV95cUxOU2tUWWZoeFM5bkxFRDk2dlZZWE9jNFVsOHdybDJGU3pzajJUWmhFeXg2V0NPUmdpYUcxZk1RWThtZmxITUNZLXFjT2t1TVFtbjktRWhuTE84aEVkV0p3TXR1cm1CM1c1TDFlNS04dERfNmM1eFlHU0pSNTVJVWNpSmVtVkp5VGFHVFNfdFBkTDlhdzJ2a3RjVGFRQS11bGMw",
     "title": "Pedestrian killed in crash on Route 44 in Raynham - WPRI.com",
     "published": "2026-10-06T14:12:50+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnJoN3FDdEh6bVduNEUzdE8wcHJNQ1dialRibVRkYjdFU01SVEVpRDQzd0dXOW05ZlB3ejZZcWJtZGh0THVsNDJRek1EUTZXVVIxT0J1eUFzbFhrVGhFU3YyOVNpS1pPcWV0T202Rm9wRDFwOWgxQzJMUHFpWlJYUnFZV0NkVmZZY2pMZWlONi1uUnF5NDVGcC1mUW1rUG5Wd3MwMFU5UUs2Z9IBqgFBVV95cUxORnJoN3FDdEh6bVduNEUzdE8wcHJNQ1dialRibVRkYjdFU01SVEVpRDQzd0dXOW05ZlB3ejZZcWJtZGh0THVsNDJRek1EUTZXVVIxT0J1eUFzbFhrVGhFU3YyOVNpS1pPcWV0T202Rm9wRDFwOWgxQzJMUHFpWlJYUnFZV0NkVmZZY2pMZWlONi1uUnF5NDVGcC1mUW1rUG5Wd3MwMFU5UUs2Zw",
     "title": "5-year-old dead, 16-year-old charged after UTV crash - WPTA | 21Alive | Fort Wayne, IN",
     "published": "2026-10-06T02:38:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLW9Ba1Q0Zm1GTHVpZGdUcVg0NUtXTFNsOExYUXAwaVpKN0hyVjhUZnBmM2FLdjlYckl0QW03bjlPOS0tZUxEOGRuYzM4VmJTTlFITVFFNWlQc0xJMDN3TkpkMzZicUZ6R3RKaV9lSUlWYmdMOGhwajY4cjEybEhyaF9CTDZmZERzRmxyT1Y4M3hHbjM0R3U0NVZHRUJ3UzYzMnpWdDhiaklRdFhIVGNiel9yb1pqN2xtZm5tdUpmazlmSkhFbG5F",
     "title": "16-year-old killed after being hit by deputy’s car, sheriff’s department says - WKYT",
     "published": "2026-10-06T03:34:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3BXR2cyTVZTZzF5VG1ZS3otWDFTVWJQVTBkeGtuNmRJekI2Tkh4UlEyUEFsaVQ3VzZxbS1wVWR3RndIVG1sS0R4Zmc5WUQycWNSM1VKM2tNbVg5eEtPbVo2ZFVmVEtYYzJILTBXa0dDeUFTY0pkZGpxVExKV3l5SUgtQ0UtVjJuQ2ZsVnJaVlFPMmw3eE9QUWVDMmtabHJUdGFRQjRiQTbSAa4BQVVfeXFMUEotTkFoeW10UnI4NmVnZzBJUVdlMDhsaVJIVXdxVmpIbzA0eGxDZW9yWUFNUmx1ZjZrbTNjSmRUaWZnZ09Wb0lfSGV4eHB4WGZRNFlTdE9zbHBwM241bGplMkVpeVpqNF9ldkZ2SVRuZWd0WnpEZ1RGcndmbEsycGE4dVdDRENTRjVHbl9kalFDblFzejBQbjVIRi1mbnZfN3NDWDdVQWxGcXQ4LTdR",
     "title": "5-year-old killed, teen charged in Little Compton UTV crash - WPRI.com",
     "published": "2026-10-05T15:43:48+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0JQUVlnOU5XbGdsLXFFcWwtVUQ0VGo5bmpacU9iaHdYYjhIalJ0eExzUDNxUjJIaFc0Vm51QnB6TFdWWFNWcXFGdDdMY1lwekZpb3pjVnB5UUtmdGhoWkp4b1hFYWJsV1J5VVBTbFA0VXV2OVd2S0piS1hGSUdoSGRTMDMxdEFGZ3d5bm5DZExQYms3aFBQM2hkOVVJT2Y4MzBQa2ptcnRIRVpiNUxfbGE4aVEyMHpDMGxfcVhIM0JzdjZ1Y0wzSHRB",
     "title": "Pedestrian struck and killed on Route 44 in Raynham - WJAR",
     "published": "2026-10-06T11:18:48+00:00",
     "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc05jR1BXeVNzZVZVVHZrVWYycFBmbEktdWlESUdtUmVDVnRNOG1SNkFQeUJaMVBHWVBSTW40dlpYcWlVWU43aEFlWUpmZ3A5QWZ5MmtaSHpsdlhMdmw4Tk1TMGo4a0N0TG1HX1FEUXExYnZLY3ZUa2JobENwRlk1dG5ZWlpsb1lYN09vSC13RU5mQzlJM0FucVJ4RmZudw",
     "title": "81-year-old bicyclist injured in hit-and-run crash in north Lincoln, police say - Lincoln Journal Star",
     "published": "2026-10-05T18:30:00+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb2t2NzFKNlUzdEJraUJDdDBrRTBELUhBOVZyanFiRHR1VmhuQm9zVm5PNDVFV1Z3MUI2QWdUNk5QRXlFRTduQ2RqUWxPQ3p4RGs4QTE0NVo2TVMwekh5TTdzMkFRZkVEYWZ4MFYzd3VicFh4ejlZTy1pblJZNGVxbnNNTmVTQXdzUWhUcFQ4cnhyTlhxNlVKZ25NeHl4UkFSaGhXWEtib0JDTThkR0VhdlA1UmZROXBXNHBrM0pXYkFrb1VrdVc5NWhZRkM",
+    "title": "Chipotle worker, 18, struck and killed on Route 44 in Raynham, company confirms - WLNE-TV (ABC6)",
+    "published": "2026-10-06T23:19:07+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2tET21iNWZPZ3RIRzVTeTcwVU13eVFOdlU5Q2NxYy1USUJGRUZvZ2lvQUhsenUxTlh0Q24wcTNJZHBVTkNwMWZ2eEhvSXhUMzQ2QVF4OFpvQW1CN21UOGdTV28ycmRTM01PN2xFS3VWTFlQSlBMYXpra004UnFSQ1RhQWhHV01NSzZocnotdVExbDM1SjRUVG13",
+    "title": "5-year-old killed in UTV crash, teen charged - KSLA",
+    "published": "2026-10-06T02:24:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaXFqemtqR0RGVTVraHdudjh3T1RzZG1CTVpUNlJ1Zm5MajRteFd3a2o2LU9uYmt3THp4Wkc3MTdTcGptamNqcllRQ01kOUFHYk90aDRqSHd1QWxPRGR5cm9ZOWpMWE15Tlo3TldpZGxZTmVyU0pUbVEyRnFSaV9GTFpqOTk2dkpUazhXS1RBODI0Z9IBlwFBVV95cUxQdjNhWGZFakc5VzI3MlZWSlJDeTVIU3pDTE1vQTZBVm1MYWhjZWYtQ0xUbUpwOTJEc09OTU5sT1QwLXFmSXdfU0JXYjdSNl8zY3l4emppdm05UFZoSkdzZ1l2X052R3h0ZEdYRUlhSjV3blRZOFJ2QTJVUEtlNFR3WC0ycHBmTHhtNF9yNkI5eUVkelJYTkdB",
+    "title": "Driver killed in Ocean Parkway crash in Brooklyn; Audi driver sought - ABC7 Eyewitness News",
+    "published": "2026-10-05T08:35:54+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZm5LV0xmZkVfTGFCSkZ6d0xsemlXYTVhMF9jajR2THdjTnE1cXV1MDRjeC1Ta2FQT25ZY2VQaUJwZDJKU2ZtbWRzWnRsVlZQc2NGVzBuOHVGZ3pod3pxTXRJYlVnNnluYWVMVUtCWmdEZkNkSUZINl9lV3JwTnNWbUx5eU1OVHFoM1I0Z3JwejdrU0dGMUlEOGxhY3M3aFYyS2dReGlCTTd1eElGbWZ5NWdXZzdGUnZIRTNvc0VSVmhJTjdhcy1DNHdnZFc3S1EtcTFIVGZjVEtBQ1pfcTAzNlFoVQ",
+    "title": "Man accused of Fall River hit and run facing drug and gun charges after alleged struggle with police involving firearm - Fall River Reporter",
+    "published": "2026-10-06T22:46:50+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 1
   }
