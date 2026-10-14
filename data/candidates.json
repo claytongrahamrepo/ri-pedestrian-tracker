@@ -333,7 +333,7 @@
     "title": "6-vehicle crash on Cape Cod highway sends 4 people to hospital - MassLive.com",
     "published": "2026-08-01T19:21:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://www.wpri.com/news/local-news/west-bay/police-shut-down-road-after-car-hits-telephone-pole/",
@@ -872,7 +872,7 @@
     "title": "Tulsa Police say a pedestrian dead after being hit by car near 66th and Lewis - NewsBreak: Local News & Alerts",
     "published": "2026-08-08T18:40:06+00:00",
     "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "url": "https://ca.news.yahoo.com/1-dead-hit-run-fort-221652346.html",
@@ -2744,205 +2744,317 @@
     "attempts": 0
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1ZkSWVzb1IzM2Y1cTBPNTVYZ1VfR05TU3FJb0tQTjVOMFUxMnUtMndQRG0xd2hrMnM0RU5fT1F3WWZoX1FZZGdTLXdwY1l0dzhYbG9tMVI3eWhoWWhQNmE5amJibDRYci12Nk1sR1VycGZPRGZNbTctRzFSSGM3S0Q2cjZLZnRfcHfSAY8BQVVfeXFMT2xBc20wRlhJOURuNk02ZVVBMjYweFJCVnI4MWNFUXBLWG9yUmFxcmhVdnF6SjVxN2pWRFR5M2VqVjdQZko5MF9JM2pZSmRZTENaOG9ucWMzX1pnY281X1htUTlyOFN1ZzJQSnkxaklRY3hMOVRQZ1BWeVYteXFzUVlDWWJ5QUxjOTM2aFI0OWM",
-    "title": "Texas ranks fifth in nation for pedestrian fatalities - CW33.com",
-    "published": "2026-10-12T14:50:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlJ2RmdNUE8tVWJ3Yi11dWdrSEU0OUFLR1JDRUVuLVRWX3FFV1k0YnUxUmZXZl94U2lEYWZ6LWVuaEZjcklCZjN5aGpnMjlpcTJ3OWE2RzJwOG5FWDBfY09fbzkzYmdBZzlRRERFS3lCRURiWlFHY2hLV2Y0em1OVjhxc255NDdqQUZla2ZIMzhTMV9JQWJjUmRGekdrSTVqNGtqYUVYeVRLcUxmYWF4R0lqMUxadGhHNjNJeTUyMU5sVURnVXJhXzgyTQ",
-    "title": "Pedestrian killed, struck by vehicle in northeast Kansas - KAKE",
-    "published": "2026-10-11T15:01:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGFVMXVkVnM2Yy1xOUY4Vndkb25vMUdBODJTQXR5VUd4TGZaTmZLREdMUG9Ocl9jTEVLTjFIWURtcWVvTXg3UjJ3ODFRN1YyTEhidDRtc3psWGZLZ1YzbzlfM0xnVDhLZTR1azNaMlNKUUliWGRpMXNaYWdsQzQ5d0RfN2lzT0otSXI5TVk1RFdZMXFRN3FsMHgtSjVkUkN3eVhGMU96NmVCaFg0amdabkx6TdIBxwFBVV95cUxOQ05xM09vcU03ZDVHbW1ldkJxYkpVRWxtY05HUTNVLXJCeUNFQ3A3U2E3TG95TldYOWJ2cVpISnFJOUZFWlE3dUFsbVR0a1hXSDg5cWNaV2tJVFZKYlBuLXhkc2hfbm01VEJscXBXb2UwbVNyUENzakZvY0puVWZTSlRzTmhaYXJWUDROY0Z5RFBUOWNodi1icW56T25HcENOZlR2ZHJjZVhrcWhZX1FLWkM3MV9wNTA2TlBPREhCUHBLYTZzRHFN",
-    "title": "Motorcyclist critically injured after crash on I-495 ramp in Mansfield - MassLive.com",
-    "published": "2026-10-11T15:40:00+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjlDa3FFSjBnU0wzbm9QSHhzU0VKd0JqaGtKcjdRQ3JWcTl4TXc4blNWRTFhTjZLY3Rqbkt0LWd3RnlRZUxMRnNTeGZUU0t4cGlDbjFDRnA2RUd6Z25tc0wtZGUzbFVMZjI2NjZQUWYzTlRCdG1la3JnanVOeEQ5WWVhY3ZjVXZHTDBSbVFxOG1KN1NIWmpPY2tjUzJxdFNfdW9OY3R6RVRlSE8zTkc3UDlBYkg5MVhVejl0d2hNYWjSAdQBQVVfeXFMTmN3QWNzdGxKVmEtYXg5TXNVZW52S0xDY1dCSnNuV3JGMkI5cHZVVGZoZ1NiOHQ2SXBLZmlwNTFNQzRvMVBaYVZ4MHl4RXJyc2RWckdRcDhUal84UFB0Y0JWcXNoSEVsT1hDRWxhUlBPN1pFZllZNzNIY2F5Q1lTcnpZWFBzYzM4a1J3WlgtRUl4Qmt6X0k0TF9qZzVHY1ZnZ051S2sxRHVmVUd3ZmpRZzM0QVJsYTRqb2tTT3p4SWVpUkhBa2s4cGprV0NzMDg1dENEY1U",
-    "title": "Motorcyclist hit by car on Fall River bridge after striking State Police cruiser - MassLive.com",
-    "published": "2026-10-11T17:13:00+00:00",
-    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzNVQm9GRHZCdVZwMkpSSXhtU3pJRWc3bHpNdGpOYlFhUFd2U3lqWGZwWF91Z3NudHozcGtRV0pmNF9ud09rQlJRVFBIb2NBcFE3eW9KQTdrRFVCNVZNbmpFb0VLeUJQU0NnQzhqV2RBU1ZqenhGcTZSWGUzMmVjdERCWTMwSE5TbkNBZVlYeDZDNU1fTTNQMWR0bTlybHNTNk4yY29TZXh4N2E1czRHeEw0WmdDYXNfUTgzSlhYWHpBc1RYVDlCLV93WGM",
-    "title": "Parents call for pedestrian safety after son, 6, injured by bicyclist at Scituate Art Fest - WJAR",
-    "published": "2026-10-12T03:08:24+00:00",
-    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUI3U2pjZktKUHlsaUF2TkowbnpDTGNWeGI0OFJFclA5LVRqTWJOUVBXZFU5ak4yY1dwUzJTTHBfTktURTVWdVMzNXdfRGlhUlU4M0tiaVVNN3k3U1NiaTdhcnBRM1F2RTJLcVFGUUJ0TjVoY1FhRGhBbHdLVGt1TlR3bXJEcXdST291UVVhOGNuVVU1X01xaWc0UlFSYWx4b1VCNEI1SFR3VWdLWC05c3MwMS0xaFpzalhKRkdfVGNmN3ZJQ2I5MWNLY1YyOF9OVmJlYW9xOEV5ZHZTeTdfQQ",
-    "title": "Motorcyclist seriously injured in Mansfield crash - The Sun Chronicle",
-    "published": "2026-10-12T00:03:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZGpxTXYxTk0zaWl5RWdyYXMxOUhnSnNwSURlNllKYWxUUDAwaWJxUFVqME5qNl9HNVdtRk9OU3RuaWFDdDVaTEJuYjhiNFBnNlAzS1BQbGdaa0VybjFJS2JYM2V3UDRySFVlWUozQi1HVVlMT3MtZDFhMGd0bDAxUEUzMDd4TWlJb0lHNE9uS2tReGpQOHBqY051NEV5b29iN2FFeVVlN05nQ2NldUh0dV93aHN0MlBQbjRzR2lWcjBFUHRoX2dNVWhEQS0wSklSdTgxMkg1aFBVLVZKRW9uMkF4dHJYTUFjN3dPX2MydUl6RUdwLTBIRHV2TmNKLUNhd2pCUUxwd2lKcE9PeElpdQ",
-    "title": "Braga Bridge reopens after wrong-way motorcycle crash sends rider to hospital - WJAR",
-    "published": "2026-10-11T00:45:07+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOS1wZ1BhVE8zcTdyTjA0ZDU5TlZqdVlDSDZ6RV9Idlp2VkJiQkgyOUJzNHFKcld3S3dxN2hqR3V2b3dvQnFramE4aVlsVk9TQ05TTkJDUXFRNmtxc2RJNEt0aXl6cUtmM0JXQVBPRm9zRGpHQ0lyODdxR1dldGo3Sk9IR2g4b1BwX0NTNG9jSHdPdC1iSkE",
     "title": "Sask. man killed in rollover, 74th fatal crash of 2026 - CTV News",
     "published": "2026-10-13T16:47:00+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXo5NV9fRklVNWpGMlJ2UElUVHYwTWVHWkRJMmtycl9PcWtkU015YW1YMEdmNnc5b1g0REVUVzNJSVpjVnc3NDVvMU1NeHR6YWc2QzNDVnQxUWlhcndFQjNhTDNWclVQYW12TXJJQ1RHTmtlRXZQV0k2Y0NtTjRVNDlpMnBKby1jN3BReEFOajlQMzBRbVNEM3hmeUFlQQ",
     "title": "OPP seek black SUV after Elliot Lake hit-and-run - CTV News",
     "published": "2026-10-12T21:05:51+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlhlTjI5MkNqT1l5Q0FOeHNnc2wyd0JBaHRIUV9peW5qN00zOER6Mnotb3BVMW5jbG5Sa0tEM0dvSk1QT3d3MjBmcWtQNlNTWFItRmRxdnNtWmU3U0xlNFh3Yl9oQVlyclA1cWYxMDVtSEdxWDIxZDNDWTRueDdIZnA5OHpNUFZJUFByc1NSOTRmRE5yUDNobHZ0SXpJUTlDZlAwN0RMU3hjY3M",
     "title": "Woman charged after hit-and-run and police chase in Halifax: police - CTV News",
     "published": "2026-10-12T13:34:07+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczV2MlV4Q2MzV0NXbHRBSjVqRTJsV0xPbHlQWDFtQWFfdmlraUtibndIZTJhUVZvR1RpbHR6NzVZTGR0TWJsUGdYVE54UEhKTkRjLW9YTmhtdHQ0VjRUakI3eTNQMFdDOXhweVB1TzV0VzhOSGRpRXpGT3FQdUxUVF9MNmZhV2F5YTlrWW5wY2NvLUFBaEh2YTFKRjB4bUF3cXBnVA",
     "title": "910 injured and nine people killed in collisions this year: WPS - CTV News",
     "published": "2026-10-13T12:56:50+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmpXVWxfRVFXUGFjMlVjbGg3MFBVdV83RUl0dlRTSzUtNk41eVdoa3BsUVF2WnVHZTRUWWxkMHgwb1RiX0RNaENORGNwRGlrUUxUSmc2NlRNeFJFSFl5d0VybmViMDgxVDc3X0VNbTlnZ3ZFMmFwSWdSbzN2emVXa0x1TTJNWlNwUEI0M05sRWtTSjIzTUpKZi1jMlZoc1lkbHc",
     "title": "Pedestrian recovering in hospital after being hit by vehicle - CTV News",
     "published": "2026-10-13T14:14:33+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0tTemcydVJkMEVrZi01TElsZUxxcVQ2b3FOUTV5YWlhUW43ZmVZbnNFbDBOYjUwdWNVNlkzbVJiaTdmRElLbjFmaGUxS2poMWhIV1JnMkp3ZjM5ak94V3Y1SUdVZk1YSHNvcFFFdkY0bm9xbkxoV1JqWjZwdjJiZU1LR0Z6eGh5dGNQTGhralY3aF9CMlFiNFFvWTdzbW9uUmVmbFpNT0otWFlQTE45amstMDNnY01ZejRPbUxjZDg0WnMtWmV4amRYejZUbXc",
     "title": "Police charge man with impaired driving after single-vehicle collision in Thunder Bay - CTV News",
     "published": "2026-10-13T17:06:14+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTl4UUpiVkJndzlFTzFuVms0WkpsZ1JUcHB1SF9xM1NhbnVtOXNPWjdteTNVaXhONDVnaGpvM1E0Ymh0Q2lzWjl4NGFSNTlzZGtRM3dpSWp3MERBQWZVQkQxcC1lVTVNYmNwMUFzRFZVVU9sdExYYXhRY3NvdHljbG5hZlBEUWpTalFZ",
     "title": "Cambridge resident killed in head-on crash near Delhi - CTV News",
     "published": "2026-10-13T15:12:15+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHpTWG9YakxiSUlMZlBtOUxwQ0dKdEVuc3RFZVh4QUNBMGIxMXVDX2NCUW1rZkJ2bFBIalBxdUNMZzdBalBhWTZpcXNnTDhpYmdDbGdST2dSOWVWTzFhVmtvc19KMVNkRUZ1ZkE5R2N3QnFFdlg5NEdNZm5zMEhjd0F4NmhudFlRd2Z3VTVpb2M1YVhEM1hxOFBzbmlJcWxjRUE",
     "title": "72-year-old motorcycle rider killed in Hwy. 11 crash - CTV News",
     "published": "2026-10-13T11:42:18+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNal9MMEpSTEtZWGVLWG51WXI2Zm8ySkhCODlBNE5ScUswM2VnbkRIUFptZE10OXdvdTdxUnJaVjRSb2xPaTRFVXVSOWN1bzhISlM3QVNLWWhzS0xVV1NtNHd0eGhMUDNacmtiRXRUeFZickQ0ODNHcE9tT3NJV2dVYUdveE40RXQzSUI3X28yTVFSc2s",
     "title": "Collision forces closure along major Barrie street - CTV News",
     "published": "2026-10-13T16:28:48+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3BkNUxmaUYyRFFRQUxsTGJxejY3bklib2xRN1lSS3NybjdPaEFHV1VXSEpuWUZyVlFqT1dVUUtOYzdjY3hRVFM1M254NTBoNm50YTh1WGV1VWpPZWdkNnNCMHphdmVjM2RqRnNpMkk3THBYNF9qeDFqX3lpam1sNUwwQUhFU0tTa2J4aHVWRllxVFpkdXhTT3ZBaEN4QUNWOFB4UmJKdHQ2TUpxSk1mMQ",
     "title": "Man dead after being struck by vehicle near Moncton: RCMP - CTV News",
     "published": "2026-10-11T15:14:09+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNYkhJMGU2a2x6bVgzN29DNklxOGVad0NqR0QwY19OeVZmLWw2Z1gwakZNYkFFQkh0Q1Y5ZVVLbUhJR3I1cmdMYW4wMV9EYTdITkVfWkRwY2xpRGR5NUE2ZTRkc1dHXzhtNV92X1M2RENHcjB2Z2pWN1h3MkQxVFU2YWE0LWVxOENmbHdFaWdONzlzWWx6VkdySEtLS0hBMF9wbC1tMzVWeWFFR3JfNmV0cC03cHdsdW1aUzhWb2dzcVBLaFY1eWpFU255eGxKdEYxXzU2dnZyLU00Sk1DSmhrLVA5MjJwaEp1bFplYXpFZ0lOU3B0dERTTlhyOXVSYlVuS0RZcW93TDVsMUFmTGpzWXhqYURXQQ",
     "title": "At least 15 motorcyclists killed in Rhode Island, Bristol County crashes since May - WLNE-TV (ABC6)",
     "published": "2026-10-12T21:57:31+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNE1uY252SWhRV0pEREJTNHQ0NnhydmhFUEJRWV9jbEQxV2tMU0x3MXFZYlZYZXpna29OUm9JLU5iaUI4UWlJUkp4dV92OXlHbTc2ektPbUkzeGpmZHlZbjd5MkxmVUdrVndfNlRkZGdvclJjMThxMGF0eGh1WkdLMzZMSkN2VDRPVnVfaHViREZPbXFZdnhuX3hHVWNXdVd6WUpoRmc0ZkdLWmtoejJhekRpUDhZdDFRdEZiUTdaR19RRUlacm5jdXdWN3UtdmZxS2c",
     "title": "Fennimore man arrested after crashing at end of chase - Channel 3000",
     "published": "2026-10-12T12:15:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNl9sRHBtRFZxdjBQNVExRmdhVzhUeTVzbjNKNEN0S0hYdXNhVERpWHQtVnVVVlRscW9tR1lSXzhTbkJRUlRPWUlvVDJZR0dzb3NteFNHbV96c2N1RGNxd0lLdzFDUndTWWNsRTlRM1FUTTZ6SDNyZHZLZEY1Q0k0ZHU5UUQ1OUtnTW0tcGJQZFM3d3EtdXRmVlJjSXFyQ1YxYlU2YjltMHlfLWlkQXM0YUhBUThTRjRMZXBxaGhDTW9DZ2RRWUthbHFXbjRldnpWdDRv",
     "title": "Major French supermarket chains hit by cyberattack, causing refrigerators to shoot up in temperature - CTV News",
     "published": "2026-10-13T15:49:07+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON3dlN09DcVlVTlVZeGdxX1F6eGliQnRuVm1uNkdSY0libzQtTGFwbVhhYkhqajNfV09xejZuNEFvdTBnT1hnZ085Wk5hZWF2NzREbFEycGlwMW5tTV9Qb29FOHdFUndEZ2ExdjhfTE44ZjdrOFdTSVBSNm1aMmJuZ1lmd2tXN293X1loWnBMU3lqQlh2bHNYY3lrZFJEQjVJOW5zMlFiZy1MaGY2S20zSmxOY1JCSHNFWFZncE5ydmtsZE9mMFBoNGRYallNTnZHR3Jkeg",
     "title": "Motorcycle in Sudbury swerved across the road, blew red light, crashed into another vehicle - CTV News",
     "published": "2026-10-13T14:56:02+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbktkRm9ZVXNFTDJlWWRmUkdjOEZnQ0pXOHdmQU5pajl4UDRQaWtZOWdLQUs2Ym1LaUt4ZEJMbmZmV1REUU1fLXNnOHFBUW5WaENJa1VSVTZUUWtlZDhMU0JFcVVveHhNVktwSTI4emhiYVdLUklHM3pGRGMzRFNZRnczR0FsVHpobWctV1NaR3ZDdVZ3SzJkVlhlRmFEOGlpcllZTw",
     "title": "Four taken to hospital following Woolwich Township collision - CTV News",
     "published": "2026-10-12T15:40:53+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjF0X25KS0pxWHBKb1V6RXc0bDJOMVNLLW9SQi1zYjFSaHYxSXlSWnZXZzRHTElocHFWSDRQRnlQZW1BTmE5QWpKVGNhN0lhXzJVY05sWWZEOEZRNnB5MU5xUWZudWR2THdiQ1JmUkVuNWhWZFZfeW1oY1dZeS1CSWp0Z3RFdjZLQTduTW4waUxFcUJhZXFiSVQ3ZkxSdVpVS3poY3ZR",
     "title": "Woman in her 70s critically injured, air lifted after collision in Orillia - CTV News",
     "published": "2026-10-13T10:56:08+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkRiWUdzeHh2T0U0TFhYSGNHMGs1cjJUQ3BNZ1M3WHVES1BONlpOTVA1MGFHMHcyNkVHd25NX0Ruc01WcVRXUlR6dllTMVNjWWJscXgyVXZfbmFRYVVuQW56UGl2SHJneUVqN0NFRkFLSm45eG1YeUVEYlBpQndkMnRMRmZMZFNuYTBPX3FORlVoc2NaRm02MFpONEtlV1g4bFE",
     "title": "Saanich police seek witnesses after fatal motorcycle crash - CTV News",
     "published": "2026-10-10T22:30:59+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDZHal9tNVI5QjhxR0lTR1hiY0ctbWwtYVUxOXpzdXpuT2hwSVcxcHRGU3BqQXB2ZTZwMTJlTUN0UUZncVhNUkdpdGkyVlVzaEdpSEZiQ2NOTTc4RWN3LVYzMGJ4RWxpaEd6WXB3bGZiSWl2TjIxSXNielRDSUV6VnVCNmtwbFNEVnJFWnBmQ0ttQ05kUFVWaEtEVEtTcTYxQm13SEY3OXhOVDA",
     "title": "Ottawa police seeking witnesses to fatal motorcycle crash in Orléans - CTV News",
     "published": "2026-10-11T20:38:20+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOU5vOU5xZVV5cVdHRXFUeEFhUGhvV1NWeXJQUmk4OFNKRFN1UVpHNV90M19QRnBPYjdoWkI5OHZBZFc2TmhCRGV0Wlk2VnpUYVBUQW8yNWlTZUNGVXVxekFvRXc3cGc0ZE40dldlelNSb3o3dVczNGdhekdJYjd5Uk1xRjJnOEJscUJtVzJVdmZGWjlSTGcwZGlTbXNCeVRFMGF6dTkwT2JoMk1KRWxXdktoT0kyRW1VSmlVbS1MNjhkM2Z3RHlnbG1wWlZpMWNocnQwTERFbUFkQQ",
     "title": "Belleville man charged in fatal hit-and-run - New Jersey Hills Media Group",
     "published": "2026-10-13T04:00:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEkxeW1XUVhuUEdfQTdObldUa0Z4M3d1Y2xvdXhrRG5TeEVwV1hDcEFUTUZ6UzlWRHYzT05pZFpVWEwtUHV0UVBXSzU4dVI1M3M2azBVWVRBNDFUV3ZSOS1QZmdKUm5reUNQNE93aGRYYnZtVFB3TEh4VWEwZlRqS01yMGlTYmhheTEzYkxzVnBQVGRMZHFxTWpCcHFBNi1Kb01jRQ",
     "title": "Passengers ‘trapped’ in car following serious collision south Barrie - CTV News",
     "published": "2026-10-13T11:50:05+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNks5enBQZ09mV2tXNDBaYmJlQlBYWEp1aUxyQ1ZHN2RCZWVCY182QmsxajZsNlFXRzhpbDJsNDE4ZWh4RlNsVUtDYlRHY2F1SFMwbkNPU0FBQTR4bWRUSmRvaHJYMl9QSHNmZHdkeHB2Yzh1a0Z2V1RQcDVnd1JTOGl0MlptVmF1U2R1bGMxNWNTdUthbXpZNTloZDlVM0nSAaQBQVVfeXFMTzRXZ1lOSUZsTVNHcFo5TmV1WFBBcVVuZDVYam1tN1l5bDhmRkMxMk90TU1YajBob2RIaGVWSkRJek4tWFlnakRZc3ZTVW9iR0xvdFpleXdLS0FpQzQxYTlrQlNPWE1xaWZja0J2RVVVSjd2dGN0UE1FSG4zd3l4eHpYT0Z0Z2RsREFyVUVSbGJzVXhiSXFpUjBYdEV0dVliZHNZQzI",
     "title": "Bicyclist killed in ambulance collision on Staten Island, officials say - ABC7 New York",
     "published": "2026-10-13T09:58:49+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2ZaQWt2QW9LdXViTXBEYjU5NE0tZklaYnBCcXlmalE5SXVNREx0RkNFMU84MzFyMEFueWpCYkZtMlB1WGN2aUsxUjdkbVo4d2tUWVJ0SFFKUXBqdG9sMG9NSVM4aktqUDk1X3RIVFJHcmx0Z3lUdHNKUTFSdzB6Zm8xeVZMNlZqWkdHZUNn",
     "title": "Motorcyclist struck after abandoning bike on bridge along I-195 - WCVB",
     "published": "2026-10-10T22:16:00+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVTB1VWJ5MGVoZG82T3Z0MnY4Y21FdnJ4MnFyajNzTWx5eWhCWG5TamVSZ0RRQ3piVkFPc0N3Y1AyeWJCZmd5UHJpSnc2eFp3SzBYMy1qRDZ6UkFZWmNqTWtwSVJfbXpneEl5VlB5c3pHMS1WOEF6eE5OWTNZc3J6eEpfd2NKZ2NyMGh6TE9Ha1JrUXBzWFZHZGRXcVBwbmc1QnBKVw",
+    "title": "Person struck while crossing street near Providence Place mall - WLNE-TV (ABC6)",
+    "published": "2026-10-13T10:24:41+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM1ZJZEMydkJWbk9mVTlHRGw1MEF4TGxWeFYzdXhmbm9WQU5aMHpzdXZqaVc2LXNVMk9Na3VkR0hGX0NXUjhCelV1Ul9aNzZMUnVBQ25Jall4YlZ5SFJQS1JleGJxSmJ6MGNqWTZFc0ZaWXBZQV9rQ1dqQU94Z01KUDFjOVdTa3hmcVd0bw",
+    "title": "Strandherd Drive: Pedestrian dies after being struck by a vehicle in Barrhaven - CTV News",
+    "published": "2026-10-14T11:24:12+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkVYdzhfOVpaQzRMZUhqLXA1ZDZxcUNyNURrcFJOLVdtSkhFMXlTMlNUU1pxdHpseVd1Qmhvd1FpRmgyQjl2SGwzbVpXNVBDVUZFalgzbEFQdEpSaE9aZE1PYnJFaGUySFEyc2RvbDhkR2d5bTdjT1dHZzNJYVpoXzlHaGZzXzNHemlxa1FOT19EVWVGNk9LSDVwWmdybXNvMGhSeHdn",
+    "title": "Police in Sudbury investigating two serious collisions - CTV News",
+    "published": "2026-10-14T12:30:37+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX1NLWE9WRElvZ2JkUUpKZ2taSFpkclowa3lIM0NBaUxta2FDY1N4M2hzaDQwT1FiSDd3QUFUOWI4WDNhNFYxSEZMcEdMZk9IMjN2ajhpeENQSmZGZFZLaU9CM3BCTjk4SjhuV3hudGh0Z2N2WFFBZlF2c1dEY0Z0VlJYWk1xMzJ5VVE0S0hQX0tnUWtkWFdHSmxlQkZKU253NUgxMnA1bmg",
+    "title": "LaSalle police issue charges, cautions following e-bike complaints - CTV News",
+    "published": "2026-10-14T12:50:50+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1ZTLWFoSXdlZzk4bUY2UkNIZGsxM2FEVjJpaXdVVFVwakRMd0ZITEdWR3MtXzlpVnk2b2p2UUVNcHBhWS1zMWlET2xZc0NJME1YQ3h5OW43bWdrVXFHUEVMUDZDZU5VSGl1eGxYNnNndERjRXRmQ0tSRFc0UV9HWFBRYm5zT3NFSEltY0xlSDFpOHoxZXFF",
+    "title": "Nepean man killed in ATV collision in eastern Ontario - CTV News",
+    "published": "2026-10-14T12:35:28+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXFfZVZjak12UVB0Nkx6RXY4RUxEQnB0ak5fYjBWOFhDb0RvNG9tMzVVUWJSb2EyenVlX01ySHhJSXNNd1EtUEt4MGtuUjhGekNSZ1AtRGtzWFZJY2JzQ0NXQURxMi1VeWFIYnM0RUlxQjJxVnI4R2NkSkVVUHBOUGswMVlTTVBGNktfNWVtZw",
+    "title": "Highway 21 reopens after collision in Kincardine - CTV News",
+    "published": "2026-10-13T23:07:47+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFhkT09NRFFJSXp3Rm5TdjRPYm15QmR0eVpiczVSeGRobGJIZnprd0pwNzVHVUxQS0FFN1JSamlfZS0zcVZQN3EtV29hNk41ODU4OVlWOWRIN1pReDhpU2tKMUFLSWhxT2NTV3hfZmVUcS1MZ214S3BoYTE1M1VLZFlQTFZleHZoSkEyeXpNVG5sMXM2aDEwcjE4eWY2cnE0MHc",
+    "title": "OPP seek public’s help after Elliot Lake hit-and-run - CTV News",
+    "published": "2026-10-12T21:11:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkgySGpGT3R4SmJKVEk1NTRoX21ramY3RGxmTnJ6bXJUbG9Bdm5NaFJDZXByMkxnREF0RkF4SFdFOFN0YkxfY3h5cHhyM0RGZWtFd21yeFRFRF8xUkRoSGFseHAybWFQWEhJS3lvdVFKUl9DdExxN0NLSU0xT1hCQlQyTElBbHd6TDlBeS1CRjRvaXlpZ0hhOGpPV3JhVE5va09R",
+    "title": "Rollover collision in south Barrie causes infrastructure damage - CTV News",
+    "published": "2026-10-14T12:23:25+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODVCa2c3R2Y3cEZLVXA2dTl3MXR3dHRjYzZ2MDBMREpweS1OeVZDMWlGTGJYMU9sWi12dHNmOUNzdzBnbThrUUc5X1hoTGdBUjhjSHB5SGlOS1pPR3RUeGNIZDNKTkVoU2paOE9pVksyTkFkczJPanRaZlF6cUVtX3JBRUR4ZTR0eFFSd0VUakVWMEVN",
+    "title": "Fatal crash on Highway 401 near London - CTV News",
+    "published": "2026-10-14T03:24:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdER3WUxWRTV5WW5LLU1QVFp2RDhsLUltQWFuYTBWWXB4ZEhTZUljeG44WUhIenA0UUgyYWswR3dtRGFpOUVHVGFKUEZVaW1Qckl4WW5zWDRjRGJXQUlqc3ZvUzdrRVBuTFgwQXlxcl9BNl9sYXJQY3RONm9fTmR6b0RLRFRSQXF1UWk3cHZiRE9NTVBnc2twUjZrWTdFb1pXVGJOc3A5aThSVnE2Q0FzSGlTcXRjOGxFNnVqdjhSSHJyYVV4eUpRWE9GXzRDZw",
+    "title": "Plane crashes during test flight in Richland County - Channel 3000",
+    "published": "2026-10-13T17:56:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1BocWdERHIwQzhPNklUenNtcGh6Qkw5VWF0RERQcDh5VERxX1MtX05wLU91TWl4UGJRQktOdlFMd3ozcjRNNWhXYXJzVlNSRWZveW51NmIwdmU3cHRRMWVPd292SDU3WUtSUzJ4TlZhakkzcVYxV1VhU181Um5HQkxCbjhndWtCM1owbkxBNFk4cXZldmZ1c2NyT3Y",
+    "title": "Paxton man indicted in connection with deaths of father and daughter in fiery North Reading crash - The Boston Globe",
+    "published": "2026-10-13T21:25:28+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2poUWstTkMyT2p6dFdFTUxfZExEbXVHMGlyUkEyUTd0eDlfYjVrRkhDZy1mbk03T3puaVVya05kcS1NZjV1bWwyaFBWZGp2T1drQnc5TlJNMXJDZXgxc29rUHRnYXV3WndJRm9WY0k1MUlvekJCdFdWUGtzZllqRVV3Umx5SGhaaC1UZnF6NGxzb3R6bGNoVmNMandhVTh3TFh3NzV1cXo5bGw0YTdVNXNfelQwakR3U1N3YndCdjBnaDA",
+    "title": "Pedestrian killed at C.R. 4 and Cassopolis - The Elkhart Truth",
+    "published": "2026-10-13T08:30:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0ZVSDhtTFJOUnJHNWNkeDZiS1FTZWQ1RGlVUFR5aEFubjI0dUxkZW1zSjMySlFZYzRwT1FtSV9qZldUQTRwU05DSWVuc2lteFJWcmF4RmVGMzlYZ3pwXzdXRnhEWVdJV1VoTGZKZXBIdjBuYmJ6RlRvN014TGxNdXZra3haVnp3RjdEQUlhOVpsbnZvU1pCRm43dThuLVZnbWllc0tFQllTWElQVTk2SUlOVzU4LXdBc0tYNWVnLVh5YVFwa1QzVTRmdEJPdw",
+    "title": "Man Killed in Crash South of Watertown Identified - mykxlg.com",
+    "published": "2026-10-12T12:39:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU1qcVBNX0g3aVlVVkFUNkdqeDQwWVZ3cDQwUVI5eDF5MnlYRDl2S0psTmc2N0QxSUswWFNISG1xTUZWSS01bDl0U0ZQWDB6V0NJTkQzOXhJamwtVXBtaG1aWmFPajEybWQwMlJyRlRkMGhmcGZ0REVFVllSYjYtTjZ0YzIxMkR6bXh5X3FMU2xnYWxpTEtNS3oxR2toX2prRHZHbUNoNkpxUXVBLURGN3IwUjFhRlpOQ0txR3prdDFoUFU",
+    "title": "SiRT investigating car crash in Dartmouth, N.S., after man seriously injured - CTV News",
+    "published": "2026-10-13T17:36:32+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlBhYmVyN0I3X2ZmclJtaVRqalI3TXFDRTE0ZmFqZlY2VVZ2VmlaTnRpUHpmU2N3RDhNamt0LXA0aXBGbDR0NTlhSWZJUWlJTUgyd19fVWtPaDd1NEFaRXpkdXFFQVo2YUFOWTRDRDE0Z3dwZFNpaFRCN3NNNk5xcHdqQ0E1NUo4b0czZjlxZnIzZVVEbDRqaGRleEVEUmtXalNvaXViXzhMaUpNWFl3NDhfSU9ySDh6N0VoQ2NDenVSNHhDem0w",
+    "title": "Police search for suspect after hit-and-run near MacKay Bridge in Dartmouth - CTV News",
+    "published": "2026-10-11T20:43:31+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT1A2RjViMW9jaFFGUVdzWW5CVGlNZkVjcVFFazBoc3l4ZzlORGtWVW1yQzZpRjJqTEE1YTNVTzNhLU93Vm5KWklySDFJNTBvR0RTdFRBUW4xVnZ2N3RJOW14bDZLMnRlcVFJOU9LRVlmUWExME1GSDR1Z0ViYm8tZ2VIdkpTQ0JiRTQ0emY5WnBYM20tYUwxZGtjMXFyU00yb096LV9kZ05nY2lGR1Y3RTMyVUhuUHFDekRnbE9zQnU5YkJXc2lWbXczQy14cm5nc1VKRks1QU0xckpSaEE",
+    "title": "Coroner identifies local man killed in Highway 30 crash near Lava Hot Springs - NewsBreak: Local News & Alerts",
+    "published": "2026-10-13T15:53:16+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLVN0c01IZk5tcXhWeHBKOEJya0FiTkVGYTNkMnM5cUd3bHNEUmV1QWl6TUYtVkd4VUs4YXNUd1ZSM3ROSFc5dlFnUjlWOFVtQU90SjdxMEZzWjRoRjBlakhaeFVVZEtyRzJGN1FQdGd5Mzh0cmtyeldQSm5HdE1LeVVBQVVkTE5rOUpRUmkzaXNRaVdXN2x0c25IOEZ6YVpUSDZ3eUFtUGEtN0RMYkJpY1FkWVZSdUkxd0ZZOGxORy13S0dMZU84Q3BxTnBubzZTUHhKM3dR",
+    "title": "Woman sentenced for hitting, killing SLO cyclist while driving drunk - NewsBreak: Local News & Alerts",
+    "published": "2026-10-13T20:11:05+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTl8yVFlSYUJCVHlSeFZHbmNpWWdqZ054UzdEUjRETjEtNEF2V2RXd2c2ZFVTekpJOEZpQU8wS216OWN5WklIVFVFM2pUazRuTHVMeVlLbzZsa01BLTJ1aTlTTkwxXzMwZWx4clZvZGppVnNJUF9TWXlyajVMNm5OUFU3WVRhNVZDandEaGMwVEtKSzJ6elo4NDQ1NWUtazQ3REtXMGM3d1hnNGtuc0R6Mk5PUDlmUXVHWjFwb08tWUFrS0tJSG0wT1hWY3ZYbHFxanJLRkdGU2ktTDJfWGZjYU1EMTVEU2RFd19WUjIxZVdnOUJkWmh2MGx5SDdKUTN2OVRMZEZ0R2tfN0E",
+    "title": "Hall Of Fame Coach Trask Seriously Injured In Hit And Run, Search For Suspect Underway - Caledonian Record",
+    "published": "2026-10-12T22:30:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaUN1Y1U2VS1EYzRVdHRMM0g0MG1JTzFGVG91d0RfcnNXcWdRVE5aanVYU0ZvSHJXVENuS20zZm5CWjJjWUxJNTlQaXVLYWxLTUpsOGpwS19BQVJvNEp6Y0JnbVNNb3BFT1FZSW5lbWFIU2NTWjdSYVNVX2hVUWtoUVIxZFpmRnZsSmNuODRPUUt5ZnlI",
+    "title": "Driver killed in head-on crash near Delhi - CTV News",
+    "published": "2026-10-13T15:12:15+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcTJSOW9kOXY1c3RMTHVvVHBpbXBjNC1VOEhmY3ZBRUZwdXMzbFEwR1ROWGUyUDlhVEZERGpTRHB6elhGdjUweWJhZVFTUDRtbEVCOTl3Zk9NSmVtaEktQnJWcVQ1S0NhaUVUT2VPVmp3dE1BTGNoaU9xdEVGenFVSGI3MER5MUxFLWhMUXNqMWtxenZ5NFVFUDJHVmpGVHgyQWVIbXpmanl3WXB2WVNoX2lQMldURENsY3lVTlJJSE40Z09LUndUUjBjS2RuSHozS3Jv",
+    "title": "Iran-backed Houthis struck Saudi oil giant Aramco’s executive offices, officials say - CTV News",
+    "published": "2026-10-14T10:09:38+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWZ4Mks4Qm1VZlA2SmI0b0V5dkhjdm1kZ21CdWlsXzJsaXNrUkhhcFN0TVVWMWFxVHVQNFYtY1NtSGxibGZicTFEcVFPNDdJYW41aGduaEN4Rk0xRHhKTExYYUVZZTJRVGVzN1R5SFVleTBMUnpvS0NST3AxTk00N2VpV05wYWlwSHFORUZMLVBRbDM5Y3ZuUXJR",
+    "title": "Person struck while crossing street near Providence Place mall - WJAR",
+    "published": "2026-10-13T02:57:31+00:00",
+    "source": "google-news:pedestrian (struck OR hit OR killed OR injured) (\"Providence, RI\" OR \"Cranston, RI\" OR \"Warwick, RI\" OR \"Pawtucket, RI\" OR \"Woonsocket, RI\" OR \"Newport, RI\" OR \"East Providence, RI\")",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSGNqaV8yazFBRmlBWHdhR1NLOWowSHFXb3RJMWpLYVpVU3NPY0U3NjZ3RmdVOVV3dDFFLXBBZFpWeFVwWmN5MzZZaWlEa0ZacGpZSFZiY2pPY3EyUkU4TjU0WmZIaFVlMlZTeEttTXFlVS1WUzdFNzJiTDNfWk91YXE2MjVZQVdLRVlucm81RXdURXV0bW9yaGdFMnBkZkxTYlVYWVlPWlFSamtMdTdma3RibThDbzJXNGdoazhWeW1LZy0zTTkyM0x6UEs0RVJHcWwwWGplNk5pU3RlNUdUbmh0bHNLcFVJcEVhX08zYnJhQ25lWFBSZ2JZZHQ",
+    "title": "Man charged in Middletown crash that killed child was previously arrested in hit-and-run - WJAR",
+    "published": "2026-10-13T21:13:39+00:00",
+    "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV0t2QjlJZXM4U01EQ28tYi1vb25WLWlvTVdXZnVGM3MtXzZTX3JQcWVOSElCaTljaTdIMUFSc1ZJRG9scU9TY3dNUk85NkF6blZlZW1tNG5ZbnFiTVZqM3Eydm5LRUtMOTVHaWFwMHVYb2VNVFZxeE9YbXh2bWZyVzFBem5ZSEppYkJuVm9jclljaWZuNFU2ZG1VVzlyXzZuMVpsOUFGYWxDdDJxRmROMHc1a016Q1BNd3dvWkdRb3h5dWl4eHJhWEozNlZ6WTFvaDBzUzJ3",
+    "title": "1 hospitalized after scooter crash in Taunton - WLNE-TV (ABC6)",
+    "published": "2026-10-13T22:58:20+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
     "attempts": 1
   }
