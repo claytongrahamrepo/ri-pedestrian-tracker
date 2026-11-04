@@ -2415,52 +2415,66 @@
     "attempts": 0
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlRVQjRpcGN4ZTVyVTRpZnhCTXJ4QWVEcm1zaVk1ZFlqa1NNcE8tSkNGWU1TeDRBTGU3MWhJV0NvaFNMUFgtSnlteGRubzYtVDRRYnVzOFVYVlhKcjZsNWhsMjl4NElsWDF1YTFob09OckkxQ0l1LXdoNDI4MUoxLXpkOVhfTXk1RUR5Mk80eVN2N2o5dWJpQlMzYVdoeE1MX21qUFJFVEtZaEZCRlhpTWVpWEZ5bHZiQXBJTWZ6SjhvNzlXR2VJTTUycnRzSUlwWU55a2Fqd2tBc0E",
-    "title": "Pedestrian Hit and Killed By Mustang on Idaho Highway in Meridian - NewsBreak: Local News & Alerts",
-    "published": "2026-10-30T19:56:11+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEY1RkZjYTJTMVVSVVFhWVpuYlZSdHEwUVJ3cTZKUHk4YVRrMDJXaTFyeFQxZk1NUHQ4S0JiWWpTVkVaNjVFSjkzRHRoeEZkZTF0MDc5Y2sxR0pxTVhoQU5Vd056c2ZRUmZFZFJlTlNVQWdhN1Nxcm9lZkJfdmpPNm41alBrNnpSR2taWEg4cUhkaFZXczVMTEpBWk5RUUNDRVlvOWpzWGJ6UVB0ZkpLMVdlMGtTUnFkVVEzd3d5R0ZJdHllLXBfQnBHSUtESERjX2ZR",
-    "title": "Billings 19-year-old arrested for hitting tree, injuring pedestrian - NewsBreak: Local News & Alerts",
-    "published": "2026-10-31T23:39:40+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHJvMFhyWHBDU1VURUxsY0NNcW1jR3ZoSGdEUk9hWmJlR3J4b2N6MG9HZVZWeUtPdmIycm9KZk9GSzNVY0E2UFNYRG5QV09rQ3JtNHlILWQzX2F4WVNfc2JUTVhGcjNfMVdQMzJiSDVrTFRRaENYOHdJcl9tTGNQakN0X0dHbzduNjFuLVZyYmpLQVJ0QklKb05sdjUxVlh6enZoVDdiYlpobmFZQlA4T0c4cmRxOHNBNmRjOGttN3M3ak55UjRuSC1yRDZ3cXVqdEE",
-    "title": "Clemson student avoids prison in Columbia pedestrian death. Here's what to know - NewsBreak: Local News & Alerts",
-    "published": "2026-10-31T22:54:35+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkFsTmtvT0ZENFo4RGJnVk01WkJ4OFdFVDl0cV9mdVBzSmFvOUExNTRoeThTY3VOclhHRWxwX3lwMXpZdEFhcFRjUTNLc0xZcDl0enI3c2hJLWRiVm9ldGR2dkVvRDBIdlBwaUhaSzZiUVVXcWVKX1dld2pQM0VEaFI1Z3BCUE5RcFYwMGhKa1VKZzJUaHNudGFLTUFCVEMyLTUwUkZzRVFCVmdEWl9BTEJjd084Ym9XbmF5YzhvZw",
-    "title": "Driver, 26, killed after being hit by own vehicle after crash, cops say - NewsBreak: Local News & Alerts",
-    "published": "2026-11-01T15:03:07+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN19DT0lsTlAzNUdRUDdDRGh6aVVTaG9BMUh6QnllMHhDNzFNM19leVJLc2tidERiVkVydkZxWXN4cFFPZkdtbGgtQkFBbnhhWVNnVFVFN19SNzhkcDAtSFNweUhGdTcteHFCaFR0Tk9vUnlYZTZ6UEZrcUxEUWpGVXVyQTV2Z3BPZ09oOWxDRGViSnBkeUk3SHR0MVRVU0NTWFEyeWNSRFpoSkszV0xsbE13WGJQZm44cngyck41MHQ",
-    "title": "Cyclist struck in downtown Ketchum - Idaho Mountain Express Newspaper",
-    "published": "2026-10-30T21:30:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjVUNElId2lDSFQyTnRBUmh0WXo3VW1aaDEzYmY3dm9JX05FbkNiY2V2YVRldnZOemRHbDh5RlQ3aWQ1UFlKcDNTNFhYMkh0MWIxQnMwang4eUoyWmYyamE1Y2pTMXdIQ1NhSmhkNFpwZU1wNWxqVlJMbnZGLS1UQUJUalhXdkd6Q29BLTE2YjlOdHZOVFFUVkV4X0t2c0ZMS3pXOTVxcWtzc2pxQW0tc0x3QjNjUm5ySUhlTjNaWGNTX2lWSjRmbkJrM0M2MXBtdi1QcENR",
     "title": "O'Fallon woman one of two killed in I-255 crash in St. Clair County - NewsBreak: Local News & Alerts",
     "published": "2026-11-02T15:09:12+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTExcmg2cE00QTlYMXl6S3YxbU1DSTJmSDNMWk9HdkVhQkEwV1lpMXlDS18ybFVsMEZyMW9DcHlVSkpGVTg1Sm5PVkVxdkxpak02S2NvS05tV0hoaUFEdTcwcmFjVW5RRW85WjVRdVpVZ19ZQUlQeDJIU213aFlfOGd2VEZqRFgxY1NkRjVEdnVqTTVzekY3TnhnenJzUEZIV2pvczFvRzB3NFJiampGamQ1Vktkd3lWcFI3RDdn",
     "title": "Woman dead after two-vehicle crash in Town of Lockport - NewsBreak: Local News & Alerts",
     "published": "2026-10-31T19:28:47+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxON3ZxQU9FUUc1VkhTdnJZU1A5ZmIzdFU5ZlJIODhOVGpZdGR3UW93OHBKcnVLNVZFY3g5bDJTTzJ0cXV4UkE1R3Z3NEVhMkEyNTNqY053TjhhbWtsdG9JczBVSnVDcmluS1dBSTlBeDU3OENpMUtFV1FIMnlUQVlObjVuOFh1b20ycVVIdEdrV09mQk13cFJRbkc3d0lKTG16eERVZXZfWnVVVzUtRzlmczEyZktmcE5FZEJWdFNmbE56N0ZmWEl2aW1uQjJ6Mi1uS3c2N2ZZYVVEZlVuQkxrdlVyWWk0ZXNraGNES29zTFlPa1B1UExjMGtVZW5DNDdUU2F3TUNYRVNDRlhMQ2lfM1lIa3NfN2U2T1lqcUlPUm95bEdCd0ZDSEtVTmp4aGVWWnZKRjlsTVpYdzZ1QzlqN01YM2NuSVRIdGx0azJ0cHpMWVAzMHNlMGRyTlgzcVFMcHlWUmFCYlFSUU9fRENIN2l3c0dLTlJMY0hpT2E3OUVsRnVLNlp4Y0VQNA",
+    "title": "1-year-old child killed after crawling into roadway while family doing yardwork: troopers - WCIV",
+    "published": "2026-11-03T23:37:05+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVXEtUTd3MndMaGJQSS1vb1hsQnY5NWJiVVQ1RV9CbjhuVm1JcjlSdlRiY1hDRHJjcnYtRVVVN2VwYm1zUXlmYTVNeW5DRklhU1N3SWxfUG1lZS1LUDNtMVk3RnhLaW5tYVFzcWFPTXQxblAwVTd6WWMxQjNNdG1OWEFLb19DLVJqcmxKRDNkZHN0dFMtemRMRjRfZmxGZlk1WF8yQlhzNUY1ZTkwUzA4bng1MXdOaEgtdVN1QkZjNUxzOV9ZNlE5b29XWWFQVjVYZG1lRXRCbFFDa2hiZ1hJdG9FWFQ3cTJpX1FjUFg2bmVDdjdGa2dmZ2szbGxyMzFHYWtWOFd4NDFrU3BfV0JEaU9KQlBNR1MyUUc5NnltVTl4N3YwS2RIS0JXUGlqbzdoZnhuaURHaUs",
+    "title": "5 beers, 94 mph: Drunk driver sentenced for crash that killed 71-year-old Maryland woman - WPBN",
+    "published": "2026-11-02T19:27:33+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmJvOW80UUMwQ2VYUk44NmtEUnExbFVEUlo4N2pFS3d2bUJCMlFKcGNFTWQ2OFNxOG40X1dBWVpqcDE5NU9oeHZHakk1Mk9xVWs2SDU2dU45NUJJWHNGOUZ3dThMbkdmSGFBQ0FUM2I3UjltVFh1eUFsQUdab0pFUVZBVGJmTkFnaVE4R2dIaFQzaEtFaUY3ZUV3NDg",
+    "title": "CT man seriously injured in Brooklyn motorcycle crash, police say - Norwalk Hour",
+    "published": "2026-11-04T17:20:24+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3F4XzVtZnZITk1EZXdFeUZueWc0TlkyOFVmWVlNUVlJUk82aXFXSTVSZDlKU0dSTHc3U0stRVR1akZOVDM4VXlXM0VaTWZ6SkgtXzJhWnJvX013LVk0d3FFR0dWRnNDS2FneURzMkgtYU1nd204dkJySUs2dXdzaFJPbDUtNEpMZE9j",
+    "title": "Blood drive honors life of man killed in crash - WPRI.com",
+    "published": "2026-11-04T02:47:38+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONTEtN09XbmFfUUs4STRJQmE5c0RIUlZ4ZDZQbVBjMDU1ZWRuTkxrY1pBa3NVM0w3RWFwWGt4d2hsdEdCVmJZa2gxUTYwTFh3bFI2dHdmTlFwbHFmeWkzR3lyYTI5aUVuYU1LMFk2OVQtMUlxcFBocExxcHZUTV9RYXNBbjZRT2h2b1llWWlHSnZ3YlpISmlxRVZIa1lNekZxM2NGMVo3WWg4dWlWdHJDMVdVR2dieFBNSXVSMDJFcTVCS1ZOUWQtRUxrVVRVeEowN095YUZtdHpwVmprRVE",
+    "title": "Police investigate two separate pedestrian-vehicle collisions - Winnipeg Sun",
+    "published": "2026-11-04T18:14:00+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTjFLVkJEcGgtM0ZJOFBLMnlSODV6dUxmOFRWdkpPRWQ0YXlveEp1QlBUNG5wTTZna2Z6c1RPUDFXcnpwQ3F2aVk5dVRQQjJwSVZ5S3FEYzNuekZKcVdiUzI1WkQ3ZjBxS2pYTW93ZTROOHFiSDl5dmJ4c0RBUkNyM1pjZTZMMmlyYm5vTjJKalpqZVc0Q0dsbXpUMmxma0ltUHZYM09KcTlGdmlBcjI0U2VUWWliVFA0dnRHMzRBWnhSXy1UdUhzOTI0SzdQazVNcmFMOUdEU3F2M1BoY3FfUFh1YTJidldSeGdERXdZRl8xMTJmbEE",
+    "title": "Teen arrested after 18-year-old cyclist killed in Montreal hit and run - Toronto Star",
+    "published": "2026-11-03T23:51:20+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeXNSb1lkYUtIdDZnNzRzdWtHWmRYY0pHWEhKeU9WcGx4X0xyVEFTNEZxcFF5QWhwcE1CN2tFZUdCeHVkaE9ZSV9odDl1SXdwZkRUWE5zS1p2OGs4WU9RUF85UXVzSzJEalBDZUNsZExlWW50NXBoLWg3X1pNM0M0MDZXbGxrME1qckI5aFBOWUQyTkZNeEI4R3BVRjZyZUtSUGd0b0dXQWRRUFRNaEU1aDdndWhtRmJqdjA0M2U2OHRULWx0N0VzWHplVUlUc29DT2NxSlRQci14Nml6",
+    "title": "Bicyclist dies after collision with pickup truck in south Sacramento, CHP says - NewsBreak: Local News & Alerts",
+    "published": "2026-11-03T04:13:26+00:00",
+    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
     "attempts": 1
   }
 ]
