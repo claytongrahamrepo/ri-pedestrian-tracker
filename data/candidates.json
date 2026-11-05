@@ -2415,66 +2415,164 @@
     "attempts": 0
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjVUNElId2lDSFQyTnRBUmh0WXo3VW1aaDEzYmY3dm9JX05FbkNiY2V2YVRldnZOemRHbDh5RlQ3aWQ1UFlKcDNTNFhYMkh0MWIxQnMwang4eUoyWmYyamE1Y2pTMXdIQ1NhSmhkNFpwZU1wNWxqVlJMbnZGLS1UQUJUalhXdkd6Q29BLTE2YjlOdHZOVFFUVkV4X0t2c0ZMS3pXOTVxcWtzc2pxQW0tc0x3QjNjUm5ySUhlTjNaWGNTX2lWSjRmbkJrM0M2MXBtdi1QcENR",
-    "title": "O'Fallon woman one of two killed in I-255 crash in St. Clair County - NewsBreak: Local News & Alerts",
-    "published": "2026-11-02T15:09:12+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTExcmg2cE00QTlYMXl6S3YxbU1DSTJmSDNMWk9HdkVhQkEwV1lpMXlDS18ybFVsMEZyMW9DcHlVSkpGVTg1Sm5PVkVxdkxpak02S2NvS05tV0hoaUFEdTcwcmFjVW5RRW85WjVRdVpVZ19ZQUlQeDJIU213aFlfOGd2VEZqRFgxY1NkRjVEdnVqTTVzekY3TnhnenJzUEZIV2pvczFvRzB3NFJiampGamQ1Vktkd3lWcFI3RDdn",
-    "title": "Woman dead after two-vehicle crash in Town of Lockport - NewsBreak: Local News & Alerts",
-    "published": "2026-10-31T19:28:47+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxON3ZxQU9FUUc1VkhTdnJZU1A5ZmIzdFU5ZlJIODhOVGpZdGR3UW93OHBKcnVLNVZFY3g5bDJTTzJ0cXV4UkE1R3Z3NEVhMkEyNTNqY053TjhhbWtsdG9JczBVSnVDcmluS1dBSTlBeDU3OENpMUtFV1FIMnlUQVlObjVuOFh1b20ycVVIdEdrV09mQk13cFJRbkc3d0lKTG16eERVZXZfWnVVVzUtRzlmczEyZktmcE5FZEJWdFNmbE56N0ZmWEl2aW1uQjJ6Mi1uS3c2N2ZZYVVEZlVuQkxrdlVyWWk0ZXNraGNES29zTFlPa1B1UExjMGtVZW5DNDdUU2F3TUNYRVNDRlhMQ2lfM1lIa3NfN2U2T1lqcUlPUm95bEdCd0ZDSEtVTmp4aGVWWnZKRjlsTVpYdzZ1QzlqN01YM2NuSVRIdGx0azJ0cHpMWVAzMHNlMGRyTlgzcVFMcHlWUmFCYlFSUU9fRENIN2l3c0dLTlJMY0hpT2E3OUVsRnVLNlp4Y0VQNA",
     "title": "1-year-old child killed after crawling into roadway while family doing yardwork: troopers - WCIV",
     "published": "2026-11-03T23:37:05+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVXEtUTd3MndMaGJQSS1vb1hsQnY5NWJiVVQ1RV9CbjhuVm1JcjlSdlRiY1hDRHJjcnYtRVVVN2VwYm1zUXlmYTVNeW5DRklhU1N3SWxfUG1lZS1LUDNtMVk3RnhLaW5tYVFzcWFPTXQxblAwVTd6WWMxQjNNdG1OWEFLb19DLVJqcmxKRDNkZHN0dFMtemRMRjRfZmxGZlk1WF8yQlhzNUY1ZTkwUzA4bng1MXdOaEgtdVN1QkZjNUxzOV9ZNlE5b29XWWFQVjVYZG1lRXRCbFFDa2hiZ1hJdG9FWFQ3cTJpX1FjUFg2bmVDdjdGa2dmZ2szbGxyMzFHYWtWOFd4NDFrU3BfV0JEaU9KQlBNR1MyUUc5NnltVTl4N3YwS2RIS0JXUGlqbzdoZnhuaURHaUs",
     "title": "5 beers, 94 mph: Drunk driver sentenced for crash that killed 71-year-old Maryland woman - WPBN",
     "published": "2026-11-02T19:27:33+00:00",
     "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmJvOW80UUMwQ2VYUk44NmtEUnExbFVEUlo4N2pFS3d2bUJCMlFKcGNFTWQ2OFNxOG40X1dBWVpqcDE5NU9oeHZHakk1Mk9xVWs2SDU2dU45NUJJWHNGOUZ3dThMbkdmSGFBQ0FUM2I3UjltVFh1eUFsQUdab0pFUVZBVGJmTkFnaVE4R2dIaFQzaEtFaUY3ZUV3NDg",
     "title": "CT man seriously injured in Brooklyn motorcycle crash, police say - Norwalk Hour",
     "published": "2026-11-04T17:20:24+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3F4XzVtZnZITk1EZXdFeUZueWc0TlkyOFVmWVlNUVlJUk82aXFXSTVSZDlKU0dSTHc3U0stRVR1akZOVDM4VXlXM0VaTWZ6SkgtXzJhWnJvX013LVk0d3FFR0dWRnNDS2FneURzMkgtYU1nd204dkJySUs2dXdzaFJPbDUtNEpMZE9j",
     "title": "Blood drive honors life of man killed in crash - WPRI.com",
     "published": "2026-11-04T02:47:38+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONTEtN09XbmFfUUs4STRJQmE5c0RIUlZ4ZDZQbVBjMDU1ZWRuTkxrY1pBa3NVM0w3RWFwWGt4d2hsdEdCVmJZa2gxUTYwTFh3bFI2dHdmTlFwbHFmeWkzR3lyYTI5aUVuYU1LMFk2OVQtMUlxcFBocExxcHZUTV9RYXNBbjZRT2h2b1llWWlHSnZ3YlpISmlxRVZIa1lNekZxM2NGMVo3WWg4dWlWdHJDMVdVR2dieFBNSXVSMDJFcTVCS1ZOUWQtRUxrVVRVeEowN095YUZtdHpwVmprRVE",
     "title": "Police investigate two separate pedestrian-vehicle collisions - Winnipeg Sun",
     "published": "2026-11-04T18:14:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTjFLVkJEcGgtM0ZJOFBLMnlSODV6dUxmOFRWdkpPRWQ0YXlveEp1QlBUNG5wTTZna2Z6c1RPUDFXcnpwQ3F2aVk5dVRQQjJwSVZ5S3FEYzNuekZKcVdiUzI1WkQ3ZjBxS2pYTW93ZTROOHFiSDl5dmJ4c0RBUkNyM1pjZTZMMmlyYm5vTjJKalpqZVc0Q0dsbXpUMmxma0ltUHZYM09KcTlGdmlBcjI0U2VUWWliVFA0dnRHMzRBWnhSXy1UdUhzOTI0SzdQazVNcmFMOUdEU3F2M1BoY3FfUFh1YTJidldSeGdERXdZRl8xMTJmbEE",
     "title": "Teen arrested after 18-year-old cyclist killed in Montreal hit and run - Toronto Star",
     "published": "2026-11-03T23:51:20+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeXNSb1lkYUtIdDZnNzRzdWtHWmRYY0pHWEhKeU9WcGx4X0xyVEFTNEZxcFF5QWhwcE1CN2tFZUdCeHVkaE9ZSV9odDl1SXdwZkRUWE5zS1p2OGs4WU9RUF85UXVzSzJEalBDZUNsZExlWW50NXBoLWg3X1pNM0M0MDZXbGxrME1qckI5aFBOWUQyTkZNeEI4R3BVRjZyZUtSUGd0b0dXQWRRUFRNaEU1aDdndWhtRmJqdjA0M2U2OHRULWx0N0VzWHplVUlUc29DT2NxSlRQci14Nml6",
     "title": "Bicyclist dies after collision with pickup truck in south Sacramento, CHP says - NewsBreak: Local News & Alerts",
     "published": "2026-11-03T04:13:26+00:00",
     "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzZ0alJfUk93bl9fMmVKUzZFRURNMEp5Y3NEcW85YVpac2tTNi1HSV9ySTk4YkVqMVBMMnN5dm5RbkJOd3lfc3VXNzQ5dlJqMzd3cmtpMjVobnRmVFR4Mndmb2N4R2xJdDdQREJuNy1leHAyTHhPcHNsODduUXhSaFpaUVV2RzR2RmtwSUtCSU56LWZXa0FobXU0VTJIVDRRX3fSAaoBQVVfeXFMTk5VM1JWNUNSZlBOVmhrRWNLQ0h1Rk50NVBOeGpVQTBJNm43RFlWX0hEOWotX2QxSGN6MGxHQVdRTW1WNlF2XzhPTUFNdTg5aUJBa3NYV1hBSDFMb1k3MUZDZzdpejBQUGowam01RFJTMmdjeVJWN0ZCelMyUjJlU2QwVmhSdEVCT3pwdGczY2VmM1pUV2Z4blduZVBHQS1BRk1YTUU1U3EwZEE",
+    "title": "Pedestrian hit, killed by motorcycle in North Attleborough - NBC Boston",
+    "published": "2026-11-05T14:30:10+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR24xUTBZbVB3Q2N0eWZ6ZEJFQ2xyVGJ5WWY3THJFSFFlNXRqMFdlZDVPYXgzSm1VeUUzWE1HM0huYVZQM1VUMzRjMHpoZWNjSGhMZUp6VndKd1czRVEzUWRaaXl2MEJBTXUwVVJuTU9BcHFEUG94MDBSZFFyU2F5VllxOGtZRWUwTnhHaEM4dVF5Q2FoU3RtUW9mdjgwU0FsMWJsQVB3Y1F2TktZSFhVOE5iaENHNHlJdnphSWNqcm9UU2YwZnB1Tkk4M1ByajhyN25tZWJTd2NGV1ZR0gHwAUFVX3lxTE4yX2NoalJicXBaNlV5QkZTRll2ckdpODFESWhMTF91bDZESzRZa2dvS24tVlBtbU5JUjQzb1o2bW01NUxGcGJmMDFoeEdCSVhkUlJmRDFDMVRnUG5RMndncjRGSUp4emhwWExWREZ4UFRmWEFNeVNYLUxHcXI0T1RjZDlHeGEtaUVIMHUwZEJQWnQyLVluZndRb2h6bEh6RHpRbG1GYmZ3VFVocXY1U1k0bDNHSWk0UkJLZDNLNHVZYmtmcG9VYXM4SFROVWdsZFlOZ2xac3J2bVhKTUxvSGRoVWl1Ul8wT25NZGpIREhvRg",
+    "title": "74-year-old pedestrian dies after being struck by motorcycle in North Attleboro - Boston 25 News",
+    "published": "2026-11-05T15:34:38+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlJGN2tQRk5vd3o3ZGR4alQxcFRLQnlQSVpjdmxPWkVPVUl4amI0VnVRcXlHSm1ZZFdhV051OWlpQVhNYlFuZTJLYkVBR1VnQjJVVlZKM1dTYzFsRjFPUXotRkwyeDdJdGN2OXBPS0V6b0x6Ulc2aDBqWTZvTFRSNHpQNFk3OHBTU3M1MmwzdFp2Qzh1cjl2bVJUVDgyTm9UQWdreUhwS19UbzNrWnEtSUFnb2prNjcxdkg2bE9Icw",
+    "title": "Pedestrian dies after being struck by motorcycle in North Attleborough, Massachusetts - WCVB",
+    "published": "2026-11-05T14:23:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdDh2YmpybHFjODlRQ2ZKczlmMmlKQ1dWWm5GSHZUZWpuMm1DdHRuaHkwZC1mSm5BMHVGRE0zOEJ6dFhoWVM0d0JMei1wQTZXOXZIZlg4blRGTnpsU21iQ2RIRTc0QUVXN0RGNWZTeThZYWllck5Yd1JGVVZiUXIwRENxaWNZd1BIR3djd0IyajE2Z3RRR1o1Q1h1bmU2b1lLeHRHMEpFQVNrRU05OFpRcWxpVUFTbjQ4Z1c4SDF0RGlyZHl4WFVaRTM5bjFHX1lidHQ0RzMxMUprZE8yWHJndkxOMmVsS0N6YWoxRXpDZE43bmxmQjUzZU1rMW5pOG9GNmpLNHROQ2ozdTZkUUdDV19vcEVLWTlaaV9mXw",
+    "title": "Authorities identify pedestrian killed in crash in North Attleborough - WLNE-TV (ABC6)",
+    "published": "2026-11-05T16:37:24+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ191VnZyOHdSWndDc3hNQTQ5YkNFUTBaYUtEUk12Y3lIV2p1SG1SdUxNN0xiRlZTYk5XZVFWZ2xaSFQ4MHJ5YU1LS1JWM3dfaHZpWXZKcXVQUHI1dUQ5M1NiUmwxY3BHTU1fSnB2QzN0Ny0zRDdZdmU2cWlhbE4yU3Z0VFI3Nk9qbWRuQjI4M1pCRmsxd0RxdXdSQnh4ZGd0R0w40gG3AUFVX3lxTE00Q3ZYY3BZUUdsQzdxS1ZKdUF1M3JMUDNQeWhGWHpOVnZyR2YwanVrRmd6YmxtaTZfZDZTV2J6aWtTclp4QTcybFBOWmNCMHZ1bHJKdlctT3d4Ri04ZktNS2V1bXdGUE1naGM4eTNpNDZNUHNITExHUXdCc2w5Z1NwWEF2TmlQWGNyc0FScnllY0VIeW1wV29OVU9aMVR3TjZidEpvNVZqR3UzRm5ieXJEVDJpdnlGbw",
+    "title": "Pedestrian dies after being hit by motorcycle in Mass. city - MassLive.com",
+    "published": "2026-11-05T14:41:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SU1lvQkZFWndSTnlOQm5mMzNaejR4VGFHTDZ1RC1tTTZDWlllVHkwMkdHOFYyRGY3ajk0X255b3NQbnQ2UWtVcHhSR2lod3RGSDdKS25XZ1JKV0VQZUs5V0dZYkFDT2hCbU1Z",
+    "title": "D.A. Identifies 74-Year-Old Victim Struck by Motorcycle in North Attleboro - WBSM.com",
+    "published": "2026-11-05T15:10:45+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEVTOVQtYXhRZ3p2akxsbWRPeE5NOTNiV091SjJNaE92d19QZzNQN1ROeG5kYTVCNkdrQ25jcWhiQV9oQ0YyNUk0V2d3Q2Fhb0szcXB3azRYcWhfX0RRSklnQ3ZlcTZ1OF9QUmNMM2ZZSFNjcVctdDM2bkFPdTVhOTh1cS14LW5OVkMxVUV1WEJ0bnVXZGQyVXlMbkV3SzJEV3lLLWpSTjk4VWRRY1ZXYnVGVXdjeGN4YUlIQWpWVFpYMG9aZ0RmRHNVRlhuRkFuRnhTcnVEcF93d1VjakdKQzNRNzl2VGlWTXZYNVAzN0Q",
+    "title": "74 year-old North Attleboro man struck by motorcycle has died - The Sun Chronicle",
+    "published": "2026-11-05T14:19:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGNVbU04dy1xbDNmUXZGWVJXWmppcXNscVdFdUlmQnZqNmI5UUEtakFrWFF6UDBfX1pES1J6WFpHVjI1dWRvMmowTllqS3dCTjlJSFpyVDJFSnFmOFFxWktMZHNBZzExaDBXUUI5ZHV6VGZvMER3UzBYbUF0Q3FDZVFydHlocWl3T1NSd0FZN3ZBc2tBODhORXBmSUJacjZ1akFLMnRZcVdGZUI3dTVubzhXNy0",
+    "title": "Bristol County DA identifies man killed in North Attleboro pedestrian highway crash - Fall River Reporter",
+    "published": "2026-11-05T13:58:11+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM0hINTdIb1FqRXczZU5VVjlNcVdIMjR3NDkyclVmWGpIekxuLVhRc3JiVFN2QlNld1pYX3pMSjhURjNGdGpsSURRMUdMNFlsRzNnU0J0dDYtX3JQYktCRVI0V3BmNE5tOEgxcFEyazZZelBUSGU1ekhuNmxlWGJZc0ZUU1BYZzdYbUE4WW1aUEd1UGZwVzZzdmNua3FkYndsTFFBYW43SzhOWThQNThwcUQyYm4ySG85S3VZcjQzcjlrNVlhNXRRSHBoTQ",
+    "title": "Pennsylvania Woman Fatally Struck By Vehicle On Route 4 In Fair Lawn - News12 | New Jersey",
+    "published": "2026-11-03T20:38:20+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNclpZTUdvMmE0YjVUeEp3akpFRHQ5NWp1LVFWTkNpMEk2T1UtUDJxY3gxampqY1R6V3FuSndmZDNLMGV3X1ZrdzJhYy00UTBHWUN5RDFBLTdQY3ZZWGlJdXBDWVUzQm9lMHlDV05ub1hmNGdod0dYM1ZKd0FlbWNlTVRvZzczUQ",
+    "title": "Crash in Charlestown knocks down utility pole - WLNE-TV (ABC6)",
+    "published": "2026-11-05T09:17:41+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTkUtbk1CbzVrV3h1Z1BGRWZqd0FVd2FCOGY1d2hHS1ZwN3A3ODk2QmtBMEZVSXZhZG5aX3M4RExjbUZSeUppRlU4V1R3UnNXNERrWlNkNjZ3MGJic2VSekVrOHJ4SFgxX08tbjJmS0kzLTY2TDc1ZUhCTlRoUXVCLW5hT1VmcWZCTUM0SUlaOEwxUlMtZWI0Um1CUXh5ZGxpWkNpQXJLb1QwbS01V1ZZcno0SGhydzMwM3dFVlhlZElpeUhfVzkxYXVuZmRzWVp5RERKYTEyd2g1WDhI",
+    "title": "Pedestrian killed on Pacific Highway has been identified by Medical Examiner - NewsBreak: Local News & Alerts",
+    "published": "2026-11-04T19:56:03+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdjBDZXJNbWdPZlZOQkJRX0ZNYzlGeGJpRWJsWXk5NmQ4dGlRZjRSU240a2NhTDlfY0s3Q0VEeUY4SUhSQlNPQVNqcEJ5RzNEY0YtQ3d5V2luWVp0N09YUnIwNENsaW10YUR1N3M4S0xBS1pvMnEza2cxOVZHcDJpLTd2ZTYxb2JuTW1OaVRYSDlnWVVIeER1WlU2MWVGSW5wMFRObkVYSEQxeTg1ZGlhanhMcXVtU0pWNWNJMzcxU2diUS15Tkg2TElKWmlzeU9hb2p2TjRSWVBWcVB2Y3B0SA",
+    "title": "73-year-old Modesto man using crosswalk with traffic signal dies after being struck - NewsBreak: Local News & Alerts",
+    "published": "2026-11-05T03:18:26+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3hLLW5XQThONFBBSlBJN2ROX0VnMjVhWERSWkFMTDB2QVpMaHY4ODlpWlprTTVib0dzSlBRc0NLWEQyakw5S1hiclNNdk5BWm4wYnRwajFrd3B1SFR4S0EtVXZPVmQtRFRMbHlYWU5lem1mSGQ0NVNIbDMxdkYyb3RYQUFyMDY1NUpr",
+    "title": "Man dies after being struck by motorcycle in North Attleboro - Yahoo",
+    "published": "2026-11-05T14:38:39+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN2VaOHZVRi04WThSS2R0TUhlTFdDSUVFWDZGbzdIeUh3aDVndUhlYTNlN2FlNnRodjB2WDFnTEtrdmRJb1pLYjVpS0ZacFVhNjNOWE1Xb3BlcWNMM3dwSDZXT01DcFg2T1pwMEw4SHRJeU5uWXhNM1EtTmxmVUk5NncydVZtVmdrVUt5eUpTZEF2NWpWdlN5SHpucVYzTTdESkw2bEhSQ1ZobXp0UG5FNkpiNVI2ZWU2cUVPelJrVHliWTZHT3ZjOEl5S291RUNGN2pVY25rMllNU0gyOUJr",
+    "title": "Matthew Farwell's truck crashed in Easton weeks before he was arrested - WJAR",
+    "published": "2026-11-04T20:44:06+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckxJaHNYZm5Md2hQcTZJMjhZaEw0dWRiYW5pYTk4STNxRVRuSnNuQXZWenp6Y0owS3c1OTZ2SmhHeElLUGZYX0g3MkVhV3BTYkZqVUl1Y1Z4akdDMk9IN2x4Tkt2TlBzSlpINlFCcVhucTY0Y2s0bUJLYUhkdGRtR2t4c2tGUEczdjkzWVJqNlM2aDB4bF90VkVoT3ZQWDNwY0tKUmowbXpJMXhmUUxOSl96RFNGREM5RlpYODVscVlsVDg",
+    "title": "Travel YouTuber dies after being struck by truck in hit-and-run during overseas trip - Dexerto",
+    "published": "2026-11-05T16:17:39+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa1VKVFljQ2VmVjFlVWkxX1c4SkhnQmxoMklaa1dJaFVoU1U3ZFpFTXRKRHhJeHBOZlVhdnBWbXZzMlk1SDhHYjY0eDlVYlcwQUltelJ3WnlCY2p6c0d1czIxd0dOeGNQRXFYMlptYlBqTVZ4VVh1U19zZ3VrVm9ZangtMHQ4bFAtSmV3TXJPeTkwaWt5OUExNjIxRkh1YWtoZ0ZlcHpFSW43RjduRHlPemQxczAySC0zbFNUZjVlTHNHc1N5a3hRRTh0Z21VVzE1RktlanA4MjVhZw",
+    "title": "A 74-year-old man has died after being struck by a motorcycle in North Attleboro. - Facebook",
+    "published": "2026-11-05T15:57:20+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 1
   }
 ]
