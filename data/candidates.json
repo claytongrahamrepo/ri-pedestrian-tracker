@@ -2415,136 +2415,108 @@
     "attempts": 0
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTGxSSWxBd011c0RXTTBxeHlSRnlYNUNVZ1JLRlBWU09JMU5aTUFUcjBDM3NIZ3l0dWVPUXVKRHcxcHFIdmkxaU8yZElDcHk3Y2pzTkNrcG5vWlNLdnl4YUlqUmpFSS1ZU0xXSTZ0OE9TanoySlg4MWg0cGpvMVBqdmFSelEzb1Z0dVV4eEZBNW1kNjhiMkZjdGxpaWR6U1c2SllnY0xZVlhsLUM2S2QwMHpYYWQtT19IMDlmZEh4ZGVJMUNpNVJUc3dHWFlDbXhWQmh6VGJaenRub21SM05JSWpKNUpjQQ",
-    "title": "Pedestrian involved in hit-and-run in Providence - WJAR",
-    "published": "2026-11-09T04:39:03+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOclh1R1JkTVYxTEpPdllWSmRJM0trMExtLUVWWmswWFMzYjlVemFuQ1V5d3Uwa3VGWVA2eXhsYWlqV3FqMHBzbHJuX0h2LU0wR2cyWDRQUUFyUnhXclNLanlwZnJQQVBVQWpDSzVEX29DMFlneVFmT0VSeUV3dTQwaDVIb3ljdGF6QnhOc2NKaXZoSGpYOWlGZWZoUm1vOWVLekZheE0zSi1PUmY3MWV2c19ISHV6U1JlcFRudVVvbmJITTJ4bTJsN3JaYnN5UVB2OE5HQ3hB",
-    "title": "Pedestrian involved in hit-and-run in Providence - WLNE-TV (ABC6)",
-    "published": "2026-11-09T01:23:09+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMElGYmUzZXAxbl9VQV9SZVBNTTdERnRWeE5FOVQxbHowZTZqWEdNNU1hNDFWdXVDRkx3U0M2Y05uWkI5Q3RSM1ZhbnBjaUxNZ1NIcExTbnQ2Q1dNOWU5YmRobEhzcEpRNkRxVjhuVGpSNTN0TEpZTThWTHpUSWlmbEw5V2tXckhZcjhyQjJhWjYwX2ZMTUZJWjdMSkxXTTJRZ0stOEYzczhCT3g0b0RpQ3ZHZjdBUkhITFZ0d2FkOGR1VGUySC04NXEyZU1lS3B2dV80",
-    "title": "Two pedestrians killed in unrelated Blaine crashes just 20 minutes apart - NewsBreak: Local News & Alerts",
-    "published": "2026-11-09T00:55:05+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnpXVVk4U1FOQkY5NmJBd2tPWFlPcnJQMFdBc3hVWDlMTUw4cVRyMElXdG51dUJGMnVyYzNqeHJOeXNkeE4wX19NdERoWlZjSjRKR01SVUN3MHY0RWRpcGp3Z3Y2RllneGRNUnpPVWVIRXpwa0h5emszVXNTVGNaRzZncENfbThLV1JBaHRIZ08xQklVa01QcVRJSkJOUGs5bnNxVDNnTHZnSEdRWTVOVXdtNA",
-    "title": "Pedestrian injured when struck by vehicle at crosswalk in Woonsocket - NewsBreak: Local News & Alerts",
-    "published": "2026-11-07T03:28:40+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSGVROU1ub1duZW82d1VnV2tDeHFmX3JGbWpKTElXYXludnU0akpJX2tNUFBMTjdybVlxbjFEWWVsSk1vSEpmNGpucjluWnh2UW5pekJZRmtSOGo0V3NVZnhXcTdvdlNSR0R0WUU5T2pnVmpfLWpZeWN5RlRtV2duak5hYTE5em9yMW9MRWR5dTZvYUhrUVFEMDRoWUhtVEJDOUk5X2U4dkpiVmV6RVZ3a1ZQOFhTaFdDNGtTYU12QVE4WjdNYXI3SVd3",
-    "title": "Woman Struck By SUV On Sunrise Highway Critically Injured In Massapequa - NewsBreak: Local News & Alerts",
-    "published": "2026-11-07T18:09:19+00:00",
-    "source": "google-news:pedestrian struck \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFQyR0VGbVlmLTd3QXpib1RoZG15eFF2Z0dZLU8ta2lZMGJVSG5hamlNTXl6UEE2MlkxaWVJWXVVMi1zM196QXlZbGsyMldWVmJzTS1Wa1pTeDZjVGZIdjlucE5pT2xkRkQwTVBaTmZydWJDLTZZaHhvRG5Gd3dxMXdZTVBBTkZkQWd2R2w1akVULVdUbzUyTHVqU3hiMkFuR2t6Vk1TMGVVUXNE",
-    "title": "Fun into tragedy: Massachusetts man killed in ATV crash, remembered as selfless - Fall River Reporter",
-    "published": "2026-11-09T03:46:01+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajFCUzhPaFRHWVlnemhnYlhoYzZtbmRmeW9VMklzWG1vTGRzVk5mX3dMdXpTTXZ6RzJlaWNqdnRPd09jWGpJd18tVll1NWw2cFpGNUpNU19NWm5mZDVfalFXVUhxcjIyX0dxemIzTnY5THNiV3ZyY2hTR2Z2bUlYOVZkbXFid294TDg1amhxLWhUUXMzb3Frd29RUDJSRHFGeGlWc1RPdHp2cmdiX21PZA",
-    "title": "Windsor Locks man killed in motorcycle crash was a proud soldier, ‘adventurer at heart’ - CT Insider",
-    "published": "2026-11-09T15:55:26+00:00",
-    "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWdOdklFQUZ5MjJVWm11MzJnQmFnTVlNU1BjVHZMdmxUR2R0eEV5VHFpRWtrbnVaZHppOEJRM0RpcXQxZUdlNVI2Z2lENEx3cXFpQmpXQmpyZnVaZHZpb0N5cngyMmtJcV9wN1NnaW9YTy1paXJSMVpoVEc0ajlYcGhmTS10cGxJMTVnX0VHUkFRU240b0hGZW9xZGpvMl9RbG5YVVhHT3ZBUVVwYk9Vdl96ZE4zcDIzTVM4OGNHWjFLQ1loVTBrNjE0WEJtZjRMS0E",
-    "title": "Pedestrian injured after hit-and-run in Kitchener - The Record",
-    "published": "2026-11-09T18:34:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOa0N4SnZwZE9kVEZkdzVZUElhNlI0LVRmWjl1SGpONTN3QVMybkV4aGFKdlNSeElKRXlxNnA4X0lEX3ZnYXU4ZTdVRkRjQzVSWWN3eV9qNXRkMW9iandtaXV4VklJa2lrQUI4T2wwVnVTUnpmOVFIeEExWlVhT1NDakR4ZHQ4Y1c0blBiZjVFeGdTZ2k3cHdBbkR4MGxUeFRJR3c1d1RKY2FrMzZQRDJveElncnVrQmllYktuYnliQ201dG9NZ2Z2S25WVHM4dW1aOEMzQnV6TDhDM2ZiV3BDdkdoMTJkeWl4TXdXYmNfMDVFcWluNHA0",
-    "title": "Driver ejected from vehicle in 95 crash - WJAR",
-    "published": "2026-11-07T17:04:03+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOW1fMTl5YmhBNm84S1EzRmxpU0hTMXRtTXpvWDVMeTZYa2Y3b0hJRW54SzhVdWxDc3pxNjM4d214NXUxU244Q1NnSVdJN3BkV1F3TzYwX3NmMkhzS05rVVdyaHJhZmVqaGxLMWFNZVRYeEdWUkpMOHJSZmM2V2RlMGVNdHVrMEpjRTZyRnJ0V3F3MDlFWFRCV1A4TnM3LWVnS0Q1OE1lWW91WklkS1hDSVVRbEtIYkFrYU95a1EyOS1VZUhmOURv",
-    "title": "35-year-old arrested in hit and run that injured two - KAKE",
-    "published": "2026-11-08T12:49:00+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVhuWWVfRnNmX2o4dEZpd1FCY2x5YVhUclZqWDJ0cmloUVFlb0tNZnR3RU9rNTdyenpZMFl2SmJSLXZNaUZZLTBZRjRFWk9rN3U5ZVc4MENMel9PVDV4Q0dzSVBIMmZUU1UyNDZPcF9RN0tWUWJlV2ZleWgzeUNFTTdRMFJheXVRNE54a2ZBekMzV0U2Vnlab0gwZGdpRS1ORUhMNU5UTTZ3ZDRVZTMyMHZrQkt2WmJvU2NpdWNOcw",
-    "title": "Norwood police identify suspect in hit and run that injured 2 people - NewsBreak: Local News & Alerts",
-    "published": "2026-11-08T23:32:22+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX3VmTVA0REhWV0dsdTgxX0psUHg1M3J1aTQxei1pMThUUWRPN2Frc2ZucTkyeFFadFZUTVV2T215cTVVLTkzakZiRGE4ejBQbXdybDV5TUtIYkY1eml5YUotYU55RTZYSFk5UHFiUXFQcEhtdl9fa29CQXpSVnFYYzJTRGRlVTVOal85MUFYNDEydjVfdzFnd0lMVHpQQi1OLXAtWktpUnVqWkFac1NfeGhMMHlnN25QOTZBRUw2d281dTJuSUpyaGNDNzZROElTT25GeG90RXdGaTlXOE96NnlGQQ",
-    "title": "Driver Flees After Leaving Pedestrian Unconscious Outside Plymouth Meeting Mall, Police Say - NewsBreak: Local News & Alerts",
-    "published": "2026-11-08T00:53:28+00:00",
-    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbjk1Y3hNYk1rY2JwekxnZ29RTHY1N0ZkbnRmTXZxcldpaC0xeV92WUxJbDRxRGtOcVlQeXJDejlZdWJaVWJFd1VnU193NDk2WjZReHV4RnRaTDVBMXp5SDRNejBJcGFYMzZzbmtTNFU2ZzhoSkNMS016Sk1pak9CVmR1Q2lpZDZULUV3LTd5Z0J3eEx2djRPaVRoYVFlV1d0N25mYmtZUGktN0ZVNjNsN3gtQ3ZFOHhmX0wxM09MZTV2d1JLT0I2WDNuNWg1QmNYdWQ1TDhuZVBkQmJJdlI0OUh2MVdSTUsyZzQtLTZ4THJaX0txaE5FdmJGRDRWN21PelNrQVZUdVN3ZTdG",
-    "title": "Man charged with DWI after crash kills 1 cyclist, injures 20 others - WPEC",
-    "published": "2026-11-08T08:00:00+00:00",
-    "source": "google-news:(cyclist OR bicyclist) (struck OR hit OR killed OR injured) \"Rhode Island\"",
-    "attempts": 2
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzdNcVB2Z2lTMFZ0aVIwa1RMemJQcVk0eERkRVU4QnFlTGhwaTFuM1lVMm11SU5zTVpOdzJwOXVZVkM1NnpsbUhxRU8yTUtFeVNVazlaWVc1REI4RUhHcHBvRGwwaS1HYUdETEVkSkkwS0lkOUt5TzJTUVhQVjRtRjN6QjVIMFg1UlBRa2pDczM1QmZYcktIOElFQ1B1aEJvN2ZwWGMwMVplMDh6MmdLVThlcE5DblhmaFlj",
     "title": "Two drivers killed in head-on crash on South Avenue near Rhode Island Avenue in Red Bluff - KRCR",
     "published": "2026-11-10T02:39:46+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkhvZ2ZsajNSNVdmNDNmVHhOcW9WUm1RNkExSU1Cb3NEZFZZV0U0b1JJZVJHSEVhVmpfYU9xR3o0dS1RMXlBYVNhLXhlVlFMeDBWYjJFMDZLWHNWRVJBdkZOaVk0ZkZ0NFdlLUhtSUdoYVFBRGk3d1FqR1FEam9JTXJjVW5JSkk4dDFlNTluSmdtNThfQW40U2dB0gGfAUFVX3lxTE1CN245UHdvZTFWSHJUSDc5bklETHp6UEZvcm5QTFN1SnNNT29xYjNVQmFORzM4djNRcHZIWTczMllrazZfbXUtS1psOEhHZXhfdkY2NmEzQnp6ZmpHR3dLY1MzeVVwQXd1X2VWNFl1Y0lBbkNLN0dPdHdkQmZ1SFVBd3RuUTFkMFlWWDdJVkcyZkRGdk1hZ1FjQ0Y4cllQRQ",
     "title": "Staten Island road rage: NYPD searching for man after woman struck in NYC - ABC7 New York",
     "published": "2026-11-09T22:15:38+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX3E1VVJxcUlFOUw4aHJRWHRqbGgxSnVCQURMZlhneTMxT1FfdmJMbjEtbTRzUEZ6Q0NKWVBlT2RjdWVZZ0dJYm5ZWmNEenVBZ3U5S0NBVmlHTEJPbUVvZWNvX01Qa3VXMEJQdThXek1UcnNKMFBQbmxXTnlMa3VFMXVRdFFENExsX3BiQmdvWm9YZHE1X2pNbVRPNHRuYWtDY2E1Ulp3T3hZMjZGOF9HdXZrUjhCODRBVXJSU21oaHBuZ2JIaElaVkNpeHRHOU5ZRnE2R0pyQQ",
     "title": "Coroner IDs 12-year-old pedestrian killed in crash Friday - The Bakersfield Californian",
     "published": "2026-11-10T01:33:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjJnUkt2clFjbl9NNlJZV0ZjOGtVSm5RRDRCbWZtczZrQTQtTzhrb0N5ZVBnVlNpbERUMGpmS0V6WERrNnAyb0FxMlAyX3hFVlE5WXgwNTNTTFYzU2dpUHFsdFllbjhwd3lXSUQ4TTlsVHEtRVRvNDNZUjlmVFJDRG1aamlpUkVsNm5pdUJ3",
     "title": "Beaufort man killed in head-on collision, another charged with felony DUI - Yahoo",
     "published": "2026-11-09T21:30:00+00:00",
     "source": "google-news:pedestrian killed \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHJaRVZPTU44TzhhZm5PWkMtV1RZU0V0YktXVjk1WUYya1FRRnJ0MTN6QUx2a3lYM2xoRmhabk5GdXNtYjV3OTZvY3doVExESWpaX1RfazI0TjVfejJZeTZkX2dSV1k3SGZMMzl6M20tQzhGcmZDVTRSSVZycVdrVXdIUWRoZUFsODNYQlVKb21zdldQNlktNnNUYUJPOXVkQU9qNUFlQTl1S0hrOUlKRzhuX1RZenhBRk1CNWwtQXBFTEE",
     "title": "Police searching for Norwood man for allegedly hitting two pedestrians and driving away - CBS News",
     "published": "2026-11-07T23:25:00+00:00",
     "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUm1UY1NnY181YjNhOGVWUml5MUx0ZF9haVZldUxUVG0tQllhY01fRzkxbTVBeWVzdjd1MFlBdlVleGFiSEpLQWswdGc2T2ZyaHB5SVlZY1YtR0lZZlJuQ3FwUFlFRmwtbHFIYmdUU1U4VzZiWHl6TXZmZ056a1VrcVZSMEw5dVZ1M0RJVXkwNUh0LV9oQ2s1RXg4M2djcXlGTzluTlM1dGlnWGZNSkdDWlZUNA",
     "title": "Kanpur: Man killed after being hit by car; search for driver underway - Big News Network.com",
     "published": "2026-11-08T16:04:00+00:00",
     "source": "google-news:(scooter OR wheelchair) (struck OR hit) car \"Rhode Island\"",
+    "attempts": 2
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kSnFCS25ra3ZSaUVlRlVVa3htY3BzLVRyTHVmLWJTbDBJUGpVb2dXbENNR29vTnZUOXBnbnU3UFJlVWxBNnZSRW5TYm56QlhLUlNxaFBJRkM5cFEtU25OZnBHb3RwT0NBQjFCblJTVEZxbkVtdDFWU1I4RWI",
+    "title": "Pedestrian hit by car in Fall River - WPRI.com",
+    "published": "2026-11-11T00:23:26+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWktGX1l4RUE1VHFjeW5qNGs4Q0ZjVVI0V3dUQWJ0eUtZWlJHSXZGSjZBVEZseGFDSjFGUmo1QlJ4ak5KQ3pFa3AwTkIwRnBXeUp4UDlhbHZNVFAzdl8tRjlhMTgyb0FJTmozeW9EbkNvRTJGTVhaZFFfbEtvYnNHTVUzUmRtTG1CR21TdGVrU25TbHZ2cVlkRk9ZZS1Gdw",
+    "title": "Laurel man dead in crash with train in Jasper County - Waterloo-Cedar Falls Courier",
+    "published": "2026-11-11T16:18:00+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2k5ckVCek5TT3dibGxRY1Z6YTYzLUY5ekFraHN2S1B3SlhPUV9aVnA5bThENV95eFVKc2tTZGRFa1lhbS1QdElQeVk4NF9pVGpadGVUcjJRb3lVb09fR3JSX3VJNnRiQUxlUmRyUng4R2FqLXlBMnJ6clNVOUE2NEp0M01vRkN5SjRmRm5zN3VmdjNlcU5RYzJzcXluMjBzaUQ3WmdoR18tS1NhV2dMV0RfMDNnM29oZlBpNVI1clB1Zw",
+    "title": "2 Killed in Tehama County Crash on South Avenue near Rhode Island Avenue - Pacific Attorney Group",
+    "published": "2026-11-10T20:31:14+00:00",
+    "source": "google-news:pedestrian struck \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0JSeTdJcDRDVnFRdkM3WDZDckR4dTlUaVh5T1ZKdExJRzhqalZqRXNhVkNsbVIxdXhUTXA5a25ndTJVRUo4ZkJjQU5NVzkxb0FUa24yVUFnWlRuWHlRWGhla3NUeVl3V241OW8xNjdlak8tdVdKTlMwd0VVQXpiYTRjaV9RUTAtZWRiSTN3eF9fRk44Yjk2R3lZa0ttRmFZX0tUdTMwSVE",
+    "title": "One of two men killed in Taunton crash being remembered, fundraiser created - Fall River Reporter",
+    "published": "2026-11-11T15:46:58+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUIwbF9NalV6anBtVUM4QlBDVE5JMm90VFRUSHZMX0oxU0p0WGJDM1BCS3lyMjBXYlVCNGdIaE13ZmpHZmI2eXdYSVNQb21uc3Zwb0tWeHp3Q1d1X25QaW1OVlA0NkZRTUdUSTJUVGdSMHhONlBhcXRpYVZ1UXNscTlhSFIxVEt4TWRaYmtnc1Q1WDRuemROR1FLUFA0ek9mT2V6S3FFdlo0dW5C",
+    "title": "51-year-old Massachusetts man killed in motorcycle crash was larger than life - Fall River Reporter",
+    "published": "2026-11-10T23:55:34+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZNRmFyOE1MTUVIRnRCRUdmME5HZXFMTG9RUjdINUdFS3lSSTFsZVRiaWk2MFA4YmJjS20zUmFjMnVpdXJjZGU3M3hDdlpRQl9oVEM4cnFUVUNuSUcwNWlvdmttX0kzSWRLWDVqc0lYa21NRzZSWDRpR2lic3JFNUEzVzJfdGNEX0xVekFrUWwyVHZBZ01RVDRubmtYZnQzR3ZXeHF4MVI",
+    "title": "Names released of Nebraska man, teen killed in Linn County crash after police chase - Waterloo-Cedar Falls Courier",
+    "published": "2026-11-09T01:15:00+00:00",
+    "source": "google-news:pedestrian killed \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVB4Y1MzRG1yR2FBWnRUM1k3SkVqVUd1bHo5ZWdHX2pjT2ZOQTFYTUdVSEJOdVB6UXJzOXJEaWEwTU5kNnBQanFwdlN0TUtVbVRwdkh4T0NPdjEtcU5Db2l1blYxWWFYSzNUMWVtXzlzemhnNnVUajdvZEowYlhLTGpBMmpwd2Nl",
+    "title": "Crown Point man dies after being hit by a car in Hobart Sunday evening - nwitimes.com",
+    "published": "2026-11-10T21:35:00+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnV2VjFDOV9jOE1oUHJ4Q3RWbTJXakJQV2N1RVR5Zl80c0xaVkdDWHlXNEdKcFJ1OHVhdS1VaHhoQktfUGh0eTY1U0VJM25ncE9zMFpzQTFFN1NSZmx5LWJINWRCUTlrbE1memh0WFg4OXd1Nk8zLVZJOUp0cVJLdmUwcVBsamsyejJIOHRFY9IBlAFBVV95cUxOdzNxR1BNQV9HTXg5ZHoyV0Z5WjhmMlBhM05IZG5BLUpwcnYtbWdLTjdJS2FYZklhMjRYQ184OG8yRWVXdndFQ1BEeF90QlBYdWk0a3NMQ2pGLTd4MEhmcWdkMlRZanpmMVVCRzNQcWtkZnBaSDdhdWp2ZDdPbUVReG1ZcHgyWkV1dUJhQVNiMXdqb2pr",
+    "title": "80-year-old man hit by car in Fall River - WPRI.com",
+    "published": "2026-11-11T00:12:43+00:00",
+    "source": "google-news:pedestrian \"hit by a car\" \"Rhode Island\"",
+    "attempts": 1
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOalB4RW1BTncwUUYtS0RxcUVrQ1N3WW82bWZMNERVenc3WDFrcXdmdnh5VWhhUklzdlNGYzdRZTF1YV9EX2pnSGFsVXVWXzRVdUpFMC1JQ0g0VjlNd1FRX0dVOTJWT1J1ZXVPMlFKb3Ewa1VRd2pacFp6UFltLVEyLWdJWWlDVlRkSVY4Vk5SSlJzVTNvRkwwT2psaXg0YTUtRHk2Z1AzUzVrcXZUbHpzUFZURnV4ajdJemtnLWVPcm90R0xqVHBQYVg5NV81a1VQS2MyT3FJTkJTWEVCNERFODIxMC04bnJrcXFVcmxXOFFJTUZONDhGYUIxTWIwX0xzanc",
+    "title": "Rex Ryan turns himself in after alleged Nashville hit-and-run injured 2 pedestrians, police say - The Killeen Daily Herald",
+    "published": "2026-11-11T17:15:36+00:00",
+    "source": "google-news:hit-and-run pedestrian \"Rhode Island\"",
     "attempts": 1
   }
 ]
